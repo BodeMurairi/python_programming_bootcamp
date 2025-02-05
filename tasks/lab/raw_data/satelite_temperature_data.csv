@@ -1,0 +1,6001 @@
+Country,Month,Temperature,Humidity
+Burundi,July,21.0,44.86
+Angola,July,40.91,46.24
+Guinea-Bissau,August,44.51,88.77
+Central African Republic,June,48.09,77.23
+Djibouti,May,44.51,70.03
+Cabo Verde,August,24.89,28.77
+Chad,August,40.3,44.13
+Tanzania,May,43.28,14.19
+Algeria,July,40.75,48.67
+Chad,May,48.31,72.23
+Sudan,July,24.55,48.37
+Gabon,June,30.71,71.45
+South Sudan,July,25.35,82.37
+Nigeria,May,29.37,42.77
+Libya,August,20.02,26.42
+Cameroon,July,21.53,29.51
+Congo,May,34.77,48.33
+Namibia,May,36.0,71.49
+Kenya,August,45.73,46.99
+Madagascar,August,30.57,78.6
+Sierra Leone,July,27.65,88.37
+Guinea-Bissau,July,25.41,15.73
+Benin,May,43.23,66.02
+Namibia,June,49.51,19.71
+Central African Republic,May,44.46,14.5
+Burundi,July,35.86,58.25
+Botswana,June,43.18,18.27
+Ghana,June,33.66,42.9
+Guinea-Bissau,May,27.89,79.4
+Senegal,May,29.48,89.56
+Niger,August,45.11,71.41
+Ghana,July,26.79,31.72
+Uganda,August,37.23,88.81
+South Sudan,August,35.21,60.02
+Rwanda,August,28.17,77.45
+Guinea-Bissau,August,30.75,51.19
+Cameroon,July,42.92,37.7
+Burkina Faso,August,39.38,36.44
+Egypt,August,41.64,43.06
+Senegal,June,20.98,41.58
+Ivory Coast,May,41.19,46.01
+Somalia,May,48.54,49.38
+Guinea,May,43.59,15.82
+Cabo Verde,June,23.51,25.83
+Madagascar,July,28.93,13.43
+Gambia,June,27.8,20.46
+Central African Republic,June,45.08,38.7
+Guinea,May,31.0,38.65
+Kenya,July,35.43,30.55
+Namibia,June,40.0,31.66
+Egypt,May,31.47,70.95
+Namibia,August,36.74,69.86
+Lesotho,June,32.06,60.82
+Somalia,June,34.93,64.04
+Mozambique,July,39.94,14.26
+Madagascar,May,35.1,45.09
+Benin,June,46.88,40.52
+Sierra Leone,August,42.75,73.31
+Congo,July,31.7,46.22
+Sudan,August,22.29,84.64
+Gabon,July,46.66,12.42
+Eswatini,May,42.91,86.19
+Liberia,August,48.44,49.12
+Algeria,August,42.89,36.42
+Gambia,July,38.53,81.3
+Botswana,August,45.36,83.87
+Somalia,July,31.0,81.27
+Zimbabwe,July,21.44,12.9
+South Africa,July,31.8,16.63
+Madagascar,July,28.45,58.08
+Djibouti,July,21.96,50.82
+Somalia,May,24.9,73.02
+Ghana,June,47.9,43.4
+Mauritius,August,48.94,89.29
+Chad,August,36.69,72.67
+Uganda,May,49.58,49.68
+Djibouti,August,39.0,74.6
+Eritrea,August,26.08,47.29
+Liberia,August,23.78,73.24
+South Sudan,May,20.07,69.39
+Nigeria,May,28.36,46.75
+Ivory Coast,May,24.21,51.15
+Namibia,August,33.39,78.47
+Libya,May,38.77,33.65
+Congo,May,24.01,54.41
+Democratic Republic of the Congo,August,24.65,68.26
+Mauritius,June,24.76,57.93
+Madagascar,July,31.03,75.81
+Egypt,July,43.75,45.99
+Burkina Faso,May,21.66,47.24
+Malawi,August,42.47,86.39
+Lesotho,August,38.56,61.22
+Uganda,August,27.83,56.67
+Sudan,August,39.45,51.08
+Sudan,June,25.44,17.8
+Libya,June,26.65,41.88
+Central African Republic,June,35.98,30.84
+Cabo Verde,June,20.34,30.24
+Democratic Republic of the Congo,August,30.24,22.5
+Cabo Verde,May,45.45,30.37
+Angola,August,36.46,16.75
+Mauritania,June,33.78,83.46
+Gambia,August,38.11,82.86
+Zimbabwe,July,32.34,38.45
+Rwanda,August,35.54,59.54
+Congo,July,28.61,77.18
+Guinea,August,48.07,66.17
+Benin,August,28.53,48.17
+Burkina Faso,July,44.88,17.83
+Ivory Coast,August,25.65,24.05
+Sudan,May,20.93,31.02
+Guinea,July,41.34,43.59
+Ivory Coast,July,46.9,27.84
+Ivory Coast,August,26.18,56.77
+Central African Republic,May,27.35,77.0
+Burundi,May,46.55,80.16
+Mauritania,June,34.65,81.47
+Somalia,August,28.91,54.18
+Madagascar,May,24.92,36.49
+Somalia,August,25.22,37.43
+Togo,July,27.66,12.14
+South Sudan,June,25.38,56.25
+Democratic Republic of the Congo,July,35.45,34.9
+Central African Republic,May,31.99,53.47
+Chad,July,39.5,28.73
+Somalia,July,39.13,62.16
+Sudan,August,36.37,33.58
+Madagascar,July,29.57,81.46
+Liberia,May,21.66,60.04
+Benin,May,20.73,30.61
+Benin,May,37.52,61.41
+Rwanda,May,25.23,83.07
+Djibouti,June,27.71,78.53
+Libya,May,25.77,67.69
+Senegal,July,43.2,78.96
+Namibia,May,44.71,74.68
+Namibia,August,43.3,33.8
+Niger,May,31.29,30.58
+South Africa,June,24.56,15.37
+Cabo Verde,August,32.22,89.58
+South Africa,June,42.81,24.31
+Algeria,August,23.76,38.66
+Burundi,August,30.87,56.09
+Angola,August,48.42,71.46
+Egypt,August,49.6,61.39
+Gabon,August,36.96,80.26
+Democratic Republic of the Congo,June,38.7,87.29
+Cameroon,July,48.15,37.74
+South Sudan,May,36.96,70.48
+Sierra Leone,May,20.59,61.46
+Nigeria,August,28.32,59.16
+Burundi,May,40.21,41.49
+Mauritania,July,21.11,74.26
+South Sudan,July,45.54,33.52
+Malawi,July,23.64,62.94
+Mali,July,29.22,39.58
+Guinea-Bissau,June,45.44,69.82
+South Sudan,July,24.52,86.3
+Morocco,July,48.31,25.2
+Niger,July,20.65,82.89
+Nigeria,June,40.86,15.83
+Mauritania,August,33.29,32.22
+Tanzania,June,27.97,53.45
+Niger,August,33.9,71.17
+Burkina Faso,July,25.59,70.82
+Burkina Faso,August,30.5,77.82
+Ivory Coast,May,27.13,40.01
+Burundi,June,20.19,84.02
+Mozambique,August,31.21,37.14
+Nigeria,July,29.5,79.41
+Liberia,May,21.91,54.78
+Zambia,July,20.7,11.08
+Mauritius,July,25.4,76.48
+Lesotho,June,37.4,33.13
+Algeria,May,37.33,70.14
+Egypt,August,25.18,44.8
+Liberia,July,42.68,33.96
+Ivory Coast,July,29.54,10.91
+Central African Republic,May,43.12,79.21
+Congo,May,41.16,60.62
+Ivory Coast,August,43.18,88.45
+Ethiopia,May,49.59,73.92
+Cabo Verde,July,25.83,78.23
+Zimbabwe,May,27.7,81.83
+Cabo Verde,August,41.22,42.23
+Comoros,June,48.72,39.23
+Tanzania,May,31.94,81.25
+Togo,August,38.43,17.8
+Ethiopia,May,29.8,19.42
+Senegal,July,20.63,22.92
+Gabon,May,21.32,28.04
+Mozambique,August,26.86,88.0
+Benin,May,28.33,13.24
+Senegal,June,38.41,81.76
+Tanzania,May,40.87,86.85
+Burkina Faso,May,20.79,52.6
+Zambia,August,49.54,80.82
+Sao Tome and Principe,July,35.77,14.44
+Equatorial Guinea,June,48.42,49.12
+Zimbabwe,July,37.97,32.75
+Zambia,May,38.71,13.03
+Lesotho,June,22.47,54.96
+Nigeria,May,24.43,15.93
+Gambia,June,38.5,17.02
+Zimbabwe,July,45.16,68.65
+Tunisia,August,23.36,60.33
+Tanzania,June,26.89,35.32
+Tanzania,June,44.45,82.57
+Ghana,August,49.04,68.69
+Guinea,July,47.31,60.83
+Ghana,June,48.86,25.42
+Seychelles,June,26.38,60.08
+Egypt,August,28.97,66.07
+Seychelles,May,39.02,24.69
+Chad,July,45.31,17.9
+Senegal,May,36.87,89.96
+Niger,July,37.96,79.47
+Eritrea,May,32.02,31.81
+Benin,June,36.16,31.19
+Congo,June,26.95,49.53
+Benin,August,30.98,28.83
+Comoros,July,36.33,39.42
+Mauritania,July,42.31,60.96
+Rwanda,May,33.29,23.38
+Liberia,July,40.32,18.49
+Algeria,August,42.35,20.96
+Guinea,May,28.01,47.02
+Liberia,July,29.08,88.34
+Mauritania,August,37.35,89.02
+Togo,August,27.49,66.58
+Eritrea,June,39.14,52.77
+Gambia,May,20.62,70.94
+Sudan,July,30.0,73.13
+Eswatini,May,40.01,53.54
+Zambia,August,41.34,13.27
+Congo,June,36.59,82.09
+Congo,June,22.81,57.15
+Liberia,August,45.42,43.56
+Tanzania,August,49.71,23.38
+Sierra Leone,June,32.54,38.3
+Algeria,August,39.85,40.28
+Gabon,May,42.59,88.25
+Angola,June,30.26,52.52
+Sierra Leone,May,39.65,32.75
+Uganda,July,36.92,65.56
+Gambia,June,44.18,31.41
+Congo,May,35.95,87.95
+Liberia,May,49.97,79.11
+Liberia,July,22.68,25.71
+Sierra Leone,June,47.41,84.84
+Seychelles,August,33.22,68.34
+Djibouti,June,41.47,84.83
+Libya,August,45.13,26.54
+Congo,May,34.31,26.03
+South Africa,August,24.98,57.98
+Kenya,May,34.9,81.03
+Ghana,July,46.02,35.15
+Djibouti,June,41.48,47.66
+Cameroon,August,32.29,55.39
+Guinea-Bissau,May,45.19,45.71
+Nigeria,August,27.08,49.28
+South Sudan,June,38.73,60.66
+Zambia,May,34.26,84.98
+Lesotho,July,30.8,79.97
+Lesotho,July,21.3,37.48
+Eswatini,July,27.78,81.12
+Ivory Coast,June,40.53,66.03
+Cameroon,June,47.44,42.46
+Namibia,August,32.62,45.33
+South Sudan,July,22.12,89.42
+Mozambique,June,40.05,36.36
+Congo,June,45.06,25.35
+Namibia,July,44.97,87.39
+Mozambique,August,24.2,31.88
+Togo,May,35.6,18.62
+Chad,June,43.59,79.0
+Comoros,August,21.03,88.18
+Rwanda,July,26.91,43.96
+Guinea-Bissau,August,35.55,12.74
+Chad,May,46.84,48.29
+Burundi,May,42.51,35.62
+Egypt,July,49.54,59.15
+Equatorial Guinea,June,31.67,33.27
+Chad,August,46.99,18.04
+Central African Republic,May,22.65,30.99
+Mali,August,25.56,39.11
+Namibia,August,20.82,86.74
+Eswatini,May,26.1,65.41
+Lesotho,June,45.55,29.88
+Cameroon,August,48.64,57.55
+Rwanda,June,24.85,69.71
+Nigeria,July,37.17,32.27
+Nigeria,May,25.51,85.54
+Benin,August,33.97,60.21
+Libya,July,30.75,60.55
+Madagascar,August,37.15,80.4
+Central African Republic,August,42.37,78.58
+Eritrea,June,29.34,85.85
+Uganda,May,22.1,22.31
+Morocco,June,49.5,36.56
+Kenya,August,22.55,72.04
+Cabo Verde,May,41.28,54.88
+Ghana,July,33.49,20.1
+South Sudan,June,38.93,28.97
+Liberia,June,28.62,35.06
+Malawi,July,30.49,13.61
+Burundi,May,26.93,35.21
+Somalia,August,45.49,12.75
+Central African Republic,May,20.01,48.84
+Liberia,August,41.23,71.0
+Sudan,August,20.51,12.41
+Morocco,May,39.35,48.24
+Comoros,July,45.19,40.59
+Malawi,July,48.82,85.78
+Malawi,August,23.06,62.23
+Liberia,August,26.0,84.18
+Sudan,June,42.91,58.05
+Namibia,August,35.28,42.83
+Burundi,June,42.22,36.93
+Uganda,August,28.9,56.76
+Algeria,May,48.5,26.56
+Central African Republic,August,42.09,89.69
+South Africa,June,47.47,44.68
+Rwanda,June,26.21,23.57
+Sao Tome and Principe,July,31.21,43.82
+Mauritania,July,30.15,23.12
+Cabo Verde,June,22.68,67.78
+Egypt,July,21.15,31.07
+Equatorial Guinea,August,23.24,57.76
+Nigeria,August,30.3,43.3
+Algeria,August,23.68,33.71
+Guinea-Bissau,May,37.05,76.07
+Egypt,May,26.83,51.78
+Niger,June,41.48,38.09
+Congo,July,23.23,75.39
+Cameroon,August,29.96,87.64
+Somalia,July,47.9,42.5
+Zambia,June,39.23,41.53
+Niger,May,43.66,55.09
+Lesotho,August,47.31,49.46
+Eritrea,July,34.39,48.9
+Mozambique,July,40.06,49.01
+Seychelles,May,48.35,65.94
+Morocco,June,20.86,37.47
+Gambia,July,41.85,15.22
+Ethiopia,August,30.87,41.35
+Cabo Verde,June,40.99,37.92
+Burkina Faso,August,25.44,15.77
+Tunisia,July,28.18,51.61
+Namibia,July,29.0,77.79
+Liberia,June,33.66,41.03
+Congo,August,41.97,55.03
+Sudan,July,46.72,54.77
+Ghana,June,28.63,72.38
+Sudan,July,39.15,75.06
+Mauritania,August,46.64,57.29
+Nigeria,July,37.45,67.22
+Kenya,August,44.19,14.06
+South Africa,August,21.21,83.67
+South Sudan,August,30.12,23.87
+Senegal,August,28.17,28.31
+Ghana,June,21.04,56.27
+Sierra Leone,June,39.96,80.09
+Angola,June,48.57,29.71
+Niger,May,25.54,78.2
+Seychelles,July,21.7,14.49
+Angola,July,30.97,65.83
+Eritrea,May,31.55,72.09
+Lesotho,July,37.48,11.08
+Cameroon,August,23.45,41.55
+Lesotho,May,22.38,48.49
+Eswatini,May,23.62,38.75
+Senegal,May,34.74,16.11
+South Sudan,August,43.86,23.14
+Guinea,May,20.35,85.06
+Cabo Verde,June,33.52,34.57
+Lesotho,June,36.18,78.14
+Morocco,August,36.17,10.23
+Mauritius,July,49.09,11.8
+Cabo Verde,August,32.93,40.75
+Tunisia,June,34.35,84.34
+Sao Tome and Principe,June,41.53,26.19
+Madagascar,July,24.5,49.64
+Algeria,May,45.04,12.94
+Eritrea,June,31.56,36.23
+Niger,May,25.13,18.02
+Seychelles,July,38.03,88.68
+Djibouti,May,49.69,49.26
+Democratic Republic of the Congo,August,24.48,80.87
+Central African Republic,May,37.25,65.18
+Tanzania,July,26.91,19.94
+Burundi,August,21.59,11.48
+Sierra Leone,June,27.77,15.88
+Algeria,July,27.79,56.9
+Ethiopia,August,23.8,55.51
+Rwanda,May,33.33,38.8
+Democratic Republic of the Congo,August,26.87,62.68
+Seychelles,May,46.93,57.57
+Central African Republic,August,44.33,26.73
+Morocco,August,26.17,67.14
+Congo,May,47.63,42.6
+Kenya,June,20.14,10.82
+Seychelles,June,38.87,26.97
+Madagascar,July,27.89,64.73
+Cameroon,July,30.14,89.2
+Gambia,May,23.86,68.4
+Congo,May,37.2,39.57
+Sudan,June,33.57,86.34
+Niger,May,41.35,57.17
+Egypt,May,26.14,46.9
+Mali,May,26.05,36.89
+Malawi,June,38.76,41.45
+Rwanda,August,49.28,43.97
+Malawi,August,30.83,38.23
+Sao Tome and Principe,May,43.57,72.52
+Central African Republic,May,48.14,72.59
+Botswana,May,23.32,42.18
+Angola,May,41.06,28.91
+Sudan,July,38.82,60.11
+Liberia,June,41.96,58.03
+Kenya,June,25.65,75.59
+Guinea-Bissau,May,37.22,88.63
+Algeria,July,33.46,57.24
+Ethiopia,May,44.99,74.82
+Mali,June,27.98,26.88
+Cabo Verde,May,42.75,56.32
+Guinea-Bissau,August,22.02,85.17
+Gambia,May,20.84,88.98
+Liberia,June,48.25,48.69
+Namibia,July,25.67,64.12
+Central African Republic,June,48.96,14.51
+Benin,May,21.2,26.08
+Djibouti,August,45.35,70.61
+Morocco,July,34.04,76.82
+Chad,July,27.18,65.83
+Burkina Faso,August,44.13,52.2
+Zambia,May,48.79,53.68
+Senegal,May,33.01,27.48
+Cabo Verde,May,46.07,47.09
+Togo,July,34.0,13.05
+Tunisia,June,25.27,69.77
+Chad,August,29.79,65.41
+Tunisia,August,40.19,55.17
+Somalia,May,31.32,54.54
+Tunisia,May,23.78,75.73
+Botswana,June,41.79,27.45
+Mauritius,May,43.39,73.59
+Lesotho,July,31.23,45.78
+Madagascar,May,29.24,41.25
+Democratic Republic of the Congo,May,32.57,58.46
+Mali,August,35.69,67.46
+South Sudan,August,32.12,11.28
+Lesotho,May,34.49,75.6
+Ethiopia,June,22.45,79.81
+Madagascar,June,37.49,38.81
+Chad,May,49.67,14.58
+Somalia,May,24.89,60.31
+Guinea,June,29.05,36.88
+Burkina Faso,May,37.48,41.47
+Comoros,August,49.69,59.98
+Liberia,June,45.89,86.78
+Egypt,June,45.46,49.6
+Equatorial Guinea,July,27.59,18.89
+Guinea,July,47.47,56.37
+Mauritius,May,27.14,82.91
+Sudan,June,48.04,64.6
+Morocco,August,20.71,10.28
+Zambia,July,41.73,64.13
+Mali,June,29.66,58.65
+Comoros,May,47.6,75.27
+Somalia,July,30.04,80.85
+Libya,July,36.65,40.52
+Morocco,May,37.31,19.21
+Zambia,May,22.91,71.52
+Liberia,August,29.73,15.37
+Rwanda,June,21.2,66.71
+Comoros,August,36.61,75.74
+Eswatini,June,35.16,18.14
+Guinea-Bissau,June,48.71,79.15
+Tunisia,June,40.17,42.35
+Togo,July,46.51,29.82
+Botswana,August,32.58,26.63
+Madagascar,July,42.47,27.94
+Kenya,July,43.04,71.78
+Botswana,July,45.73,44.96
+Egypt,May,36.07,59.68
+Togo,July,23.72,52.96
+Tunisia,May,25.84,30.16
+Niger,July,27.8,84.69
+Ethiopia,August,35.58,33.66
+South Africa,May,43.02,71.5
+Kenya,July,31.35,41.8
+Mauritius,July,34.96,71.96
+Mauritania,July,42.8,61.68
+Libya,August,25.76,48.32
+Madagascar,August,40.97,26.41
+Mali,July,40.62,20.81
+Namibia,May,35.15,64.52
+Tanzania,August,45.67,47.2
+Algeria,July,27.05,54.34
+Uganda,July,49.29,77.9
+Kenya,June,24.17,73.93
+Libya,May,21.43,42.65
+South Sudan,August,47.85,20.2
+Senegal,July,28.3,54.38
+Ethiopia,July,32.07,45.4
+Sierra Leone,May,49.26,50.95
+Malawi,July,34.08,73.57
+Liberia,August,36.05,53.24
+Mauritania,July,33.9,75.6
+Lesotho,May,34.97,24.32
+Ghana,August,36.0,51.55
+Ethiopia,July,34.14,27.98
+Mozambique,May,37.32,65.46
+Democratic Republic of the Congo,June,38.49,27.55
+Mali,June,36.38,15.96
+Central African Republic,May,34.73,39.55
+Madagascar,July,48.82,31.23
+Senegal,May,42.32,80.34
+Uganda,June,43.39,66.6
+Chad,May,48.75,22.9
+Mozambique,May,23.01,14.01
+Mozambique,June,28.56,25.5
+Somalia,May,35.04,30.6
+Malawi,July,46.83,61.7
+Liberia,May,33.59,87.9
+Mauritius,May,47.53,57.18
+Gambia,May,35.82,82.1
+Mali,July,33.22,69.18
+Madagascar,August,20.28,56.59
+Burkina Faso,July,24.23,63.88
+Cabo Verde,June,27.71,76.1
+Gabon,June,26.33,72.9
+Angola,June,42.75,25.0
+Cameroon,May,29.05,51.12
+Senegal,July,45.53,19.92
+Guinea-Bissau,July,21.27,29.82
+Somalia,June,39.05,49.77
+Malawi,July,29.35,44.42
+Morocco,August,40.25,46.08
+Algeria,June,25.38,18.63
+Democratic Republic of the Congo,June,40.59,67.16
+South Sudan,August,46.83,19.13
+Senegal,July,49.83,88.2
+Cabo Verde,July,45.48,69.66
+Libya,May,24.39,52.97
+Rwanda,June,49.52,20.48
+Sao Tome and Principe,May,38.93,55.77
+Zambia,August,29.22,41.67
+Senegal,July,27.49,38.01
+Benin,May,40.17,42.71
+Senegal,July,44.04,63.25
+Zimbabwe,August,25.85,64.1
+Sudan,May,40.81,24.58
+Benin,July,48.88,72.33
+Seychelles,June,30.57,51.39
+Niger,July,21.14,38.59
+Algeria,June,26.19,45.22
+Tunisia,June,28.75,45.55
+Algeria,July,41.01,10.88
+Zimbabwe,May,21.5,84.22
+Burundi,May,29.42,55.91
+Eswatini,July,42.65,68.56
+Angola,August,45.94,75.27
+Eswatini,July,30.52,62.92
+Zambia,May,45.75,66.79
+Eswatini,August,32.83,50.11
+Libya,July,41.13,67.2
+Lesotho,August,24.32,81.79
+Algeria,July,21.43,20.43
+Senegal,June,49.84,65.97
+Senegal,June,27.49,34.99
+Sierra Leone,August,33.85,83.11
+Egypt,June,26.87,56.32
+Tunisia,August,23.6,18.14
+Seychelles,May,35.06,57.62
+Libya,May,40.5,43.35
+Niger,May,28.55,63.97
+Cameroon,August,34.13,16.62
+Angola,May,49.77,34.41
+Democratic Republic of the Congo,July,48.07,10.72
+Tanzania,May,46.45,62.79
+Mauritius,May,29.26,64.11
+Djibouti,June,36.33,64.29
+Senegal,May,42.05,55.39
+Congo,August,23.24,41.68
+Congo,July,37.8,27.97
+Congo,June,37.7,34.43
+Djibouti,May,42.72,44.23
+Congo,July,41.41,48.03
+Morocco,May,39.93,88.95
+Morocco,July,35.0,16.24
+Cabo Verde,August,44.87,62.4
+Mozambique,May,34.95,43.22
+Zambia,June,40.19,32.81
+Cameroon,June,49.34,18.33
+Ethiopia,August,45.65,36.76
+Tunisia,August,47.92,60.77
+Ethiopia,August,44.57,75.14
+Seychelles,August,37.22,31.54
+Burundi,August,45.42,36.33
+Congo,May,36.66,47.46
+Sudan,June,21.37,38.96
+Malawi,July,49.65,70.77
+Egypt,August,26.59,82.36
+Mauritania,July,47.18,49.4
+Sao Tome and Principe,May,32.65,30.25
+Sao Tome and Principe,August,38.16,76.5
+Libya,June,25.15,19.33
+Somalia,July,36.91,12.71
+Mali,August,32.99,86.83
+Chad,June,40.71,89.05
+Namibia,August,24.85,44.31
+Djibouti,June,41.53,65.42
+Rwanda,July,30.59,29.48
+Equatorial Guinea,May,38.22,73.96
+Eritrea,August,46.98,55.37
+Mauritania,July,38.78,30.03
+Mozambique,May,47.61,49.26
+Zambia,June,25.65,52.36
+Cameroon,June,33.32,49.16
+Eswatini,August,35.37,35.49
+Botswana,May,44.14,61.87
+Egypt,June,38.45,78.7
+Cabo Verde,July,47.35,81.7
+Congo,August,36.52,48.43
+Madagascar,June,44.63,60.42
+Equatorial Guinea,June,26.9,32.69
+Lesotho,May,41.81,89.14
+Central African Republic,July,20.53,42.06
+Sao Tome and Principe,July,26.96,41.36
+Namibia,July,38.53,37.54
+Equatorial Guinea,May,46.49,72.58
+Togo,August,38.62,25.27
+Tanzania,July,39.55,40.53
+Chad,August,35.64,42.26
+Morocco,July,25.21,43.54
+Somalia,May,28.54,69.32
+Niger,June,39.23,15.87
+South Sudan,August,32.21,30.4
+Eswatini,May,47.04,25.56
+Gambia,June,29.73,27.74
+Madagascar,June,33.67,55.49
+Libya,July,38.74,53.24
+Cameroon,August,38.3,45.3
+Sudan,July,24.05,45.47
+Seychelles,June,39.92,42.53
+South Sudan,August,48.18,24.59
+Gambia,July,25.27,21.59
+South Africa,June,31.11,24.05
+Guinea-Bissau,July,43.75,52.91
+Botswana,July,40.01,56.39
+Egypt,July,26.02,25.07
+Guinea,July,48.2,24.79
+Guinea,August,44.18,26.29
+Equatorial Guinea,June,31.98,24.64
+Ethiopia,June,24.43,71.47
+Angola,May,28.4,87.48
+Guinea-Bissau,August,46.82,86.56
+Egypt,August,27.75,44.79
+Equatorial Guinea,May,45.86,28.08
+Madagascar,June,43.12,39.53
+Angola,June,42.74,70.68
+Rwanda,May,21.62,89.98
+Tanzania,June,38.32,88.08
+Mozambique,July,30.86,70.82
+Zimbabwe,May,34.64,74.85
+Ghana,June,32.36,23.7
+Cameroon,July,38.47,86.29
+Malawi,June,40.23,84.43
+Botswana,May,48.33,65.3
+Morocco,May,21.65,60.27
+Burkina Faso,June,44.52,19.34
+Namibia,June,49.97,81.33
+Ivory Coast,May,43.39,67.69
+Burkina Faso,August,34.56,47.97
+Guinea-Bissau,May,25.47,47.42
+Democratic Republic of the Congo,May,25.41,88.09
+Cameroon,May,35.65,89.1
+Cabo Verde,June,49.63,55.87
+Mozambique,May,22.38,46.83
+Comoros,July,23.07,25.87
+Lesotho,June,44.65,87.84
+Congo,May,44.8,30.66
+Mali,May,39.49,55.96
+Democratic Republic of the Congo,June,23.84,76.86
+Togo,June,34.77,66.53
+Mozambique,May,20.14,68.88
+South Africa,July,20.25,78.77
+Algeria,May,39.1,61.16
+Seychelles,June,43.18,66.12
+Togo,August,34.22,82.12
+Congo,July,30.61,73.86
+Sierra Leone,June,38.81,66.28
+Botswana,May,35.25,75.32
+Malawi,July,31.88,63.58
+Mali,June,43.29,47.58
+Botswana,June,49.6,36.64
+Benin,August,42.9,50.55
+Burkina Faso,July,24.84,21.6
+Eswatini,August,31.52,82.51
+Algeria,July,35.65,74.34
+Benin,May,23.92,72.49
+South Africa,July,38.98,74.86
+Guinea-Bissau,July,49.14,75.35
+Mozambique,May,25.17,70.44
+Uganda,June,23.77,44.48
+Gambia,July,23.39,43.14
+Mauritius,May,46.49,78.0
+Burkina Faso,July,47.66,73.46
+Libya,August,20.5,76.05
+Congo,July,42.98,88.08
+Togo,June,22.75,78.19
+Namibia,July,30.65,21.24
+Guinea-Bissau,August,28.31,45.5
+Rwanda,May,35.48,23.68
+Angola,May,36.34,65.18
+Togo,May,45.8,58.6
+Rwanda,July,44.14,26.29
+Madagascar,May,21.45,87.38
+Guinea,July,42.58,10.92
+Malawi,June,22.56,11.14
+Cameroon,August,28.53,67.66
+Sierra Leone,August,34.8,72.9
+Zambia,May,26.81,30.66
+South Sudan,July,43.27,61.04
+Uganda,May,40.41,65.14
+South Sudan,July,42.95,64.8
+Cameroon,July,39.4,19.77
+Nigeria,June,45.55,22.75
+Djibouti,August,36.04,60.62
+Uganda,June,46.17,62.39
+Liberia,May,48.6,85.84
+Tunisia,May,26.57,28.77
+Sao Tome and Principe,August,40.75,23.95
+Morocco,June,25.51,68.55
+Eritrea,May,24.7,15.02
+South Sudan,June,39.64,74.68
+Angola,May,38.44,23.48
+Sudan,August,20.38,33.77
+Equatorial Guinea,May,37.39,51.99
+Burkina Faso,August,28.17,18.94
+Comoros,June,34.09,53.18
+Angola,June,21.81,45.65
+Benin,July,47.23,26.43
+Angola,May,26.13,71.25
+Tunisia,August,40.31,26.1
+Botswana,July,25.21,59.36
+Seychelles,August,22.79,11.73
+Benin,May,22.9,71.18
+Comoros,May,31.31,87.26
+Djibouti,July,25.87,39.17
+Central African Republic,August,31.54,30.43
+Central African Republic,July,27.38,55.48
+Ghana,August,49.4,16.09
+Kenya,July,32.37,25.49
+Guinea,May,25.56,55.49
+Djibouti,August,21.2,87.95
+Gambia,August,23.02,88.49
+Zambia,June,24.28,53.2
+Chad,May,23.6,51.3
+Rwanda,July,21.23,10.43
+Comoros,August,40.14,31.13
+Libya,June,25.21,82.91
+Ivory Coast,August,22.82,53.76
+Tunisia,August,33.83,49.7
+Togo,July,38.13,48.5
+Lesotho,June,34.49,12.52
+Burkina Faso,August,48.95,20.93
+Zambia,May,27.33,53.85
+Namibia,July,34.74,37.68
+South Africa,May,37.79,40.95
+Liberia,May,41.74,89.36
+Guinea,June,29.37,86.32
+Lesotho,August,34.11,85.63
+Sao Tome and Principe,May,36.84,48.5
+Somalia,August,46.52,14.36
+Mauritius,August,24.3,84.51
+Nigeria,August,34.76,40.26
+Ivory Coast,July,41.32,49.42
+Zimbabwe,August,26.07,18.28
+Angola,May,44.15,60.7
+South Africa,June,43.3,59.42
+Burkina Faso,June,24.05,11.96
+Zambia,August,24.25,32.27
+South Africa,June,42.93,48.7
+Mozambique,July,46.11,71.43
+South Africa,July,29.56,57.15
+Botswana,June,32.01,76.33
+South Africa,May,37.72,76.25
+Ethiopia,June,43.44,63.64
+Lesotho,August,44.38,31.03
+Congo,August,33.88,45.62
+Congo,June,49.94,50.92
+South Africa,May,34.6,49.95
+Tanzania,August,35.88,61.4
+Zambia,July,35.75,25.52
+Rwanda,June,39.9,77.56
+Mauritania,June,49.92,21.9
+Togo,June,22.95,33.52
+Mali,May,31.51,22.41
+Angola,June,22.79,22.41
+Rwanda,July,44.15,35.62
+Kenya,July,37.67,25.41
+Mauritius,August,42.03,66.64
+Botswana,May,38.32,71.67
+Zimbabwe,May,49.17,51.7
+Madagascar,May,41.84,59.14
+Tanzania,June,38.89,20.14
+Chad,August,30.84,84.94
+Sudan,August,27.31,66.36
+Burkina Faso,May,23.81,72.9
+Tunisia,May,24.69,77.63
+Angola,July,41.22,77.21
+Benin,June,24.41,77.68
+Morocco,May,47.43,19.69
+Comoros,July,32.26,26.2
+Uganda,July,23.75,21.12
+Guinea-Bissau,August,47.05,60.06
+Lesotho,July,32.03,40.81
+Congo,August,49.81,65.3
+Cabo Verde,May,48.62,56.93
+South Sudan,May,44.38,15.64
+Mauritius,May,44.12,40.73
+Sao Tome and Principe,July,25.71,11.37
+Angola,May,40.76,19.34
+Mauritania,June,43.82,83.04
+Libya,June,40.26,15.09
+South Sudan,August,20.8,24.88
+Madagascar,July,23.44,88.99
+Somalia,June,24.74,71.42
+Burkina Faso,August,42.37,40.64
+Ethiopia,August,26.53,24.31
+Sudan,May,21.05,64.54
+Gambia,June,20.48,55.35
+Democratic Republic of the Congo,July,24.46,61.69
+Chad,May,27.71,68.05
+Sudan,June,35.75,33.92
+Gabon,August,49.18,19.41
+Niger,May,40.01,49.02
+Cabo Verde,August,32.16,62.2
+Ghana,June,32.27,67.68
+Mauritania,May,38.06,26.77
+Tunisia,June,28.11,35.51
+Mauritius,July,37.35,12.81
+Eswatini,July,26.2,37.55
+Central African Republic,July,31.49,51.02
+Algeria,May,34.41,79.68
+Algeria,August,40.64,53.5
+Morocco,June,21.15,28.34
+Democratic Republic of the Congo,June,21.44,70.99
+Comoros,August,22.77,60.69
+Guinea-Bissau,June,47.31,24.88
+Chad,May,37.62,33.07
+Malawi,July,32.87,34.49
+Gabon,August,24.31,52.03
+Lesotho,July,23.36,75.53
+Democratic Republic of the Congo,July,27.99,58.36
+Tunisia,May,45.67,70.33
+Botswana,August,41.73,19.05
+Burkina Faso,August,33.2,68.61
+Cameroon,August,38.56,41.54
+Angola,May,24.81,86.18
+Eritrea,July,27.88,26.66
+South Africa,July,21.31,59.26
+Eswatini,May,22.62,23.64
+Kenya,June,20.53,49.45
+Eswatini,August,43.51,83.39
+Nigeria,June,48.17,42.56
+Equatorial Guinea,June,29.07,66.51
+Seychelles,June,27.38,11.01
+Gambia,August,34.98,61.33
+Somalia,August,29.05,18.18
+Morocco,May,25.92,39.64
+Togo,August,32.3,83.55
+Guinea,May,46.97,55.91
+Mozambique,May,21.7,46.07
+Senegal,May,30.25,87.67
+Malawi,August,42.94,17.8
+Malawi,July,28.16,10.7
+Burkina Faso,August,30.63,29.07
+Ivory Coast,July,43.57,35.65
+Uganda,May,49.0,50.87
+Cameroon,June,21.57,24.47
+Central African Republic,May,25.46,34.94
+Sudan,May,43.94,59.58
+Eswatini,July,23.4,83.76
+Libya,July,21.4,67.78
+Tunisia,June,49.4,18.79
+Lesotho,July,26.55,40.84
+Democratic Republic of the Congo,May,36.22,26.91
+Angola,August,48.24,46.34
+Zambia,August,37.22,29.6
+Botswana,June,41.26,51.97
+Gabon,May,39.38,17.81
+Zambia,June,48.94,66.82
+Morocco,June,21.96,14.44
+Central African Republic,May,27.95,27.04
+Namibia,July,36.28,87.31
+Madagascar,July,29.23,50.17
+Ivory Coast,August,45.64,21.65
+Chad,August,29.87,35.45
+Angola,August,30.57,75.28
+Guinea-Bissau,July,30.74,28.58
+Kenya,August,20.24,48.61
+Botswana,June,29.86,37.7
+Central African Republic,May,32.04,72.68
+Burkina Faso,May,23.68,33.57
+Madagascar,July,28.27,52.18
+Madagascar,July,40.47,46.33
+Benin,June,21.53,12.54
+Sao Tome and Principe,May,35.32,77.0
+Burundi,May,34.33,81.39
+Egypt,July,40.83,51.83
+Malawi,August,47.0,61.37
+Nigeria,July,29.16,67.58
+Lesotho,June,48.74,41.91
+Uganda,May,39.98,62.51
+Cameroon,June,35.46,32.53
+Algeria,July,31.1,31.0
+Djibouti,May,46.86,40.56
+Togo,July,29.62,84.26
+Algeria,July,28.35,54.88
+Ivory Coast,August,39.9,11.68
+Malawi,July,41.13,87.52
+Mauritania,August,35.33,14.45
+Central African Republic,May,20.61,49.13
+Djibouti,August,36.32,31.74
+Senegal,July,21.55,44.15
+South Sudan,May,25.25,81.09
+Burundi,August,45.62,39.02
+Burundi,August,34.28,57.58
+Ghana,May,25.99,34.27
+Malawi,July,39.29,24.61
+Congo,June,30.71,39.21
+Benin,May,28.16,23.91
+Central African Republic,June,22.74,26.36
+Eswatini,August,30.36,47.75
+Burundi,May,39.08,38.34
+Togo,July,39.06,33.66
+Seychelles,June,36.94,71.56
+Angola,July,41.08,43.91
+Egypt,July,25.21,76.33
+Botswana,June,47.98,33.26
+Lesotho,June,25.8,28.53
+Malawi,July,44.8,87.75
+Seychelles,May,40.04,17.74
+Ivory Coast,August,45.05,65.86
+Ghana,June,42.15,26.38
+Ethiopia,June,48.82,64.36
+Seychelles,June,47.23,55.6
+Sudan,June,32.64,44.78
+Democratic Republic of the Congo,July,44.52,76.56
+Congo,May,32.22,42.37
+Zimbabwe,July,21.61,70.31
+Guinea,July,42.53,48.58
+Guinea,May,31.62,43.83
+Angola,August,41.95,76.71
+Niger,August,24.48,72.21
+Botswana,July,30.99,88.33
+Central African Republic,May,46.07,62.09
+Morocco,August,45.9,47.89
+Kenya,August,39.52,23.61
+Rwanda,August,24.51,59.36
+Tanzania,June,21.88,55.82
+Ghana,August,37.8,17.91
+Zambia,July,45.52,28.37
+Sao Tome and Principe,August,45.85,41.12
+Kenya,August,47.45,51.75
+Egypt,June,24.5,35.03
+Central African Republic,June,38.41,66.07
+Madagascar,August,47.79,24.04
+Sudan,May,39.09,11.17
+Chad,May,34.87,17.52
+Eswatini,May,33.17,33.51
+Mozambique,August,31.16,59.1
+Burundi,June,42.01,65.78
+Congo,June,40.31,36.11
+Malawi,July,29.93,64.14
+Algeria,May,29.4,74.72
+Tunisia,June,34.64,13.81
+Sudan,June,29.84,34.11
+Namibia,August,28.22,44.51
+Sudan,May,49.13,72.72
+Djibouti,August,35.8,59.47
+Sierra Leone,August,39.91,80.77
+Niger,July,31.82,86.29
+South Africa,August,48.58,61.94
+Equatorial Guinea,May,35.36,29.95
+Kenya,July,30.99,67.09
+Gabon,July,45.52,24.04
+Kenya,July,43.03,87.48
+Zambia,August,34.9,88.28
+Ethiopia,July,38.23,34.9
+Egypt,August,39.12,34.57
+Morocco,May,48.33,40.97
+Libya,July,31.34,73.12
+Djibouti,May,49.76,61.57
+Cameroon,May,24.91,18.89
+Chad,June,47.84,43.4
+Mauritania,August,23.54,56.81
+Burkina Faso,July,49.25,67.0
+Nigeria,May,39.78,70.83
+Mauritania,May,44.15,31.43
+Egypt,August,33.18,64.24
+Burkina Faso,July,27.98,53.91
+Ethiopia,May,26.26,43.03
+Zambia,May,20.01,82.57
+Central African Republic,June,21.21,49.09
+Comoros,July,47.23,55.62
+Mauritania,July,40.81,27.31
+Senegal,August,35.32,70.58
+Liberia,May,34.67,68.99
+Senegal,July,29.79,23.75
+Tanzania,May,25.25,13.65
+Comoros,May,26.42,87.4
+Angola,August,45.77,16.87
+Mozambique,July,36.31,28.22
+Madagascar,May,38.51,39.66
+Libya,August,21.51,60.34
+Democratic Republic of the Congo,June,24.55,26.2
+Togo,May,30.12,22.39
+Ivory Coast,August,38.66,68.52
+Namibia,May,42.54,74.62
+Chad,May,20.42,51.03
+Kenya,June,41.34,89.23
+Central African Republic,June,40.27,19.97
+Senegal,August,49.43,10.91
+Ivory Coast,July,27.44,29.01
+Cabo Verde,August,34.4,18.95
+Burundi,August,42.49,22.17
+Algeria,May,47.21,42.78
+Zambia,August,28.25,73.86
+Angola,July,44.94,12.08
+Tunisia,August,38.33,29.59
+Senegal,July,38.97,49.05
+Rwanda,May,35.17,22.2
+Guinea-Bissau,August,22.95,76.28
+Congo,June,42.06,52.65
+Central African Republic,July,33.23,30.1
+Equatorial Guinea,July,48.84,35.29
+Chad,July,35.74,69.97
+Mozambique,August,44.76,46.17
+Uganda,May,42.76,75.63
+Gabon,May,49.79,86.78
+Mali,August,49.3,25.24
+Mali,May,42.57,30.55
+Zimbabwe,May,28.81,25.21
+South Africa,August,37.05,41.88
+Mauritius,June,48.33,63.04
+Eswatini,June,49.46,53.18
+Mozambique,June,27.54,52.54
+Niger,August,21.07,23.92
+Democratic Republic of the Congo,July,46.68,87.66
+Guinea,July,37.11,83.39
+Morocco,July,39.4,69.78
+Kenya,June,23.3,26.96
+Niger,August,49.25,49.39
+Botswana,August,44.23,34.8
+South Sudan,June,33.04,53.14
+Botswana,July,29.77,33.83
+Mozambique,July,24.76,53.24
+Seychelles,June,32.05,56.46
+Angola,June,24.07,24.05
+Gambia,July,47.33,39.32
+Togo,May,48.65,64.09
+Equatorial Guinea,June,49.57,19.31
+Malawi,August,27.55,75.79
+Burkina Faso,June,29.64,75.37
+Eritrea,June,47.96,61.23
+Equatorial Guinea,June,27.23,79.47
+Djibouti,May,44.72,59.95
+Mauritania,May,20.62,22.68
+Benin,July,31.88,76.13
+Eritrea,August,44.72,28.22
+South Africa,May,22.14,13.6
+Kenya,August,47.16,48.45
+Egypt,May,25.66,88.03
+Seychelles,May,28.79,47.76
+Zambia,June,45.34,42.68
+Guinea,August,30.18,89.2
+Burkina Faso,May,20.47,88.48
+Cameroon,August,24.49,39.31
+Eswatini,August,22.94,68.53
+Nigeria,June,41.46,21.68
+Sudan,May,45.68,11.39
+Tunisia,July,30.12,11.76
+Angola,May,47.28,49.7
+South Africa,July,37.18,60.12
+Comoros,May,41.24,73.14
+Algeria,July,27.18,24.43
+Ivory Coast,August,39.35,52.41
+Cameroon,May,20.16,60.98
+Togo,July,46.57,11.2
+Libya,August,37.78,13.84
+Ghana,August,20.68,88.53
+Guinea-Bissau,June,38.0,48.32
+Gambia,July,42.51,45.06
+Rwanda,May,45.43,16.82
+Morocco,May,23.5,25.3
+Niger,July,31.87,29.27
+Somalia,May,47.86,73.07
+Mozambique,May,33.63,79.33
+Zambia,July,45.86,39.74
+Ghana,June,33.84,45.36
+Cameroon,June,41.55,81.21
+Benin,June,26.72,13.13
+Cameroon,August,21.62,20.99
+Ghana,July,27.87,48.56
+Libya,June,30.72,55.5
+Central African Republic,May,46.61,64.15
+Eswatini,May,30.96,89.94
+Uganda,June,48.79,31.95
+Uganda,July,20.66,21.15
+Senegal,May,37.6,79.54
+Equatorial Guinea,July,33.54,31.73
+Comoros,July,46.84,88.06
+Liberia,July,47.69,32.1
+South Africa,June,49.77,73.23
+Niger,August,43.98,25.58
+Guinea-Bissau,May,25.63,21.6
+Mauritania,June,41.51,80.64
+Tanzania,July,30.91,78.66
+Sudan,June,27.16,83.39
+Ivory Coast,May,26.51,78.68
+Madagascar,August,39.23,60.39
+Guinea,June,26.77,88.43
+Gambia,May,49.56,66.87
+Burkina Faso,May,29.12,33.62
+Cameroon,August,49.46,62.44
+Malawi,May,47.56,63.64
+Uganda,August,46.16,64.55
+Ghana,June,32.83,88.38
+Congo,July,20.86,12.51
+Mali,July,21.5,47.85
+Cameroon,August,23.92,87.48
+Burundi,July,46.41,28.16
+Central African Republic,August,46.91,23.91
+Egypt,July,22.83,22.79
+Mauritania,May,35.19,14.25
+Djibouti,June,22.63,27.85
+Mauritania,July,36.82,46.45
+Guinea,June,42.05,21.37
+Mauritania,June,23.56,22.91
+Tanzania,July,37.8,41.94
+Burkina Faso,May,35.31,75.18
+Sierra Leone,May,22.55,26.38
+Guinea-Bissau,May,36.68,60.29
+Central African Republic,June,40.45,55.73
+Sao Tome and Principe,July,36.94,43.83
+Malawi,July,26.82,86.54
+Eswatini,June,26.58,31.28
+Djibouti,June,44.59,31.88
+Seychelles,August,29.73,69.2
+Guinea,August,20.88,11.86
+Mauritania,July,34.07,73.49
+South Africa,August,24.98,10.57
+Eritrea,May,28.93,48.56
+Zimbabwe,August,36.88,13.47
+Gabon,August,32.08,31.79
+Liberia,May,42.5,82.88
+Egypt,August,45.95,34.99
+Central African Republic,May,33.29,64.54
+Ivory Coast,August,48.27,15.8
+Sudan,July,32.95,28.57
+Mauritius,June,36.71,57.2
+Zambia,May,23.8,80.67
+Chad,August,27.59,50.67
+Uganda,May,38.09,76.47
+Guinea-Bissau,May,40.14,68.72
+Lesotho,July,41.02,61.83
+Democratic Republic of the Congo,August,43.83,26.23
+Tunisia,July,45.67,10.14
+Morocco,July,48.09,46.16
+Rwanda,June,37.77,41.12
+Botswana,May,21.28,35.26
+Morocco,May,37.34,87.92
+Zimbabwe,May,20.08,88.7
+South Africa,July,43.6,55.42
+Morocco,July,47.0,58.02
+Malawi,August,44.73,65.09
+Benin,July,44.57,72.98
+Ethiopia,June,42.38,64.9
+Tunisia,August,45.48,30.93
+Nigeria,July,44.04,16.6
+Algeria,May,30.34,29.21
+Sierra Leone,May,49.52,47.37
+Senegal,June,40.88,21.18
+Benin,May,37.37,41.31
+Comoros,August,33.35,26.1
+Eswatini,June,46.07,10.78
+Zambia,May,47.19,76.97
+Tanzania,August,49.11,12.96
+Kenya,May,34.12,16.96
+Niger,May,23.95,85.3
+Eswatini,August,21.13,81.06
+Somalia,May,37.69,10.25
+Uganda,June,35.3,63.37
+Tanzania,June,42.8,46.26
+Comoros,August,24.53,61.18
+Zimbabwe,July,45.09,84.33
+Gambia,June,46.0,13.35
+Rwanda,June,48.96,65.6
+Senegal,July,44.64,89.62
+Comoros,May,41.85,81.89
+Congo,August,21.54,31.15
+Namibia,July,40.97,54.97
+Zambia,June,49.52,16.95
+Algeria,May,48.73,61.12
+Morocco,July,41.43,36.49
+Sao Tome and Principe,July,32.93,53.41
+Togo,July,42.71,76.11
+Cabo Verde,May,42.5,71.78
+Mauritania,July,30.39,59.99
+Gabon,May,24.56,29.44
+Tanzania,July,43.14,87.94
+Benin,July,42.84,82.64
+Eritrea,July,33.51,63.16
+Niger,June,39.42,60.12
+Congo,August,21.58,23.47
+Gabon,August,23.53,15.16
+Botswana,July,49.78,35.9
+Benin,August,28.34,65.12
+Sierra Leone,May,32.49,21.95
+Togo,August,44.76,77.81
+Mauritius,August,46.94,85.8
+Nigeria,August,22.98,12.97
+Burkina Faso,May,31.79,66.54
+Democratic Republic of the Congo,July,25.41,78.2
+Tunisia,August,39.97,82.3
+Namibia,July,28.02,78.72
+Cameroon,August,30.03,86.06
+Lesotho,May,36.15,32.23
+Zambia,June,24.05,82.94
+Niger,June,26.83,41.41
+Malawi,June,25.44,65.31
+Kenya,May,23.72,40.57
+Tanzania,June,46.12,78.08
+Liberia,June,47.8,81.95
+Rwanda,June,32.92,43.8
+Zimbabwe,May,32.32,24.84
+Somalia,August,42.85,25.8
+Egypt,July,46.46,66.84
+Chad,August,27.41,65.68
+Rwanda,August,42.57,84.39
+Tunisia,August,37.37,72.2
+Burundi,June,37.52,48.46
+Burkina Faso,May,36.95,75.25
+Cameroon,May,39.12,19.06
+Comoros,June,35.4,28.53
+Libya,June,31.38,49.5
+Sudan,August,43.54,43.6
+Guinea-Bissau,June,23.45,64.22
+Burkina Faso,July,48.88,27.77
+Seychelles,August,49.83,19.57
+Sudan,August,23.23,40.71
+Sao Tome and Principe,July,23.03,83.52
+Ivory Coast,July,39.56,48.16
+Kenya,May,20.1,61.49
+Gabon,August,30.13,60.44
+Madagascar,August,44.73,58.55
+Niger,July,25.39,42.84
+Namibia,July,29.34,23.62
+Libya,August,31.94,26.88
+Zambia,August,29.54,17.5
+Niger,July,42.53,81.55
+Egypt,June,29.49,41.33
+Malawi,June,36.63,66.0
+Mali,June,48.72,12.72
+Togo,July,47.09,77.09
+Somalia,May,21.41,61.47
+Madagascar,June,48.47,25.04
+Comoros,May,28.21,39.83
+Morocco,June,37.21,71.03
+Mauritius,May,43.04,68.89
+Egypt,July,25.54,69.44
+Ghana,June,38.56,20.21
+South Sudan,June,49.26,86.19
+Democratic Republic of the Congo,May,24.1,15.11
+Kenya,August,40.22,73.54
+Eswatini,May,41.65,66.3
+Algeria,July,24.66,39.86
+Uganda,July,30.07,44.47
+Uganda,May,37.67,65.42
+Tanzania,June,23.86,11.17
+Algeria,June,29.92,34.26
+Sao Tome and Principe,July,40.08,23.85
+Sudan,May,43.1,46.09
+Sao Tome and Principe,July,30.29,68.08
+Sudan,June,24.27,23.82
+Senegal,May,47.37,58.9
+Libya,May,43.3,48.08
+Mali,June,46.0,32.99
+Guinea,June,20.04,15.0
+Algeria,June,29.83,13.77
+Mauritania,July,46.14,13.48
+Mauritius,May,48.57,83.03
+Gabon,June,34.41,87.64
+Congo,June,39.26,77.63
+Mauritius,July,30.51,74.04
+Sudan,July,46.0,13.16
+Burundi,June,48.26,68.4
+Malawi,August,20.32,54.5
+Angola,June,23.77,12.99
+Eritrea,June,36.09,48.2
+Comoros,August,42.02,69.87
+Ethiopia,August,26.23,37.79
+Burkina Faso,May,29.78,37.19
+Namibia,July,34.83,15.89
+Chad,August,38.01,29.4
+Comoros,August,42.38,12.48
+Cameroon,May,33.85,76.04
+Sao Tome and Principe,May,39.05,14.08
+Senegal,August,37.46,67.78
+Senegal,July,22.04,88.15
+Togo,July,38.78,20.6
+Mauritius,August,38.95,35.58
+Morocco,June,39.35,79.4
+Guinea,July,37.73,68.1
+South Africa,July,41.62,49.22
+Egypt,August,40.5,32.0
+Madagascar,May,30.35,58.3
+Sao Tome and Principe,August,31.34,69.63
+Ivory Coast,July,41.86,80.25
+Congo,July,49.86,49.99
+Seychelles,May,44.48,82.82
+Sudan,July,35.1,12.94
+Libya,June,20.84,13.86
+Nigeria,August,31.35,89.34
+Ghana,August,28.09,12.54
+Mali,May,38.47,29.02
+Zimbabwe,July,42.23,40.83
+Central African Republic,August,20.02,66.63
+Angola,May,26.82,71.75
+Niger,May,25.93,83.19
+Sierra Leone,July,36.34,39.43
+Equatorial Guinea,June,37.42,83.84
+Mauritius,August,24.31,41.28
+Ghana,July,33.93,56.92
+Cabo Verde,July,35.62,46.86
+Togo,June,22.55,25.91
+Congo,July,37.73,66.12
+Burkina Faso,July,43.98,59.0
+Senegal,August,22.65,27.78
+Tunisia,June,44.07,61.5
+Madagascar,August,49.72,45.79
+South Africa,May,27.23,17.55
+Morocco,July,48.74,15.63
+Burkina Faso,July,25.9,12.25
+Seychelles,July,36.87,24.09
+Tunisia,June,32.09,25.26
+Central African Republic,July,35.74,26.26
+Benin,August,26.82,74.37
+Guinea,June,40.31,51.43
+Libya,August,41.92,68.31
+Ghana,July,31.08,27.7
+Mauritania,June,34.52,34.02
+Guinea-Bissau,May,32.11,53.55
+Tanzania,July,40.33,36.46
+Benin,June,28.66,67.26
+Malawi,June,31.57,79.94
+Madagascar,July,45.62,23.1
+Mozambique,August,40.23,51.09
+Kenya,July,33.14,34.85
+Mauritius,May,49.5,65.59
+Sao Tome and Principe,May,22.21,66.07
+Central African Republic,June,36.4,40.94
+Libya,August,26.73,35.25
+Ethiopia,May,48.98,15.3
+Benin,August,36.13,44.45
+Morocco,May,41.18,41.33
+Libya,August,35.74,10.26
+Egypt,May,24.0,73.91
+Liberia,June,21.36,53.87
+Eritrea,May,45.87,32.17
+Ivory Coast,June,27.49,57.79
+Kenya,August,26.07,22.49
+Ethiopia,August,44.88,38.15
+Comoros,May,43.05,33.1
+Central African Republic,July,40.77,15.91
+Uganda,May,44.18,73.3
+Burkina Faso,July,32.9,53.74
+Sierra Leone,July,43.9,64.19
+Gambia,June,39.31,75.24
+Sudan,June,34.14,19.96
+South Sudan,July,20.86,19.69
+Sierra Leone,August,37.42,33.05
+Lesotho,May,26.05,25.81
+Morocco,May,27.56,52.77
+Djibouti,July,24.69,72.87
+Burundi,August,42.22,15.56
+Guinea,August,32.42,70.32
+Burundi,June,21.69,84.2
+Senegal,July,37.71,53.26
+Uganda,July,38.01,33.91
+Somalia,August,46.78,60.4
+Sao Tome and Principe,May,24.29,47.65
+Ghana,June,42.76,27.36
+Sierra Leone,July,20.98,52.65
+Gambia,July,37.12,26.51
+South Africa,July,38.75,57.87
+Mauritania,June,30.37,53.26
+Mauritius,August,42.9,46.63
+Namibia,July,48.72,62.14
+Liberia,July,23.32,16.65
+Burundi,August,33.76,30.46
+Eritrea,August,47.14,40.85
+Rwanda,May,21.06,60.84
+Chad,June,27.28,19.57
+Eswatini,August,33.91,55.16
+Lesotho,August,21.05,24.12
+Morocco,August,38.49,71.01
+Eswatini,July,42.76,46.96
+Congo,May,36.42,32.58
+Nigeria,August,43.44,44.42
+Tanzania,May,48.19,39.01
+Zambia,May,45.08,85.32
+Chad,May,27.63,67.91
+Eritrea,June,46.51,25.49
+Somalia,August,32.77,31.69
+Namibia,June,33.13,68.61
+Zimbabwe,May,30.84,80.17
+Djibouti,June,23.76,14.67
+Eritrea,August,27.53,32.46
+Guinea,May,41.31,86.85
+Angola,June,27.12,70.41
+Tunisia,August,21.44,80.0
+Ethiopia,June,41.8,52.77
+Sudan,August,24.47,15.36
+Angola,June,47.82,87.84
+Democratic Republic of the Congo,May,25.42,70.35
+Sudan,August,45.17,45.15
+Congo,July,28.73,34.12
+Democratic Republic of the Congo,June,42.76,81.62
+Uganda,July,21.97,43.27
+Comoros,July,48.11,68.43
+Tunisia,May,32.86,70.94
+Egypt,May,33.9,66.55
+Tanzania,August,24.43,85.57
+Guinea,August,38.29,78.87
+Lesotho,July,43.58,76.98
+Lesotho,May,40.14,24.47
+Mauritania,May,37.46,67.16
+Zimbabwe,June,32.57,13.76
+Comoros,June,27.87,60.34
+Chad,August,33.33,54.11
+Senegal,May,36.66,41.56
+Morocco,July,31.49,47.52
+Cameroon,July,29.05,32.47
+Mali,July,39.95,11.08
+Sierra Leone,July,22.62,71.57
+Nigeria,May,33.08,83.03
+Namibia,May,32.53,33.86
+Nigeria,June,28.34,21.23
+Lesotho,August,29.22,72.1
+Togo,July,47.12,83.1
+Burundi,May,42.26,38.26
+South Africa,May,44.37,82.2
+Libya,June,44.47,83.71
+Cameroon,May,42.04,35.39
+Sao Tome and Principe,July,25.52,88.55
+Mozambique,August,33.28,64.89
+Central African Republic,August,34.42,68.72
+South Africa,August,22.18,66.51
+Senegal,August,23.06,65.01
+Libya,June,31.01,77.78
+Seychelles,July,37.07,60.98
+Tunisia,July,48.93,13.08
+Equatorial Guinea,July,48.05,33.3
+Malawi,July,30.18,32.19
+Gabon,May,31.79,63.27
+Rwanda,June,46.46,31.8
+Mauritania,May,21.07,19.02
+Senegal,June,20.32,50.5
+Namibia,June,28.11,34.78
+Tanzania,July,49.45,30.71
+Morocco,August,40.46,65.5
+Cabo Verde,August,47.51,31.79
+Cameroon,July,39.56,72.3
+Togo,July,20.59,60.89
+Mauritania,June,49.04,59.72
+Namibia,May,27.83,56.1
+Somalia,May,35.03,63.85
+Comoros,May,47.63,33.08
+Niger,July,33.5,31.82
+Eritrea,August,23.05,24.63
+Ivory Coast,July,29.27,29.92
+Libya,August,20.92,74.0
+Mauritius,June,29.23,39.94
+Tunisia,July,43.83,28.32
+Benin,July,49.67,29.82
+Guinea-Bissau,May,42.01,42.88
+Sao Tome and Principe,May,45.39,11.72
+Cabo Verde,July,49.19,82.13
+Mozambique,July,32.06,50.1
+Zimbabwe,May,47.3,52.74
+Malawi,June,25.62,61.52
+South Sudan,August,24.68,71.55
+Democratic Republic of the Congo,July,40.38,16.55
+Comoros,July,38.38,39.79
+Congo,July,26.17,64.44
+Sudan,May,20.69,83.17
+Cameroon,June,26.28,34.7
+Burundi,May,43.24,77.76
+Congo,June,38.88,57.9
+Sierra Leone,May,34.43,70.11
+Lesotho,July,31.68,65.72
+Niger,May,48.24,88.73
+Congo,June,47.36,77.07
+Madagascar,July,29.9,81.31
+Cabo Verde,June,28.72,13.47
+Mauritania,May,34.2,21.95
+Uganda,August,25.52,64.2
+Eritrea,July,21.53,75.12
+Comoros,June,20.47,42.97
+Gabon,July,29.73,75.88
+Gabon,July,27.64,48.38
+Central African Republic,July,20.4,55.69
+Cabo Verde,July,45.03,51.52
+Malawi,May,23.13,36.32
+Chad,June,24.44,12.31
+Central African Republic,August,41.08,41.41
+Eswatini,June,29.54,82.73
+Ethiopia,July,38.98,49.58
+Sao Tome and Principe,August,36.52,85.64
+Comoros,July,47.55,43.08
+Eritrea,August,34.6,49.98
+Eswatini,July,47.24,76.82
+Guinea-Bissau,August,35.21,76.54
+Cameroon,June,42.22,88.72
+Lesotho,May,41.42,38.59
+Mauritania,June,37.32,65.02
+South Africa,June,26.28,83.8
+Ghana,August,33.32,51.4
+Malawi,June,39.04,76.98
+Algeria,May,46.28,12.46
+Eswatini,June,48.35,88.89
+Comoros,July,32.21,23.94
+Sudan,May,42.12,59.65
+Burkina Faso,July,43.62,78.64
+Egypt,June,20.66,64.91
+Namibia,August,35.6,69.97
+Egypt,June,37.69,74.49
+Chad,August,23.68,44.66
+Niger,May,33.41,81.5
+Comoros,August,45.27,21.16
+Cabo Verde,June,38.87,14.37
+Namibia,May,47.74,68.84
+Somalia,July,46.59,26.6
+Ethiopia,May,31.99,51.25
+Niger,May,43.73,43.53
+Gabon,June,46.78,11.19
+Gambia,May,36.18,51.0
+Botswana,August,30.36,32.25
+Comoros,June,26.17,21.46
+Central African Republic,August,22.26,44.43
+Nigeria,May,24.93,85.04
+Mauritius,June,37.63,58.03
+Cabo Verde,July,29.99,84.96
+Tanzania,June,34.14,82.06
+Somalia,August,33.33,32.31
+Zimbabwe,July,25.23,47.15
+Equatorial Guinea,August,23.76,55.4
+Guinea,June,44.5,78.68
+Benin,May,42.3,88.88
+Lesotho,May,35.39,65.51
+Guinea-Bissau,May,40.31,26.9
+Burkina Faso,June,32.17,18.22
+Mali,May,41.64,27.36
+Morocco,July,33.67,85.39
+Guinea,August,41.15,88.06
+Guinea-Bissau,August,47.15,48.39
+Gabon,August,24.45,40.53
+Togo,August,45.63,81.44
+Djibouti,August,49.29,69.76
+Eswatini,June,37.94,45.94
+Tunisia,August,24.08,16.46
+Togo,May,31.34,41.74
+Sudan,August,39.63,50.89
+Gabon,May,29.86,75.05
+Cameroon,June,23.81,52.97
+Guinea-Bissau,July,42.71,49.32
+Ghana,May,32.82,56.08
+Liberia,May,21.69,16.77
+Egypt,June,26.86,21.99
+Malawi,July,25.25,49.36
+Gabon,August,44.23,70.09
+South Sudan,August,39.27,69.22
+Ivory Coast,May,38.79,79.78
+Central African Republic,August,21.59,69.25
+Namibia,May,34.71,20.71
+Namibia,June,48.08,21.32
+Comoros,August,40.35,43.63
+Guinea-Bissau,June,42.64,12.92
+Algeria,June,35.45,14.72
+Guinea-Bissau,August,27.03,10.67
+Tunisia,August,42.77,19.78
+Sierra Leone,June,34.74,59.3
+South Sudan,June,27.82,68.95
+Namibia,August,35.98,80.94
+Madagascar,June,24.7,77.5
+Zimbabwe,July,44.19,45.74
+Liberia,July,21.42,85.82
+Democratic Republic of the Congo,May,41.84,41.94
+South Sudan,June,49.31,65.58
+Comoros,May,44.55,68.92
+South Sudan,July,40.51,31.02
+Madagascar,August,46.54,43.37
+Eritrea,August,39.7,70.85
+Ivory Coast,June,25.53,34.08
+Kenya,July,46.86,22.42
+Ghana,July,34.52,30.67
+Nigeria,July,32.2,32.94
+Egypt,August,23.99,49.2
+Liberia,August,28.17,48.43
+Central African Republic,June,40.88,74.17
+Somalia,August,32.46,64.27
+Ethiopia,May,48.78,32.36
+Somalia,August,44.4,39.38
+Democratic Republic of the Congo,August,26.72,60.88
+Comoros,May,47.72,54.27
+Rwanda,May,29.99,20.95
+Tunisia,June,30.35,85.41
+Cabo Verde,May,25.34,14.49
+Seychelles,July,39.84,35.75
+Sao Tome and Principe,May,37.78,37.22
+Mauritius,May,49.97,77.18
+Lesotho,June,21.87,29.6
+Uganda,July,46.66,76.02
+Namibia,June,37.38,72.22
+Uganda,June,35.34,42.58
+Gabon,June,23.81,59.92
+Cabo Verde,August,21.58,58.13
+Gambia,June,31.26,12.91
+Gambia,June,29.54,41.85
+Niger,July,48.4,11.49
+Niger,July,41.04,37.72
+Sao Tome and Principe,August,46.73,83.93
+Tanzania,August,41.83,33.16
+Senegal,August,29.72,49.22
+Cameroon,July,44.95,16.77
+Guinea,May,22.3,80.86
+Angola,August,36.53,28.31
+Equatorial Guinea,June,33.62,40.11
+Democratic Republic of the Congo,June,45.44,53.74
+Mali,July,41.03,70.8
+South Sudan,June,29.82,34.29
+Malawi,August,33.09,23.99
+Lesotho,June,26.84,78.71
+Zimbabwe,August,20.89,56.56
+Mozambique,August,34.49,75.76
+Egypt,June,46.45,85.44
+Ivory Coast,July,37.42,62.58
+South Africa,July,35.6,69.3
+Eswatini,May,27.25,83.33
+Algeria,July,23.31,18.2
+Congo,August,44.18,39.13
+Libya,August,32.73,78.33
+Mozambique,May,43.4,77.54
+Lesotho,July,40.1,31.74
+Uganda,May,42.39,35.19
+Somalia,June,28.6,57.58
+Eswatini,July,23.47,49.58
+Cameroon,July,30.02,87.35
+Central African Republic,August,32.09,62.97
+Zambia,August,42.41,72.31
+Malawi,July,49.77,66.23
+South Sudan,August,28.39,13.92
+Sudan,June,39.14,43.5
+Sao Tome and Principe,July,48.85,80.83
+Nigeria,August,40.48,20.6
+Morocco,August,44.11,66.34
+Mauritius,July,37.51,62.96
+Eritrea,June,41.38,39.86
+Mozambique,August,29.41,84.37
+Guinea-Bissau,August,26.37,75.53
+Sao Tome and Principe,May,37.07,48.91
+Uganda,June,21.88,39.32
+Sudan,July,41.69,89.96
+Cameroon,May,41.74,45.32
+South Africa,June,42.83,62.88
+Gambia,May,29.53,19.05
+Senegal,August,42.4,29.65
+Gambia,August,27.57,58.64
+Burkina Faso,June,47.96,11.74
+Somalia,June,36.3,32.77
+Mauritania,May,24.87,39.54
+Sierra Leone,July,25.69,61.87
+Chad,May,47.07,62.25
+South Africa,June,35.48,27.96
+Sudan,June,45.06,66.91
+Morocco,May,30.94,35.99
+Malawi,June,45.9,48.71
+Sao Tome and Principe,August,39.99,78.79
+Ivory Coast,May,22.56,21.14
+Guinea-Bissau,July,46.89,30.04
+Chad,June,38.18,79.23
+Namibia,July,22.59,74.35
+Chad,May,44.96,18.77
+Botswana,May,36.57,86.53
+Tanzania,June,45.97,45.87
+Namibia,May,45.7,29.84
+Botswana,May,24.9,34.85
+Eritrea,August,30.25,52.17
+Tunisia,July,35.06,40.07
+Algeria,May,48.12,78.51
+Namibia,July,34.11,79.67
+Uganda,August,21.04,26.11
+Botswana,July,26.52,25.91
+Nigeria,July,42.89,18.88
+Zambia,August,42.62,33.86
+Ivory Coast,June,40.42,37.19
+Eswatini,May,41.18,15.22
+Guinea-Bissau,June,22.38,15.27
+Kenya,May,20.36,61.59
+Guinea,June,49.38,73.87
+Mauritius,June,34.44,75.79
+Zambia,July,32.64,89.28
+Seychelles,July,45.4,16.17
+Equatorial Guinea,June,31.04,52.76
+Rwanda,June,44.13,40.8
+Algeria,June,44.86,15.02
+Niger,August,22.68,35.51
+Equatorial Guinea,July,28.93,64.71
+Sudan,August,38.66,81.16
+Central African Republic,August,30.16,52.81
+Senegal,June,36.46,17.72
+Botswana,May,32.56,33.79
+Somalia,August,43.51,56.14
+Ghana,June,43.18,68.0
+Benin,June,23.17,63.57
+Guinea-Bissau,August,29.93,71.78
+Guinea,July,27.26,71.34
+Eswatini,May,34.63,24.73
+Rwanda,May,24.04,70.14
+Guinea,May,48.21,44.13
+Zambia,June,40.76,23.14
+Cabo Verde,August,49.3,71.37
+Tunisia,June,32.27,42.12
+South Africa,May,45.55,82.77
+Togo,July,27.11,88.56
+Zimbabwe,June,23.17,18.22
+Sudan,July,38.72,72.68
+Djibouti,July,42.52,23.14
+Liberia,July,32.88,11.37
+Libya,June,30.44,40.43
+South Africa,June,21.55,52.83
+Tanzania,July,24.31,76.07
+Mauritania,May,35.46,58.04
+Guinea-Bissau,June,42.41,47.27
+South Africa,August,46.18,53.6
+Cabo Verde,July,37.85,28.41
+Mauritius,August,20.57,38.49
+Comoros,July,47.18,66.29
+Angola,May,49.32,18.73
+Namibia,June,38.32,75.08
+Equatorial Guinea,August,48.62,15.72
+Guinea,May,21.68,81.49
+Djibouti,May,36.17,63.32
+Tanzania,August,36.88,48.29
+Cameroon,July,35.53,54.19
+Sudan,August,43.53,86.13
+Kenya,June,31.04,79.32
+Morocco,May,21.88,27.05
+Gabon,May,34.39,61.82
+Angola,May,23.12,20.19
+Burundi,May,23.73,15.12
+Mali,July,45.48,57.9
+Zimbabwe,July,33.44,33.99
+Mozambique,May,34.43,81.69
+Burundi,June,29.08,68.68
+Niger,July,30.18,76.24
+Eritrea,May,47.33,25.08
+Gabon,May,35.11,49.6
+Ethiopia,June,28.08,61.49
+Tunisia,August,31.6,24.01
+Libya,June,42.48,73.27
+Namibia,June,21.85,22.56
+Libya,June,27.12,88.86
+Cabo Verde,August,33.38,85.16
+Guinea-Bissau,June,34.62,42.82
+Mozambique,July,45.78,29.56
+Mozambique,June,36.14,11.52
+Cameroon,June,28.76,55.76
+Libya,June,21.05,81.32
+Mali,August,49.32,38.33
+Botswana,August,20.52,24.07
+Somalia,July,39.18,75.15
+Kenya,May,49.44,45.53
+Benin,June,25.32,32.59
+Zimbabwe,July,41.28,75.48
+Namibia,May,29.73,27.7
+Tunisia,July,24.9,19.47
+Gambia,May,48.29,70.7
+Tunisia,June,36.9,77.0
+Morocco,August,34.84,25.66
+Nigeria,May,44.74,63.68
+Gambia,June,39.43,75.15
+Tanzania,August,40.91,31.89
+Guinea,August,40.02,26.21
+Burundi,May,46.57,74.15
+Comoros,June,43.26,30.7
+Liberia,May,43.94,67.38
+Seychelles,July,44.9,41.12
+Gambia,June,40.37,79.04
+Egypt,July,29.95,75.48
+Sao Tome and Principe,July,37.47,72.4
+Rwanda,June,41.62,34.37
+Democratic Republic of the Congo,July,26.1,46.19
+Egypt,June,22.46,70.46
+South Africa,August,32.03,27.63
+South Sudan,May,34.39,80.85
+Sao Tome and Principe,June,34.81,42.93
+Gambia,May,31.15,60.45
+Senegal,June,31.57,21.5
+Uganda,June,29.84,56.85
+Burkina Faso,May,39.75,43.49
+Mali,June,27.58,41.53
+Malawi,May,49.91,78.38
+Djibouti,May,32.43,41.84
+Guinea,July,39.54,73.86
+Niger,July,31.89,36.92
+Somalia,July,43.17,34.62
+Sierra Leone,August,32.97,75.0
+Guinea,June,43.23,13.09
+Equatorial Guinea,August,33.1,36.1
+Benin,June,37.01,50.99
+Egypt,July,37.62,33.07
+Sudan,July,26.17,76.37
+Equatorial Guinea,July,37.95,20.52
+Chad,August,24.04,19.34
+Senegal,August,34.15,35.13
+Sudan,August,35.23,72.83
+Ghana,July,23.56,53.72
+Rwanda,May,32.68,39.14
+Uganda,July,42.43,44.87
+South Sudan,August,26.53,52.43
+Rwanda,May,43.15,72.97
+Madagascar,July,29.28,40.38
+Senegal,August,36.46,70.68
+Togo,July,23.02,60.15
+Rwanda,August,43.79,27.86
+Gabon,August,42.33,28.74
+Togo,June,31.3,68.79
+Benin,May,37.34,20.28
+Gabon,May,21.7,39.81
+Togo,August,28.55,29.12
+Mozambique,August,37.08,77.12
+Lesotho,May,25.27,64.66
+Guinea,May,20.91,16.49
+Namibia,May,40.61,56.59
+Comoros,July,26.45,44.9
+Congo,August,41.37,21.52
+Mauritania,July,48.83,81.98
+Zimbabwe,July,30.0,60.57
+Gambia,June,37.51,45.02
+Mauritius,August,45.94,51.56
+Sudan,July,26.74,28.36
+Mauritania,May,31.82,52.17
+Ghana,June,39.86,39.37
+Malawi,June,40.23,82.57
+Kenya,May,43.51,71.01
+Uganda,July,32.02,50.1
+Madagascar,June,29.03,19.02
+Togo,July,31.52,72.7
+Comoros,June,21.5,86.4
+Guinea-Bissau,June,26.69,64.57
+Uganda,June,46.66,51.71
+Namibia,June,35.68,36.24
+Eritrea,July,47.2,39.16
+Zambia,July,29.55,37.06
+Algeria,May,41.34,33.28
+Gabon,May,39.31,41.39
+Cameroon,August,40.19,34.13
+Mauritania,May,43.4,82.76
+Ghana,August,21.03,87.62
+Equatorial Guinea,July,20.59,28.33
+Madagascar,May,34.36,19.28
+Congo,July,22.91,61.76
+Tanzania,May,42.97,73.12
+Botswana,August,38.45,34.24
+Sierra Leone,August,30.58,79.59
+Uganda,May,49.23,54.62
+Mali,July,36.86,39.16
+Burkina Faso,May,43.38,44.91
+Senegal,July,40.93,68.67
+Angola,June,45.62,22.57
+South Sudan,May,34.78,79.29
+Lesotho,August,30.4,28.67
+Angola,June,38.7,78.57
+Guinea,August,43.78,53.66
+Algeria,July,33.05,70.81
+Lesotho,July,26.75,20.56
+Benin,May,46.21,68.48
+Tunisia,May,27.96,39.12
+Liberia,August,36.1,39.72
+Niger,May,34.56,12.97
+Burkina Faso,July,42.62,59.54
+Chad,August,47.81,35.71
+Egypt,July,42.29,34.82
+Burkina Faso,June,39.78,57.01
+Rwanda,July,47.93,25.03
+Mauritania,May,41.55,62.6
+Congo,May,26.3,44.06
+Equatorial Guinea,June,25.41,79.52
+Kenya,August,39.61,40.31
+Algeria,May,41.24,54.18
+Senegal,May,49.05,59.75
+Togo,May,36.31,12.44
+Algeria,August,36.37,74.91
+Tunisia,June,38.95,83.02
+Uganda,June,30.74,64.18
+Ghana,June,32.04,22.51
+Seychelles,June,43.37,72.62
+Mauritius,August,32.95,43.02
+Central African Republic,June,31.88,16.45
+Burkina Faso,May,34.38,20.68
+Cameroon,June,20.75,56.1
+Burkina Faso,July,35.8,88.47
+Mozambique,May,21.1,65.06
+Libya,August,49.67,63.15
+Mauritius,May,33.18,57.83
+Mauritania,June,40.26,80.95
+Congo,May,38.63,42.75
+Ivory Coast,June,47.24,85.5
+Morocco,May,24.86,11.08
+South Sudan,June,34.72,83.01
+Sudan,July,32.8,15.88
+Morocco,July,45.44,10.47
+Mozambique,July,21.14,50.39
+Mauritius,July,20.69,61.99
+Malawi,August,30.95,85.73
+Chad,May,47.84,80.62
+Nigeria,July,37.84,28.56
+Ethiopia,August,44.25,62.14
+Cabo Verde,August,36.66,84.61
+Eswatini,July,25.43,55.84
+Kenya,August,30.68,47.9
+Uganda,May,41.22,49.49
+Ethiopia,July,32.27,58.15
+Guinea-Bissau,July,48.09,46.29
+South Africa,June,42.06,78.27
+Zambia,July,38.08,21.95
+Cameroon,June,25.26,60.88
+Burundi,May,36.01,58.32
+Cameroon,August,40.19,43.04
+Angola,July,30.16,81.4
+Tanzania,August,42.35,28.97
+Guinea,May,41.69,80.39
+Burundi,May,36.71,66.96
+Namibia,May,49.9,52.41
+Rwanda,July,36.71,89.18
+Madagascar,July,39.24,77.21
+Somalia,June,40.14,70.48
+Guinea,August,21.32,84.62
+Guinea-Bissau,June,31.15,64.39
+Nigeria,August,32.72,33.47
+Zambia,August,30.63,58.98
+Lesotho,May,33.43,13.93
+Djibouti,August,21.35,83.07
+Eritrea,June,26.08,41.24
+Equatorial Guinea,June,37.53,55.65
+Seychelles,July,39.63,84.79
+Somalia,August,25.63,28.14
+Central African Republic,July,40.76,54.36
+Liberia,May,26.14,77.26
+Mauritania,June,38.44,76.27
+Ethiopia,May,24.7,44.3
+Tanzania,June,43.53,21.03
+Mozambique,May,32.11,32.19
+Seychelles,July,40.92,70.0
+Chad,June,35.49,70.85
+Guinea,June,26.27,72.96
+Ghana,June,32.67,39.42
+Tunisia,August,33.03,81.05
+Central African Republic,May,34.31,72.83
+Zimbabwe,August,22.6,74.6
+Central African Republic,June,33.11,11.59
+Algeria,August,40.64,88.61
+Burkina Faso,May,42.79,18.15
+Zimbabwe,May,22.94,81.07
+Chad,August,26.93,23.79
+Ethiopia,August,22.02,52.78
+Sierra Leone,June,38.05,25.28
+Seychelles,August,34.88,56.84
+Somalia,July,31.94,39.68
+Rwanda,May,49.41,86.44
+Sao Tome and Principe,August,37.58,41.65
+Botswana,May,42.28,65.58
+Namibia,June,22.14,53.75
+Eswatini,May,35.35,10.85
+Togo,May,29.74,50.85
+Eswatini,May,29.42,74.59
+Burkina Faso,June,36.71,88.64
+Democratic Republic of the Congo,June,37.24,56.55
+Mali,June,31.34,89.45
+Ethiopia,July,29.39,73.08
+Central African Republic,June,41.91,52.85
+Togo,July,36.42,69.43
+South Africa,August,33.35,80.14
+Eswatini,August,41.27,74.24
+South Sudan,June,41.07,11.48
+Togo,June,44.14,83.0
+Mali,May,37.47,31.31
+Somalia,May,46.43,50.1
+Ivory Coast,May,25.91,65.18
+Chad,May,42.15,47.46
+Eritrea,June,45.07,59.65
+Gabon,May,38.3,80.38
+South Africa,May,23.14,15.07
+Zambia,August,41.43,30.22
+Ethiopia,August,31.06,81.46
+Ethiopia,August,26.9,42.19
+Equatorial Guinea,June,31.67,54.24
+Senegal,July,32.29,89.25
+Niger,May,21.55,45.59
+Rwanda,May,26.42,83.3
+South Sudan,May,30.76,45.27
+Equatorial Guinea,June,38.93,27.38
+Gabon,July,25.04,24.98
+Uganda,May,45.62,36.78
+Zimbabwe,August,26.45,70.05
+Ghana,August,22.54,33.61
+Guinea,August,37.18,17.02
+Egypt,July,32.83,67.4
+Rwanda,May,20.8,46.72
+Burundi,May,47.23,56.27
+Zambia,July,44.88,28.54
+Uganda,July,47.29,52.06
+Togo,May,27.25,74.04
+Sierra Leone,June,29.28,38.37
+Libya,June,44.49,72.3
+Kenya,June,34.71,29.84
+Gabon,May,25.01,82.08
+Chad,July,22.31,58.47
+Senegal,May,49.48,77.71
+Djibouti,August,45.84,21.57
+Ghana,June,32.23,34.86
+Madagascar,July,45.12,13.84
+Angola,August,37.06,19.26
+Mozambique,June,29.51,47.07
+Eswatini,July,28.55,67.05
+Tanzania,May,46.84,86.43
+Zambia,July,49.44,83.07
+Uganda,May,42.87,10.89
+Morocco,May,42.42,72.88
+Sudan,June,38.66,35.26
+Zimbabwe,July,45.36,75.39
+Sudan,June,47.37,22.78
+Burkina Faso,August,22.45,32.3
+South Africa,August,43.91,72.69
+Senegal,July,30.87,67.02
+Mauritius,August,35.34,75.72
+Angola,May,41.31,14.96
+Lesotho,July,21.22,31.17
+Namibia,May,26.46,64.69
+Democratic Republic of the Congo,July,22.81,25.31
+Egypt,June,43.49,65.5
+Libya,May,39.56,52.89
+Malawi,June,21.03,11.92
+Mali,May,41.91,37.81
+Congo,May,37.43,40.51
+Togo,July,33.99,15.65
+Chad,August,34.06,38.65
+Algeria,May,34.3,82.63
+Sao Tome and Principe,August,27.6,82.03
+Rwanda,July,34.83,49.73
+Uganda,June,39.32,64.59
+Kenya,August,28.51,54.12
+Tunisia,May,42.34,48.48
+Zambia,May,22.03,20.83
+Niger,June,37.66,81.94
+Rwanda,August,30.41,16.3
+Nigeria,August,33.22,88.11
+Benin,June,40.13,71.74
+Malawi,August,34.48,38.08
+Cameroon,June,23.81,69.07
+Egypt,June,37.06,19.38
+Chad,July,33.62,32.85
+Burundi,July,45.29,83.34
+Senegal,May,45.99,53.42
+Ethiopia,August,21.84,57.04
+Democratic Republic of the Congo,July,28.01,31.76
+Seychelles,June,24.88,64.04
+Democratic Republic of the Congo,June,23.49,56.72
+Burkina Faso,May,21.94,78.49
+South Africa,July,23.97,68.94
+Zambia,August,24.02,89.14
+Algeria,June,40.16,47.54
+Burundi,August,22.52,46.62
+Mauritius,August,41.08,68.82
+Djibouti,June,28.18,48.49
+Benin,August,22.77,15.24
+Comoros,August,42.53,83.43
+Mauritania,May,49.28,51.69
+Sao Tome and Principe,July,37.95,51.93
+Madagascar,August,45.59,53.56
+Gabon,June,42.75,21.19
+Mauritania,July,31.2,26.71
+Cameroon,May,22.01,34.15
+Equatorial Guinea,August,27.04,13.44
+Somalia,June,46.61,70.16
+Eritrea,July,31.28,26.45
+Angola,July,32.92,24.39
+Congo,June,43.25,54.29
+Ethiopia,May,30.53,38.67
+Ivory Coast,August,42.52,86.4
+Zimbabwe,August,41.63,88.83
+Uganda,June,33.28,55.99
+Democratic Republic of the Congo,May,43.13,15.47
+Gambia,May,20.66,71.94
+Chad,May,26.5,23.3
+Gambia,May,45.98,84.4
+Mali,May,38.7,74.82
+Tanzania,June,45.65,17.71
+Djibouti,August,22.17,29.17
+Egypt,July,27.62,59.06
+Niger,August,30.26,46.27
+Mauritius,June,38.54,72.52
+Sudan,July,27.34,84.93
+Eritrea,July,24.75,58.81
+Togo,May,29.29,54.59
+South Sudan,May,27.68,70.31
+Mauritius,July,27.13,61.76
+Cabo Verde,August,27.0,55.49
+Seychelles,June,30.51,32.02
+Tunisia,August,30.76,66.11
+Tanzania,August,30.45,84.49
+Gambia,June,27.48,42.39
+Ethiopia,July,39.84,53.18
+Angola,July,25.19,55.75
+Botswana,August,34.38,70.0
+Senegal,June,21.17,32.35
+Gambia,July,35.3,33.69
+Burundi,August,37.31,67.37
+Zimbabwe,June,30.2,69.92
+Comoros,August,42.54,61.9
+Burkina Faso,May,34.59,50.23
+Libya,July,34.0,72.63
+Mozambique,July,29.61,39.76
+Eritrea,May,40.26,26.4
+Central African Republic,August,20.35,29.99
+Central African Republic,June,42.23,49.12
+Congo,July,30.07,18.18
+Sierra Leone,May,42.54,73.79
+Congo,July,27.93,41.72
+Chad,July,31.85,72.62
+Mali,July,29.38,72.31
+Benin,May,34.36,50.68
+Sao Tome and Principe,May,40.79,72.77
+Algeria,July,41.0,26.75
+Burkina Faso,August,21.08,24.68
+Seychelles,May,39.79,63.81
+Gambia,July,38.31,57.23
+South Sudan,July,25.34,48.4
+Mauritania,June,37.92,35.69
+South Sudan,July,28.12,32.29
+Comoros,July,21.04,31.89
+Ghana,May,39.78,53.46
+Cabo Verde,June,22.23,52.42
+Madagascar,June,23.91,53.45
+Gabon,May,24.47,60.3
+Tanzania,June,28.85,53.67
+Rwanda,July,23.83,24.21
+Congo,August,20.93,79.05
+Senegal,July,23.7,41.77
+Central African Republic,July,25.25,70.48
+Kenya,May,33.67,15.38
+Burundi,June,45.96,39.0
+Tunisia,May,27.23,74.64
+Gabon,August,45.21,21.49
+South Africa,August,42.84,69.28
+Ghana,August,29.04,74.93
+Seychelles,June,20.84,56.73
+Ivory Coast,June,31.44,52.13
+Ethiopia,May,33.58,26.78
+Zimbabwe,May,47.67,61.98
+Namibia,June,38.69,56.53
+Equatorial Guinea,July,23.87,11.21
+Madagascar,June,36.37,51.77
+Eritrea,May,42.61,28.62
+Eswatini,June,44.33,31.57
+Mali,July,28.76,78.63
+Tunisia,July,34.29,34.28
+Sudan,July,30.66,15.31
+Lesotho,May,25.31,77.4
+Egypt,August,35.53,11.28
+Seychelles,July,27.39,73.18
+Lesotho,June,21.58,34.81
+Namibia,May,24.99,62.67
+Lesotho,August,36.2,18.04
+Tunisia,June,44.9,55.41
+Senegal,August,33.42,60.07
+Madagascar,July,41.19,11.86
+Gabon,August,24.76,86.56
+Tanzania,July,23.0,77.45
+Rwanda,May,38.08,60.66
+Ethiopia,July,23.13,57.81
+Rwanda,May,24.13,68.26
+Niger,July,41.4,77.64
+Zimbabwe,June,26.77,81.48
+Namibia,June,44.62,37.89
+Seychelles,August,26.31,39.17
+Guinea-Bissau,July,26.82,42.42
+Guinea,July,48.7,68.78
+Ivory Coast,July,23.19,38.22
+Gabon,July,28.78,81.83
+South Africa,August,28.98,16.8
+Sudan,May,30.74,31.46
+Mauritania,May,47.66,65.44
+South Africa,May,42.2,52.74
+Guinea-Bissau,July,35.38,21.26
+South Africa,August,36.06,12.06
+Cabo Verde,June,45.51,10.42
+Tunisia,June,44.85,37.28
+Ivory Coast,July,38.53,31.87
+Djibouti,July,38.2,62.38
+Tunisia,May,28.03,65.77
+Burkina Faso,May,39.49,72.96
+Democratic Republic of the Congo,May,25.33,59.65
+Liberia,June,31.44,63.01
+Mauritius,May,48.81,49.9
+Cabo Verde,June,27.32,46.5
+Burundi,July,28.87,19.0
+Zimbabwe,June,25.5,73.7
+Sudan,July,24.76,76.85
+Somalia,July,21.82,78.73
+Sierra Leone,August,48.25,17.54
+Madagascar,June,41.5,23.38
+Democratic Republic of the Congo,July,28.8,83.49
+Comoros,June,23.17,44.85
+Burkina Faso,August,42.02,34.53
+Sudan,August,40.28,78.12
+Mauritius,August,31.2,76.7
+Togo,July,49.88,73.97
+Djibouti,June,30.72,42.18
+Algeria,July,37.38,27.27
+Namibia,August,41.72,30.7
+Congo,June,36.83,88.69
+Central African Republic,August,38.69,67.48
+Seychelles,June,26.94,36.28
+Togo,August,27.04,23.14
+Sudan,May,22.3,38.54
+Kenya,May,24.04,30.02
+Eritrea,August,49.84,75.06
+Lesotho,May,46.73,70.18
+Eritrea,July,36.76,12.69
+Madagascar,July,27.99,31.7
+Sudan,July,39.62,72.8
+Seychelles,June,36.64,45.78
+Gabon,August,22.59,57.97
+Congo,June,43.74,75.54
+Mauritania,June,42.45,62.81
+Chad,June,49.43,24.47
+Guinea-Bissau,August,22.17,86.85
+Gabon,June,46.23,50.99
+Eritrea,June,22.33,33.23
+Burkina Faso,June,46.26,72.06
+Cabo Verde,August,29.1,62.8
+Guinea-Bissau,May,27.89,20.14
+Mali,June,42.85,83.76
+Tunisia,August,40.02,33.53
+Eritrea,June,30.31,66.91
+Malawi,July,31.13,53.22
+Zambia,July,45.83,50.13
+Mali,May,36.15,21.01
+South Africa,July,30.38,79.26
+Congo,July,38.98,14.39
+Tunisia,May,26.19,70.65
+Cameroon,August,40.84,82.29
+Algeria,June,40.57,48.94
+Namibia,June,49.18,85.63
+Equatorial Guinea,August,22.52,79.63
+Lesotho,July,35.53,58.69
+Niger,May,41.51,68.83
+Eswatini,June,33.71,18.94
+Mali,May,27.62,80.16
+Ethiopia,May,33.42,19.8
+Sudan,May,39.04,89.69
+Malawi,July,24.54,21.02
+Tunisia,August,34.33,75.6
+South Sudan,July,28.69,81.52
+Benin,July,33.49,54.45
+Benin,June,46.09,45.85
+Senegal,May,48.01,52.08
+Comoros,July,28.63,78.44
+Congo,May,47.13,21.03
+South Sudan,August,36.3,13.24
+Sudan,August,43.4,81.0
+Libya,June,26.95,88.7
+Algeria,July,33.95,62.51
+Morocco,May,28.36,44.07
+Central African Republic,August,30.68,74.44
+Tunisia,June,33.29,41.16
+Eswatini,August,24.12,61.48
+Djibouti,June,49.92,24.75
+Ethiopia,July,29.09,25.23
+Mozambique,May,27.93,34.03
+Tunisia,July,21.34,18.08
+Chad,June,36.89,31.8
+Tanzania,June,20.12,10.17
+South Sudan,August,28.53,57.28
+South Sudan,May,32.39,54.86
+Democratic Republic of the Congo,August,26.37,30.82
+Mauritius,August,33.68,48.97
+Uganda,August,33.78,24.17
+Democratic Republic of the Congo,August,28.6,25.14
+Cameroon,August,24.76,70.99
+Zambia,May,37.8,50.37
+Central African Republic,August,24.78,80.12
+Eswatini,August,27.51,11.42
+Tanzania,July,43.5,48.02
+Kenya,July,43.03,28.91
+Namibia,July,32.23,30.9
+Tunisia,July,22.8,47.42
+Sierra Leone,August,47.44,11.33
+Malawi,May,47.51,66.58
+Nigeria,June,33.77,74.11
+Gambia,June,47.81,79.74
+Central African Republic,August,47.15,52.61
+Angola,July,30.17,89.42
+Cabo Verde,June,39.46,59.71
+Libya,May,32.48,20.15
+Sudan,July,26.58,74.73
+Tanzania,May,21.32,22.94
+Zambia,May,26.19,42.03
+Mali,July,26.15,73.04
+Ethiopia,May,39.89,23.31
+Congo,May,39.32,67.66
+Zambia,June,39.3,67.6
+Eritrea,May,21.8,37.89
+Rwanda,May,34.42,10.88
+Niger,August,21.86,46.67
+Eswatini,May,25.5,51.25
+Guinea,July,29.44,57.69
+Sao Tome and Principe,May,30.3,64.18
+Botswana,July,23.52,48.28
+Rwanda,August,40.98,10.93
+Lesotho,June,38.57,20.45
+Zambia,August,41.42,69.2
+Guinea-Bissau,July,23.3,28.52
+Malawi,July,21.19,37.48
+Eritrea,June,38.18,81.88
+Equatorial Guinea,May,23.63,10.57
+Eswatini,June,31.0,87.74
+Comoros,July,48.21,15.89
+Egypt,August,45.46,40.57
+Zambia,June,32.77,23.95
+Eswatini,August,27.22,13.86
+Sudan,May,21.93,62.53
+Central African Republic,June,35.28,80.99
+Malawi,July,30.57,27.18
+Botswana,July,26.03,35.67
+Mali,May,30.16,38.28
+Kenya,July,23.39,21.0
+Egypt,August,26.54,34.83
+Gabon,August,40.42,61.5
+Nigeria,May,25.49,41.9
+Guinea,July,31.3,56.84
+Cabo Verde,July,49.29,80.04
+Somalia,May,21.84,28.99
+Botswana,May,37.85,51.21
+Madagascar,August,28.82,44.73
+Zambia,August,42.36,42.05
+Egypt,July,36.61,65.81
+Zimbabwe,May,33.85,72.47
+Zimbabwe,July,35.03,88.16
+Guinea-Bissau,July,44.59,18.54
+Madagascar,July,37.96,26.81
+Namibia,May,37.2,20.71
+Burkina Faso,June,49.04,62.97
+Ivory Coast,July,27.51,48.59
+Mozambique,August,49.19,76.69
+Sudan,August,26.5,46.1
+Sudan,May,20.49,29.6
+Namibia,May,42.27,43.25
+Uganda,June,25.77,41.47
+Madagascar,August,30.38,63.94
+Comoros,August,21.42,33.65
+Tanzania,July,33.05,53.98
+Algeria,August,27.47,51.0
+Namibia,July,23.45,72.91
+Kenya,August,29.76,85.47
+Equatorial Guinea,August,27.96,50.17
+Comoros,June,45.82,51.91
+Malawi,June,23.24,62.74
+Benin,May,21.63,29.57
+Gambia,May,30.29,19.87
+Kenya,August,25.77,47.6
+Eswatini,June,47.88,79.87
+Chad,May,46.15,74.45
+Malawi,May,44.31,27.06
+Angola,May,33.17,12.98
+Algeria,May,25.38,59.99
+Djibouti,June,39.91,19.3
+Guinea,July,20.55,73.85
+Congo,June,29.08,21.48
+Gambia,August,43.95,36.73
+Democratic Republic of the Congo,May,28.18,73.96
+Tanzania,May,45.47,61.51
+Tunisia,June,33.9,83.96
+Guinea-Bissau,July,42.65,78.64
+Sao Tome and Principe,July,27.29,15.5
+Djibouti,August,40.31,43.11
+Sudan,June,32.48,69.92
+Zambia,May,37.54,24.83
+Botswana,June,44.57,48.91
+Lesotho,July,22.47,55.78
+Mali,May,47.49,49.04
+Ghana,August,30.35,32.74
+Seychelles,July,33.46,22.4
+Tanzania,June,40.72,75.98
+Burkina Faso,May,22.29,53.21
+Guinea-Bissau,August,20.27,42.06
+Somalia,May,20.42,14.12
+Morocco,June,37.22,89.79
+Cameroon,May,21.49,72.43
+Nigeria,August,33.72,12.74
+Rwanda,August,27.77,56.78
+Tanzania,May,31.4,15.73
+Togo,July,47.2,48.72
+Djibouti,June,45.92,79.83
+Chad,July,46.3,21.04
+Mauritania,June,22.98,43.97
+Niger,May,46.17,17.29
+Kenya,May,47.42,58.38
+Mozambique,July,36.89,82.2
+Somalia,July,47.18,43.3
+Central African Republic,July,49.77,73.52
+Mauritius,June,39.12,80.91
+Djibouti,July,36.99,42.97
+South Africa,July,37.86,59.79
+Eswatini,May,33.26,22.41
+Algeria,May,44.43,29.3
+Congo,August,28.54,42.58
+Sao Tome and Principe,June,34.48,63.96
+Cameroon,August,20.18,22.44
+Gabon,June,30.7,36.82
+Namibia,August,46.09,84.65
+Burkina Faso,July,42.56,71.25
+Zimbabwe,June,24.15,57.05
+Burkina Faso,July,21.44,16.94
+Congo,May,44.66,68.83
+Sudan,July,34.36,46.79
+Ethiopia,May,49.27,12.25
+Zimbabwe,August,38.11,70.11
+Eritrea,June,24.74,84.53
+Kenya,August,41.01,13.68
+Democratic Republic of the Congo,May,26.06,84.16
+Ghana,August,44.8,24.98
+Somalia,August,45.83,25.0
+Burundi,May,48.82,34.26
+Guinea-Bissau,May,35.59,47.03
+Togo,August,34.91,45.14
+Comoros,May,31.86,17.26
+Cameroon,August,30.43,75.45
+Mali,August,41.37,34.0
+Morocco,June,36.87,72.51
+Namibia,June,33.1,63.81
+Chad,June,23.04,30.48
+Morocco,May,48.62,78.64
+Ghana,August,30.75,52.13
+Madagascar,August,31.7,81.75
+Mauritius,July,42.05,41.31
+Congo,June,34.79,18.68
+Kenya,July,43.55,82.25
+Eritrea,July,21.25,71.07
+Guinea,June,28.08,24.4
+Sao Tome and Principe,May,33.74,78.33
+Cabo Verde,June,42.18,13.67
+Gambia,May,31.9,56.88
+Egypt,May,46.44,23.34
+Morocco,July,40.67,17.39
+Central African Republic,August,30.28,86.63
+Burundi,May,29.26,89.49
+Nigeria,August,41.53,38.04
+Benin,July,39.54,13.54
+Chad,July,30.43,64.04
+Comoros,July,41.4,18.8
+Guinea-Bissau,August,29.84,17.3
+Lesotho,June,32.08,49.07
+Tunisia,June,28.56,48.2
+Morocco,August,28.85,20.24
+Somalia,May,25.77,56.89
+Comoros,July,34.37,72.79
+Malawi,July,30.35,87.33
+Tanzania,June,37.7,11.43
+Morocco,May,48.62,29.54
+Zambia,August,41.65,20.85
+Burundi,June,37.75,37.9
+Senegal,May,27.36,37.54
+Chad,June,33.87,56.85
+South Sudan,May,27.8,66.46
+Eswatini,May,40.21,52.51
+Uganda,August,31.56,81.53
+Djibouti,August,49.56,19.36
+Niger,July,20.19,45.15
+Tanzania,May,26.56,42.28
+Eritrea,July,44.15,16.28
+Tanzania,August,26.27,69.6
+Niger,July,24.89,87.5
+Mauritania,August,49.07,78.93
+Niger,June,27.23,40.19
+Central African Republic,July,27.53,85.35
+Eswatini,August,27.66,49.96
+Sao Tome and Principe,July,41.3,45.58
+Gambia,May,47.25,72.14
+Gambia,August,38.5,17.63
+Burkina Faso,July,41.54,88.59
+Democratic Republic of the Congo,June,38.75,26.62
+Ethiopia,June,23.36,60.15
+Burundi,August,35.82,13.78
+Angola,June,28.83,45.08
+Seychelles,June,36.69,54.32
+Sao Tome and Principe,August,36.56,38.57
+Senegal,May,44.5,49.31
+Algeria,August,26.09,34.28
+South Sudan,June,31.73,79.83
+Burkina Faso,August,41.19,43.13
+Malawi,July,24.3,44.28
+Sao Tome and Principe,July,44.09,63.56
+Democratic Republic of the Congo,May,31.65,33.08
+Tunisia,July,25.64,55.76
+Democratic Republic of the Congo,August,37.73,37.61
+Sudan,May,44.6,33.22
+Ethiopia,June,34.68,29.42
+Angola,August,35.06,62.17
+Algeria,May,46.64,65.56
+Burundi,May,39.28,41.53
+Kenya,June,43.37,32.56
+Rwanda,May,38.38,71.41
+Egypt,August,22.72,84.21
+Benin,August,21.08,27.92
+South Africa,June,24.35,41.27
+Sierra Leone,May,22.23,33.54
+Niger,June,48.05,27.8
+Senegal,August,26.46,58.9
+Eswatini,June,40.56,89.52
+Tunisia,July,28.38,35.94
+Tanzania,May,40.11,31.44
+South Africa,July,29.55,68.83
+Ethiopia,May,49.72,19.41
+Rwanda,May,47.36,68.53
+Chad,July,25.52,32.97
+Tanzania,June,30.61,83.61
+Somalia,June,48.58,85.59
+Rwanda,August,25.71,26.1
+Botswana,August,47.82,63.25
+Niger,July,46.61,14.55
+Mali,June,48.81,76.84
+Mozambique,July,28.56,38.54
+Egypt,May,23.4,39.88
+Madagascar,August,31.45,52.35
+Egypt,July,45.17,27.75
+Namibia,May,24.7,14.28
+Gabon,July,36.1,53.39
+Tunisia,August,42.73,53.13
+Egypt,July,28.43,52.34
+Democratic Republic of the Congo,August,22.69,57.6
+Sudan,June,49.92,85.77
+Chad,July,29.05,51.62
+Guinea,August,42.52,78.88
+Mauritania,August,40.87,81.45
+Egypt,August,41.42,38.53
+Sierra Leone,May,30.58,84.2
+Guinea,June,32.49,62.44
+Ivory Coast,May,31.02,40.99
+Rwanda,May,42.51,79.07
+Cameroon,August,37.27,21.13
+South Africa,May,45.81,64.85
+Algeria,August,37.64,65.9
+Comoros,July,43.68,66.24
+Tanzania,May,25.43,47.41
+Eritrea,July,42.44,58.33
+Burkina Faso,June,37.32,30.7
+Burkina Faso,August,28.91,21.11
+Togo,May,42.16,34.04
+Ghana,June,26.94,64.12
+Uganda,June,22.65,18.1
+Algeria,June,41.77,71.27
+Sierra Leone,July,20.2,49.98
+Namibia,July,49.8,63.25
+Democratic Republic of the Congo,May,30.72,87.0
+Togo,August,24.35,52.68
+Eswatini,May,21.7,36.27
+Tunisia,July,21.22,49.28
+Guinea,August,36.71,19.65
+South Africa,August,29.74,81.18
+Gabon,August,33.28,75.05
+Namibia,July,23.31,74.94
+Uganda,August,31.3,35.71
+Kenya,May,34.6,26.38
+Zambia,June,33.22,80.98
+Cabo Verde,July,39.24,47.81
+Uganda,June,36.05,29.59
+Cabo Verde,June,26.61,54.92
+Eritrea,May,32.48,70.09
+Niger,May,49.63,87.45
+Tanzania,May,39.47,26.53
+Cameroon,July,40.09,49.08
+Democratic Republic of the Congo,May,29.18,49.07
+Gambia,August,31.76,15.65
+Mauritania,May,29.92,60.71
+Eswatini,June,34.3,57.52
+Lesotho,July,48.02,58.37
+Kenya,May,30.32,64.65
+Cameroon,June,42.21,45.06
+Ghana,June,48.81,82.44
+Gabon,August,32.43,14.68
+Egypt,July,43.01,28.8
+South Sudan,August,23.61,62.73
+Gabon,May,30.47,42.95
+Zimbabwe,June,30.48,34.48
+Algeria,June,38.21,79.92
+Guinea-Bissau,July,41.84,54.78
+Zambia,July,38.55,40.91
+Madagascar,June,21.98,75.15
+Angola,July,20.5,83.95
+Malawi,July,35.18,55.6
+Nigeria,May,29.44,58.64
+Benin,July,30.3,29.58
+Cabo Verde,June,32.24,17.92
+Comoros,May,41.06,55.54
+Zimbabwe,June,38.23,70.85
+Democratic Republic of the Congo,July,36.43,58.19
+Guinea-Bissau,June,29.33,66.52
+Congo,May,48.08,76.33
+Zimbabwe,July,30.71,84.68
+Chad,August,21.91,79.08
+Cameroon,June,33.64,18.69
+Gambia,May,38.08,27.06
+Mozambique,June,44.82,88.35
+Morocco,August,34.82,37.87
+Eswatini,May,28.4,77.67
+Botswana,June,23.76,33.66
+Sierra Leone,June,36.91,10.41
+Gabon,May,26.14,82.48
+Namibia,May,47.32,88.95
+South Africa,June,20.49,61.66
+Gambia,June,32.54,30.86
+Morocco,August,45.52,78.04
+Tanzania,May,25.72,58.04
+Togo,July,45.4,37.56
+Algeria,June,40.25,55.46
+Zambia,August,20.93,17.8
+Sudan,August,35.35,26.9
+Sierra Leone,June,22.42,26.94
+Uganda,May,23.16,78.25
+Burkina Faso,July,49.29,83.91
+Madagascar,July,32.69,22.12
+Malawi,June,27.58,67.3
+Mauritius,July,43.92,15.28
+Morocco,July,36.95,45.18
+Cameroon,June,22.62,41.2
+Benin,August,26.81,52.11
+Lesotho,August,38.95,52.11
+Central African Republic,June,41.28,42.56
+Zambia,July,28.48,74.13
+Burkina Faso,June,44.64,42.56
+Tunisia,August,30.15,74.22
+Botswana,August,32.29,60.94
+Sierra Leone,May,46.24,36.3
+Somalia,May,27.22,27.22
+Congo,July,40.27,41.76
+Liberia,July,40.88,71.99
+Seychelles,May,45.13,58.32
+Djibouti,May,44.71,15.47
+Mali,August,26.56,79.75
+Rwanda,May,47.28,26.63
+Liberia,August,23.63,44.78
+Madagascar,July,25.93,60.64
+Tunisia,August,22.82,83.35
+Ivory Coast,July,38.14,34.67
+Seychelles,July,42.49,59.73
+Sierra Leone,August,30.7,82.92
+Morocco,August,39.2,72.33
+Niger,June,44.99,56.42
+Ethiopia,June,40.4,62.58
+South Africa,May,21.73,23.96
+Eswatini,June,43.6,81.29
+Eritrea,August,36.32,21.32
+Ivory Coast,August,34.68,54.29
+Mali,July,30.53,22.0
+Ghana,May,48.86,52.19
+Botswana,June,45.47,62.09
+Tunisia,July,25.05,46.6
+Kenya,August,35.39,84.0
+Central African Republic,July,42.64,75.35
+Morocco,June,42.36,39.79
+Guinea-Bissau,June,36.93,34.67
+Eritrea,July,37.4,71.07
+Mali,June,46.09,14.72
+Sierra Leone,August,35.07,35.79
+South Sudan,July,40.19,34.2
+Democratic Republic of the Congo,May,27.73,16.07
+Equatorial Guinea,August,47.79,14.25
+Democratic Republic of the Congo,August,46.43,76.96
+Senegal,June,25.36,29.3
+Eswatini,June,21.53,52.58
+Mali,June,35.96,30.92
+Eritrea,July,40.68,60.23
+Mauritania,May,31.54,37.54
+Botswana,June,31.25,12.6
+Guinea-Bissau,May,47.17,10.93
+Egypt,July,33.61,58.14
+Nigeria,May,33.74,64.87
+Ivory Coast,June,23.16,74.18
+Zimbabwe,June,34.66,47.87
+Burkina Faso,May,34.08,81.56
+Nigeria,May,21.88,52.29
+Ghana,August,22.73,72.9
+Gambia,May,23.91,56.66
+Sudan,June,31.38,13.13
+Kenya,May,48.39,31.35
+Niger,June,30.05,89.89
+South Sudan,July,23.55,23.76
+Tunisia,August,22.81,61.03
+Tunisia,July,22.6,16.38
+Botswana,June,22.33,47.75
+Nigeria,May,44.08,10.58
+Angola,July,41.12,75.7
+Burkina Faso,June,42.53,12.41
+Sao Tome and Principe,June,30.28,26.63
+Liberia,July,31.33,13.25
+Djibouti,August,42.72,65.29
+Burundi,July,40.02,89.97
+Sudan,July,24.51,27.43
+Eritrea,August,47.72,29.18
+Tunisia,August,24.87,51.83
+Benin,May,35.33,68.96
+Angola,July,22.18,86.07
+Mauritania,August,42.75,66.26
+Eswatini,August,34.85,22.05
+Mozambique,August,49.82,13.65
+Equatorial Guinea,June,34.57,28.43
+Sao Tome and Principe,June,23.71,31.79
+Sierra Leone,May,42.26,63.57
+Togo,June,29.55,58.92
+Sao Tome and Principe,June,30.39,73.32
+Guinea,August,30.17,33.73
+Equatorial Guinea,July,29.54,71.79
+Gambia,August,24.66,49.18
+Cabo Verde,August,23.84,31.72
+Kenya,August,25.16,79.46
+South Africa,June,42.76,84.16
+Sao Tome and Principe,May,20.78,28.68
+Cabo Verde,May,38.13,44.55
+Tunisia,July,40.8,65.98
+Chad,June,24.44,81.86
+Benin,August,42.64,62.02
+Togo,May,32.26,40.69
+Guinea-Bissau,August,49.44,28.94
+Mali,June,23.95,55.06
+Niger,June,48.78,67.93
+Kenya,August,41.12,70.99
+Senegal,July,37.8,86.04
+Morocco,June,35.49,86.93
+Eswatini,August,30.6,74.43
+Mozambique,June,35.98,81.89
+Niger,August,33.76,89.02
+Tunisia,July,45.41,68.32
+Malawi,July,36.64,70.5
+Gambia,May,30.58,28.36
+Democratic Republic of the Congo,August,23.46,88.36
+Mauritius,July,43.13,87.78
+Morocco,May,36.02,54.98
+Lesotho,May,48.1,17.69
+Libya,July,25.71,30.68
+Seychelles,August,39.03,40.24
+Togo,May,22.4,78.96
+Namibia,July,33.76,61.05
+Ghana,August,29.37,42.6
+South Africa,June,27.89,37.41
+Somalia,May,21.02,24.69
+Benin,May,22.39,71.95
+Mauritania,July,33.2,53.01
+Morocco,July,23.87,47.46
+Madagascar,May,45.87,76.71
+Botswana,August,25.43,27.08
+Egypt,May,38.01,25.75
+Tunisia,July,26.84,14.13
+Zambia,June,42.97,17.27
+South Sudan,May,20.38,69.98
+South Sudan,July,25.3,81.51
+Botswana,May,26.27,50.08
+Morocco,July,34.42,50.96
+Chad,July,40.12,54.42
+Congo,July,37.22,35.5
+Liberia,July,31.05,21.98
+Eritrea,July,34.14,19.96
+Namibia,May,20.07,86.77
+Somalia,August,33.73,75.02
+Togo,June,42.93,39.3
+Mauritius,May,45.67,63.27
+Gambia,June,31.71,39.89
+Ivory Coast,July,40.48,14.25
+Cameroon,June,28.47,58.19
+Niger,June,44.64,63.9
+Botswana,June,20.74,63.27
+Botswana,June,33.79,75.73
+Liberia,June,20.36,47.61
+Comoros,June,22.62,35.17
+Namibia,July,27.86,31.64
+Chad,July,31.79,10.45
+Somalia,May,42.18,58.04
+Cabo Verde,June,44.05,87.24
+Djibouti,July,25.23,33.51
+Algeria,May,22.48,62.24
+Madagascar,May,26.16,63.55
+Kenya,June,32.89,38.13
+Zambia,August,24.52,76.42
+Lesotho,August,22.45,18.84
+Lesotho,July,45.42,38.14
+Nigeria,May,36.08,42.3
+Zimbabwe,August,23.89,51.86
+Mauritius,June,28.39,25.23
+Guinea,August,48.15,66.34
+Liberia,July,39.58,40.08
+Djibouti,July,21.05,58.97
+Burkina Faso,August,42.78,41.1
+Uganda,May,20.2,41.06
+Senegal,July,29.14,26.11
+Equatorial Guinea,July,24.48,33.65
+Cabo Verde,May,49.89,22.49
+Gambia,May,42.07,46.32
+Libya,August,35.08,69.3
+Benin,June,49.11,20.37
+Sao Tome and Principe,June,37.0,65.89
+Lesotho,May,28.27,48.55
+Ghana,July,25.17,60.4
+Mauritania,July,47.63,79.58
+Burkina Faso,July,31.14,40.97
+South Africa,May,27.44,52.92
+Niger,June,34.4,30.56
+Ghana,August,25.93,12.73
+Benin,June,43.92,27.35
+Algeria,May,24.36,33.85
+Sao Tome and Principe,August,46.12,59.7
+Zimbabwe,June,26.96,81.84
+Malawi,May,25.44,77.03
+Mozambique,July,25.5,53.65
+Algeria,May,20.52,60.1
+Sierra Leone,July,21.73,76.23
+Malawi,May,28.01,78.81
+Gabon,June,27.78,48.27
+Rwanda,July,43.77,54.83
+Botswana,July,22.5,74.21
+Congo,July,37.25,45.39
+Niger,May,39.22,59.19
+Nigeria,July,27.19,47.12
+Niger,August,38.02,54.85
+Mauritius,July,49.21,49.86
+Comoros,July,26.47,62.86
+Somalia,June,41.3,61.29
+Comoros,May,35.02,12.68
+South Africa,August,26.08,85.44
+Guinea-Bissau,May,31.71,55.84
+Somalia,July,43.27,45.0
+Sudan,August,28.22,12.23
+Gambia,July,39.41,60.12
+Lesotho,May,31.54,83.39
+Tanzania,June,37.52,59.56
+Sao Tome and Principe,May,22.69,37.95
+Somalia,June,26.12,55.76
+Comoros,July,46.62,22.19
+Niger,May,31.31,76.34
+Uganda,July,23.37,57.49
+Cameroon,July,22.95,25.57
+Sierra Leone,May,42.75,22.52
+Gabon,May,41.94,56.02
+Libya,May,27.9,52.94
+Guinea,August,28.41,37.92
+Djibouti,June,20.44,12.95
+Burundi,May,25.75,70.47
+Comoros,May,34.74,51.81
+Egypt,July,36.91,34.7
+Madagascar,June,22.85,80.47
+Togo,May,38.25,59.52
+South Africa,May,29.09,82.89
+Togo,August,29.34,65.3
+Comoros,May,37.67,37.02
+South Sudan,August,32.58,83.72
+South Africa,August,21.77,23.71
+Zambia,May,49.74,52.58
+Zimbabwe,June,34.38,29.73
+Democratic Republic of the Congo,June,43.3,50.91
+Ghana,July,30.04,17.72
+Eritrea,May,26.73,33.38
+Mozambique,August,45.52,77.82
+Zimbabwe,July,49.91,47.79
+Libya,July,48.57,63.08
+Benin,May,27.91,10.75
+Zimbabwe,August,40.33,85.14
+Gambia,May,41.21,38.36
+Senegal,August,41.14,21.36
+Benin,May,31.57,57.74
+Liberia,August,29.72,81.33
+Mozambique,July,34.09,70.68
+Central African Republic,July,47.29,72.99
+South Sudan,July,31.94,44.59
+Democratic Republic of the Congo,May,20.28,65.15
+Libya,June,44.74,79.51
+Botswana,May,48.45,84.8
+Liberia,August,43.38,78.21
+Cabo Verde,July,46.94,42.42
+Libya,August,49.44,81.86
+Gambia,June,34.56,21.39
+Rwanda,July,35.51,57.77
+Chad,August,31.33,34.18
+Eritrea,June,42.36,80.65
+Botswana,May,40.05,26.15
+Tunisia,July,37.14,19.31
+Comoros,August,22.71,44.59
+Ethiopia,August,40.83,17.2
+Rwanda,August,44.27,10.04
+Togo,August,27.33,84.09
+Gabon,July,35.75,18.99
+South Sudan,June,48.73,37.82
+Tanzania,June,44.1,58.19
+Morocco,May,26.49,57.51
+Sierra Leone,July,33.43,70.05
+Nigeria,August,32.45,21.5
+Lesotho,June,37.49,48.09
+Tunisia,July,24.76,19.32
+Chad,June,47.26,22.34
+Tunisia,August,31.1,85.68
+Chad,August,33.23,37.26
+Zimbabwe,August,45.56,16.67
+Congo,July,28.56,26.68
+Mali,July,30.65,81.72
+Sao Tome and Principe,July,48.49,27.65
+Comoros,June,32.24,78.78
+Mali,May,38.27,46.96
+Senegal,August,22.91,43.08
+Zimbabwe,June,32.03,73.41
+Botswana,June,32.45,33.53
+Tanzania,July,36.8,84.91
+Burundi,June,35.66,29.58
+Seychelles,May,31.47,44.3
+Botswana,July,26.97,65.98
+Togo,June,30.57,35.22
+Sao Tome and Principe,June,35.82,73.32
+Comoros,May,24.23,10.29
+Benin,August,44.08,86.17
+Madagascar,June,35.85,82.4
+South Sudan,May,34.57,37.34
+Ghana,July,35.42,34.42
+Gabon,July,39.65,15.41
+Zimbabwe,May,27.34,69.42
+Congo,August,24.09,38.01
+Tanzania,May,27.65,73.26
+Mozambique,May,21.95,18.32
+Ivory Coast,May,39.08,49.13
+Kenya,May,29.4,63.5
+Malawi,June,24.68,46.45
+Kenya,July,27.4,17.38
+Seychelles,June,22.83,37.57
+Djibouti,June,24.55,39.79
+Somalia,June,34.8,82.51
+Togo,August,30.69,61.32
+Eritrea,July,22.44,25.02
+Cameroon,May,22.24,79.06
+Equatorial Guinea,August,49.24,63.58
+Eritrea,May,39.37,15.88
+Sudan,June,35.35,53.58
+Niger,May,40.42,57.09
+Ethiopia,May,34.44,83.05
+Mauritius,June,33.35,44.71
+Sierra Leone,August,49.82,79.16
+South Africa,June,37.62,55.94
+Namibia,July,22.32,23.29
+Senegal,May,26.95,61.06
+Zambia,June,43.42,64.49
+Angola,July,42.44,79.88
+Ghana,June,44.57,69.12
+Gabon,July,38.77,85.53
+Kenya,July,30.95,40.1
+Congo,August,29.66,21.85
+Ghana,June,36.11,60.25
+Democratic Republic of the Congo,May,39.35,44.56
+Eswatini,July,20.96,52.83
+Ethiopia,June,30.65,46.24
+Morocco,June,48.28,17.09
+Mauritania,August,22.46,37.37
+Zambia,June,33.66,84.43
+Morocco,May,42.09,84.99
+Namibia,August,20.79,65.38
+Malawi,August,21.03,24.37
+Niger,July,22.52,59.68
+South Africa,May,48.63,79.89
+Nigeria,May,37.68,53.5
+Gambia,July,25.11,67.59
+Botswana,May,36.72,36.9
+Togo,July,47.1,54.85
+Sao Tome and Principe,July,45.4,60.35
+Mali,July,32.84,89.15
+Nigeria,May,45.92,38.52
+Guinea-Bissau,July,31.88,35.33
+Ethiopia,August,36.4,50.16
+Congo,August,25.21,27.63
+Mali,August,47.9,46.88
+Libya,May,38.58,37.55
+Zimbabwe,July,40.63,70.06
+Angola,July,32.99,25.74
+Guinea,July,44.98,75.76
+Angola,July,43.58,89.55
+South Africa,June,26.66,64.58
+Mozambique,July,43.54,44.57
+Guinea,June,33.95,84.56
+Ethiopia,August,33.79,51.07
+Liberia,May,25.72,11.52
+Liberia,June,34.12,35.98
+Zimbabwe,August,49.72,56.13
+Tanzania,August,41.4,46.32
+South Sudan,June,40.76,24.29
+Mauritania,May,20.34,66.86
+Botswana,June,49.32,32.74
+Eswatini,June,21.5,31.9
+Zambia,June,42.89,75.22
+Mauritania,August,26.12,15.68
+Equatorial Guinea,July,23.83,11.62
+Sao Tome and Principe,July,26.87,60.47
+Benin,June,28.04,75.33
+Democratic Republic of the Congo,May,43.61,12.33
+Uganda,June,40.38,44.56
+Mozambique,June,48.52,80.78
+Burundi,May,26.59,18.85
+Madagascar,June,22.76,67.55
+Sierra Leone,May,42.27,16.11
+Lesotho,July,41.05,42.92
+Somalia,August,30.54,28.44
+Central African Republic,May,36.96,30.13
+Tunisia,August,23.64,11.16
+Sao Tome and Principe,August,40.55,36.86
+Sudan,May,20.27,77.31
+Senegal,June,27.6,73.95
+Gambia,July,49.1,26.43
+Mauritius,August,46.14,54.26
+Mauritania,July,36.09,74.18
+Lesotho,May,30.33,38.68
+Gambia,June,48.43,52.03
+Somalia,June,38.99,12.03
+Seychelles,July,25.12,12.07
+Ghana,August,48.28,37.57
+Niger,August,32.5,33.25
+Eritrea,May,29.82,37.22
+Ivory Coast,June,26.6,66.06
+Eswatini,May,33.04,51.97
+Gambia,August,43.94,62.58
+Niger,July,31.97,35.51
+Burkina Faso,July,22.46,24.29
+Tanzania,July,27.66,48.81
+Guinea-Bissau,July,34.68,28.98
+Uganda,August,24.76,81.2
+Lesotho,May,25.07,46.03
+Gabon,June,35.34,74.45
+Benin,July,37.31,66.38
+Morocco,May,45.79,59.16
+Tanzania,July,25.02,54.85
+Eswatini,July,37.65,19.71
+Angola,May,45.61,80.76
+Congo,July,28.69,58.28
+Rwanda,June,26.52,14.13
+Morocco,June,23.9,47.81
+Central African Republic,June,36.55,29.81
+Libya,May,22.72,39.72
+Guinea,August,40.25,37.72
+Seychelles,July,20.66,24.72
+Sudan,June,21.03,10.42
+Uganda,May,48.77,77.43
+Senegal,June,49.09,75.57
+Kenya,May,26.78,28.86
+Lesotho,May,34.68,68.23
+Rwanda,August,37.83,33.73
+Ethiopia,May,41.98,60.62
+Mali,May,40.11,84.85
+Lesotho,August,29.69,22.61
+Nigeria,August,40.89,72.07
+Senegal,May,42.56,55.39
+Zambia,August,44.28,35.21
+Tunisia,August,36.13,80.93
+Somalia,May,24.02,59.96
+Mozambique,July,20.62,55.76
+Libya,June,22.28,27.81
+Eritrea,June,43.68,52.44
+Algeria,May,29.56,75.04
+Ethiopia,May,42.04,18.52
+Algeria,May,46.93,30.06
+Tunisia,July,43.26,15.26
+Tanzania,June,20.06,84.77
+Burundi,August,30.0,87.32
+Ethiopia,May,39.5,86.35
+Egypt,July,42.2,26.38
+Zambia,June,48.06,37.79
+Ghana,June,22.97,20.34
+Algeria,May,41.73,76.02
+Ivory Coast,May,34.61,37.54
+Ethiopia,July,24.62,12.39
+Egypt,June,43.47,81.77
+Algeria,May,23.07,21.88
+South Sudan,May,36.87,35.89
+Mauritania,August,33.94,29.36
+Guinea-Bissau,May,25.92,10.06
+Eritrea,July,20.25,47.22
+Benin,June,36.22,25.9
+Egypt,July,41.34,52.36
+Angola,July,23.45,33.46
+Zimbabwe,May,30.81,84.13
+Libya,July,46.49,48.23
+Uganda,June,27.83,74.52
+Djibouti,August,28.97,73.89
+Botswana,June,21.57,35.35
+Zambia,July,45.16,59.54
+Tunisia,August,38.45,62.32
+Liberia,June,30.0,87.85
+Chad,July,22.49,89.09
+Eswatini,August,27.31,79.27
+Libya,June,26.36,27.88
+Zambia,August,32.19,61.15
+Zambia,May,20.57,42.34
+Mozambique,May,49.17,59.32
+Malawi,May,22.74,11.42
+Zimbabwe,July,49.77,25.31
+Tanzania,August,23.26,52.11
+Central African Republic,August,40.18,75.32
+Mozambique,July,42.2,76.47
+Uganda,June,21.7,64.18
+Kenya,July,36.76,76.2
+Gabon,July,32.99,35.72
+Togo,May,35.48,53.15
+Mauritius,June,36.7,86.16
+Guinea-Bissau,May,21.26,19.26
+Mauritius,June,29.02,54.34
+Guinea,June,32.03,79.21
+Zimbabwe,July,40.5,63.43
+Djibouti,August,22.46,47.1
+Liberia,July,33.75,52.64
+Equatorial Guinea,May,34.81,18.81
+Congo,August,30.77,45.73
+Egypt,July,27.16,15.41
+Zambia,August,39.69,67.03
+Rwanda,August,40.87,43.98
+Togo,July,38.47,21.89
+Mauritius,July,49.61,45.36
+Cameroon,August,36.63,47.7
+Lesotho,May,47.87,41.33
+Sudan,June,46.0,60.45
+Tanzania,August,36.82,45.33
+Nigeria,July,23.79,17.68
+Egypt,August,30.45,41.73
+Guinea,August,32.15,16.31
+Namibia,July,47.25,42.53
+Equatorial Guinea,June,45.72,71.64
+Central African Republic,July,41.13,43.15
+Central African Republic,June,21.97,69.87
+Kenya,May,45.48,37.56
+Burkina Faso,July,34.59,24.1
+Sierra Leone,May,42.06,60.06
+Morocco,May,38.5,80.44
+Niger,July,26.51,53.92
+Djibouti,June,45.0,16.85
+Gabon,May,35.22,45.65
+Madagascar,June,22.08,24.31
+Comoros,June,20.85,61.67
+Tunisia,August,30.25,74.39
+Cabo Verde,June,20.23,68.76
+Ivory Coast,May,23.85,46.1
+Malawi,August,40.6,20.66
+Egypt,August,33.23,69.86
+South Africa,August,21.84,89.17
+Seychelles,July,21.68,56.72
+South Africa,August,32.05,68.69
+Zimbabwe,May,47.88,71.03
+Egypt,August,49.53,10.05
+Liberia,June,24.93,49.53
+Cameroon,May,43.31,50.59
+Togo,June,47.11,28.77
+Lesotho,July,36.38,50.97
+Mauritania,May,45.64,27.8
+Eswatini,July,29.09,54.02
+Ghana,August,35.11,18.05
+Central African Republic,August,22.68,54.61
+Nigeria,May,42.33,23.01
+Tunisia,June,20.27,40.15
+Mali,August,42.1,86.99
+Namibia,June,37.56,44.18
+Sudan,July,24.94,77.05
+Ghana,May,39.02,36.86
+Equatorial Guinea,June,44.75,69.69
+Liberia,August,31.92,10.87
+Algeria,June,47.95,74.2
+Chad,August,37.7,14.97
+Lesotho,May,46.42,56.79
+Morocco,July,29.59,29.69
+Djibouti,June,41.57,35.76
+Guinea-Bissau,July,29.37,50.34
+Central African Republic,August,32.2,35.15
+Uganda,June,35.04,32.63
+Burkina Faso,May,31.5,68.44
+Somalia,July,28.03,27.11
+South Africa,June,28.57,18.61
+Morocco,June,21.73,79.42
+South Sudan,July,29.33,44.87
+Liberia,June,44.64,35.33
+Democratic Republic of the Congo,May,30.51,69.85
+Somalia,August,20.62,10.18
+Zambia,July,44.09,14.57
+Benin,August,33.85,78.36
+Equatorial Guinea,June,22.71,43.53
+Namibia,June,44.58,18.01
+Togo,June,44.63,27.48
+Central African Republic,May,20.36,49.9
+Namibia,July,33.5,79.65
+Morocco,June,20.56,57.9
+Uganda,June,33.86,63.69
+Sudan,May,46.65,79.21
+Zimbabwe,June,35.41,20.58
+Algeria,August,30.73,86.95
+Guinea,July,22.4,57.03
+South Africa,June,41.41,30.83
+South Sudan,May,45.17,45.08
+South Africa,August,25.49,61.74
+Gambia,August,20.29,82.37
+Mauritania,June,23.25,76.9
+Algeria,May,39.91,83.89
+South Africa,July,44.25,41.85
+Botswana,June,21.75,73.07
+Djibouti,July,21.63,57.69
+Ethiopia,May,43.83,72.63
+Niger,June,40.41,85.64
+Equatorial Guinea,August,36.14,55.16
+Ivory Coast,May,35.87,88.62
+Guinea-Bissau,July,46.81,85.22
+Senegal,May,22.88,70.13
+South Africa,May,26.15,50.87
+Algeria,August,24.44,11.07
+Cabo Verde,May,29.35,53.98
+Mozambique,August,20.96,19.94
+South Africa,August,49.35,85.38
+Ethiopia,June,32.1,51.12
+Guinea-Bissau,June,29.5,28.65
+Burundi,June,44.89,82.71
+Rwanda,June,25.94,62.71
+Namibia,May,41.56,83.44
+Tanzania,May,22.03,22.64
+Namibia,August,30.69,19.26
+Zambia,May,37.75,53.92
+Cabo Verde,July,32.22,89.13
+South Sudan,August,37.49,77.69
+Congo,May,45.44,32.35
+Guinea-Bissau,May,39.48,43.02
+Zambia,July,31.9,12.86
+Senegal,August,22.19,63.26
+Cameroon,May,33.55,76.45
+Djibouti,June,46.27,76.64
+Sao Tome and Principe,May,47.65,37.64
+Ivory Coast,August,22.94,34.8
+Ivory Coast,May,26.79,13.62
+Burkina Faso,May,36.8,12.31
+Sao Tome and Principe,May,20.92,41.53
+Cabo Verde,July,26.39,57.47
+Equatorial Guinea,May,26.54,59.49
+Democratic Republic of the Congo,July,20.19,17.53
+Senegal,June,38.92,48.16
+Mozambique,August,20.06,39.6
+Zimbabwe,May,36.55,40.26
+Burundi,June,47.21,86.3
+Egypt,August,43.57,47.55
+Sudan,June,38.76,82.68
+Chad,July,21.54,58.96
+Mauritania,May,43.59,70.01
+Namibia,August,24.34,79.2
+Gabon,August,22.25,22.24
+Kenya,July,37.08,60.54
+Eswatini,June,47.11,13.27
+South Sudan,June,27.75,39.24
+Madagascar,July,44.01,29.58
+Namibia,August,30.43,18.68
+Botswana,July,35.72,87.75
+Mali,July,21.51,65.76
+Nigeria,July,31.44,22.48
+Uganda,August,21.0,22.98
+Guinea,May,41.01,59.47
+Mauritius,August,28.19,70.13
+Chad,May,20.82,38.76
+Gambia,July,43.77,31.55
+Central African Republic,June,23.63,49.93
+Niger,May,39.6,23.23
+Central African Republic,May,27.35,11.95
+Angola,July,31.97,40.53
+Mauritania,August,41.45,12.22
+Botswana,July,35.29,61.26
+Cabo Verde,June,38.42,65.65
+Rwanda,May,35.3,33.9
+Gambia,August,43.84,31.41
+Liberia,June,34.53,22.07
+Mozambique,August,28.06,50.78
+Sierra Leone,May,43.27,84.01
+Democratic Republic of the Congo,July,48.35,23.59
+Cameroon,June,26.65,42.0
+Comoros,July,20.93,23.23
+Eswatini,May,29.64,41.17
+Mauritius,August,45.71,36.52
+Senegal,May,37.93,15.28
+Mali,July,41.63,66.59
+Ethiopia,July,23.02,62.89
+Algeria,June,43.42,81.64
+Ivory Coast,July,36.93,44.48
+Burundi,June,20.74,63.23
+Sao Tome and Principe,July,35.3,24.74
+Mozambique,August,49.23,72.27
+Zambia,July,39.19,49.56
+Madagascar,May,45.68,87.13
+Guinea-Bissau,July,30.76,83.88
+Seychelles,July,26.14,51.8
+Madagascar,June,21.35,51.67
+Algeria,August,21.79,23.21
+Central African Republic,May,31.98,27.17
+Democratic Republic of the Congo,May,42.41,34.89
+Burundi,July,31.66,10.63
+Sudan,June,46.12,21.71
+Sudan,June,40.98,66.32
+Guinea-Bissau,June,43.56,59.12
+Central African Republic,August,21.3,70.49
+Ivory Coast,August,43.89,80.36
+South Africa,July,20.12,37.33
+Congo,August,46.64,77.47
+Djibouti,July,40.92,36.47
+Liberia,May,29.86,44.11
+Equatorial Guinea,August,24.48,73.4
+Burkina Faso,June,29.42,43.37
+Algeria,August,38.9,76.59
+Chad,August,32.0,61.05
+Sao Tome and Principe,June,40.26,66.88
+Lesotho,May,47.72,44.48
+Central African Republic,June,43.47,44.83
+Guinea-Bissau,August,28.15,32.47
+Eswatini,August,28.08,49.73
+South Africa,June,23.93,84.56
+Senegal,May,20.99,43.44
+Togo,June,46.25,68.66
+Mauritius,May,32.58,24.18
+Nigeria,July,33.44,25.15
+Eritrea,August,21.75,31.48
+Cameroon,August,47.53,67.06
+Zambia,June,43.84,30.1
+Guinea-Bissau,August,32.48,20.91
+Liberia,May,23.3,68.04
+Chad,August,38.44,55.7
+Gabon,August,21.69,24.5
+Malawi,June,42.75,87.74
+Liberia,July,25.28,57.7
+Niger,May,38.3,26.9
+Ghana,July,29.0,54.7
+Ethiopia,June,20.6,37.25
+Madagascar,August,28.0,26.28
+Sao Tome and Principe,July,46.02,73.67
+Sierra Leone,June,25.82,85.58
+Burundi,August,28.58,79.48
+South Africa,July,26.92,62.06
+Mauritius,May,45.54,58.15
+Sierra Leone,May,33.97,59.32
+Cabo Verde,May,23.95,80.9
+Niger,June,22.05,76.05
+Gambia,August,36.56,46.04
+Somalia,June,24.8,54.35
+Eritrea,June,44.14,23.59
+Senegal,August,41.17,15.09
+Sao Tome and Principe,May,36.15,52.79
+Chad,June,22.94,75.61
+Niger,June,45.94,61.13
+Sierra Leone,June,49.38,51.4
+Cabo Verde,June,20.39,49.53
+Tunisia,June,30.36,86.76
+Burundi,June,22.77,68.72
+Mali,June,40.94,85.83
+Niger,July,47.85,31.1
+Ethiopia,July,38.64,41.36
+Mauritius,July,20.46,24.4
+Gabon,August,31.61,37.36
+Togo,May,44.55,39.54
+Gambia,July,21.08,61.46
+Tunisia,August,38.54,40.21
+Sudan,August,37.43,63.02
+Guinea,May,30.61,79.32
+Seychelles,July,39.04,12.92
+Burundi,June,48.68,76.62
+Burundi,July,42.86,13.54
+Algeria,May,42.37,26.23
+Libya,June,33.12,87.81
+Namibia,June,47.27,44.72
+Libya,July,29.02,68.14
+Rwanda,May,24.22,25.14
+Mauritania,May,46.25,83.78
+Senegal,July,31.19,76.92
+Namibia,August,39.43,52.36
+Namibia,July,34.95,43.81
+Mauritania,May,37.21,57.19
+Libya,May,33.62,56.63
+Kenya,June,30.38,86.47
+Ethiopia,June,23.61,87.04
+Comoros,July,39.2,50.48
+Togo,August,32.16,71.44
+Gambia,May,34.27,29.69
+Cameroon,July,21.14,38.3
+Zambia,June,23.29,71.34
+Central African Republic,June,44.51,59.72
+Mozambique,July,46.48,23.36
+Ivory Coast,May,44.22,82.23
+Burundi,August,38.04,11.02
+Egypt,August,40.91,17.9
+Burkina Faso,August,26.33,25.07
+Egypt,July,24.74,20.12
+Liberia,June,21.06,86.69
+Uganda,August,40.94,20.39
+Ivory Coast,July,48.41,87.33
+Mauritania,August,39.15,46.36
+Angola,August,31.98,34.52
+Gambia,May,35.31,69.7
+Mauritania,August,46.89,72.41
+Guinea-Bissau,August,46.58,79.88
+Seychelles,May,49.29,24.69
+Comoros,August,46.3,30.2
+Rwanda,June,37.11,33.42
+Chad,June,35.78,82.53
+Equatorial Guinea,May,46.71,66.96
+Mozambique,August,23.38,31.57
+Liberia,August,27.64,58.55
+Senegal,August,34.97,23.37
+Kenya,August,32.48,46.37
+Togo,May,32.47,45.28
+Kenya,August,38.16,80.38
+Tunisia,August,36.51,14.65
+Namibia,May,36.06,67.14
+Eswatini,May,41.43,44.21
+Ivory Coast,May,39.54,11.97
+Burundi,May,22.05,16.9
+Seychelles,August,31.11,84.63
+Malawi,July,44.39,75.17
+Congo,July,26.55,50.11
+Mauritius,June,20.41,29.66
+Malawi,June,25.47,60.67
+Nigeria,June,20.12,39.64
+Cabo Verde,July,28.2,20.81
+Djibouti,July,34.31,19.01
+Gambia,May,23.75,89.35
+Comoros,August,43.61,62.58
+Niger,July,31.59,28.84
+Eritrea,August,47.52,20.75
+Eritrea,June,43.97,84.07
+Congo,May,23.26,10.59
+South Africa,August,32.59,15.2
+Egypt,May,36.77,21.06
+South Sudan,June,48.57,75.17
+Sao Tome and Principe,June,30.86,40.8
+Mauritania,June,31.58,27.63
+Tunisia,May,34.01,62.35
+Ivory Coast,August,46.95,58.71
+Guinea,July,31.41,34.77
+Algeria,June,24.76,60.03
+Congo,June,27.2,14.73
+Zimbabwe,August,44.8,46.17
+Ethiopia,June,20.06,47.56
+Comoros,May,39.77,19.31
+Mozambique,July,44.51,61.45
+Cameroon,July,26.18,48.27
+Burundi,July,35.57,54.85
+Mauritania,May,32.18,51.26
+Niger,July,21.81,20.09
+Nigeria,August,21.15,57.34
+Angola,June,40.26,44.16
+Cameroon,May,33.76,85.6
+Malawi,June,33.88,63.5
+Botswana,July,47.69,64.44
+Togo,May,35.58,13.56
+Seychelles,July,49.05,69.96
+Botswana,May,29.07,75.32
+Seychelles,August,28.3,65.48
+Cabo Verde,August,37.7,51.85
+Djibouti,August,35.49,74.62
+Tanzania,May,25.73,67.19
+Lesotho,May,33.42,18.27
+Guinea,July,28.42,55.8
+Cameroon,June,31.68,10.18
+Morocco,June,32.26,63.47
+Libya,July,46.73,25.62
+Guinea-Bissau,July,49.86,63.28
+Sao Tome and Principe,May,20.02,25.1
+Zimbabwe,July,29.25,48.96
+Cameroon,July,45.07,30.06
+Ethiopia,August,24.93,17.17
+Somalia,June,26.84,66.93
+Uganda,August,41.18,23.02
+Kenya,August,36.18,66.54
+Ethiopia,June,25.05,23.01
+Sierra Leone,July,20.22,24.95
+Madagascar,June,33.88,13.63
+Djibouti,June,24.41,41.61
+Madagascar,July,42.6,84.56
+Somalia,August,21.78,15.1
+Sao Tome and Principe,May,30.49,12.99
+Morocco,August,28.96,18.44
+Angola,May,27.38,65.11
+Nigeria,May,38.97,21.42
+Ghana,August,34.71,49.4
+Eritrea,May,27.39,18.48
+Eswatini,June,24.48,61.93
+Mauritania,May,29.36,73.87
+Senegal,June,46.53,73.54
+Namibia,July,42.68,65.77
+Libya,July,47.61,62.22
+Malawi,August,37.28,40.96
+Sao Tome and Principe,July,44.39,79.9
+Seychelles,June,38.64,48.04
+Tunisia,July,49.8,66.09
+Cabo Verde,July,36.73,24.54
+Zambia,May,32.58,77.62
+Botswana,June,44.58,54.62
+Egypt,August,46.0,87.9
+Burkina Faso,June,42.45,52.11
+Eswatini,July,28.07,46.42
+Mali,July,37.57,45.48
+Ivory Coast,May,26.9,51.07
+Egypt,June,39.38,15.32
+Mauritius,June,24.35,17.27
+Central African Republic,July,46.59,88.93
+Sudan,July,43.48,54.56
+Tunisia,June,38.03,67.04
+Sao Tome and Principe,July,41.22,75.92
+Equatorial Guinea,July,21.45,58.96
+Central African Republic,May,46.01,14.61
+Guinea,July,42.23,51.14
+Nigeria,June,37.42,27.98
+Mauritius,May,42.75,76.23
+Ethiopia,July,38.04,80.13
+Ghana,July,24.52,34.52
+Seychelles,July,48.94,43.19
+Gabon,June,40.72,54.54
+Comoros,June,22.0,55.99
+Somalia,May,37.51,70.62
+Madagascar,August,22.67,22.09
+Democratic Republic of the Congo,May,43.72,66.26
+Burkina Faso,May,20.87,88.11
+Mozambique,August,49.61,64.29
+Angola,May,29.53,75.57
+Congo,July,24.19,54.18
+Equatorial Guinea,May,29.64,25.7
+Gabon,June,32.15,75.8
+Burkina Faso,May,31.47,78.64
+Botswana,July,29.91,70.56
+Ghana,August,28.49,30.04
+Egypt,August,32.4,36.54
+Cabo Verde,May,21.08,84.1
+Eritrea,July,41.01,67.32
+Somalia,June,42.72,87.46
+Nigeria,May,20.21,82.85
+Benin,August,35.45,49.81
+Botswana,June,30.77,81.7
+Democratic Republic of the Congo,May,39.83,75.21
+Seychelles,August,49.05,41.81
+Liberia,May,31.31,75.14
+Somalia,August,23.93,56.54
+Egypt,August,38.03,17.01
+Seychelles,May,22.07,70.63
+Togo,June,35.1,34.81
+Central African Republic,August,45.78,84.05
+Cameroon,August,20.29,71.51
+Mauritius,July,21.45,64.73
+Liberia,July,47.89,33.88
+Seychelles,July,37.96,58.05
+Eritrea,July,38.96,47.09
+Madagascar,August,26.48,16.13
+Equatorial Guinea,May,40.17,48.43
+Rwanda,July,23.22,21.58
+South Sudan,July,34.46,40.84
+Democratic Republic of the Congo,June,39.76,83.67
+Mozambique,June,45.1,59.43
+South Africa,May,42.48,29.13
+Democratic Republic of the Congo,August,44.83,73.73
+Sao Tome and Principe,July,25.08,49.83
+Cameroon,May,33.18,41.82
+Sao Tome and Principe,August,22.92,33.56
+Zimbabwe,June,46.71,12.58
+Niger,June,47.97,20.26
+Benin,June,36.96,13.07
+Togo,August,29.79,62.39
+Ghana,August,21.35,76.05
+Botswana,July,29.5,84.33
+Gabon,July,27.28,75.24
+Burundi,May,46.83,70.04
+Ivory Coast,June,43.34,78.72
+Ivory Coast,August,49.8,15.28
+Zimbabwe,August,40.67,58.1
+Cabo Verde,May,27.07,50.26
+Zambia,July,28.45,83.12
+Cabo Verde,June,35.6,52.18
+Egypt,May,48.44,42.21
+Gambia,May,22.02,34.07
+Angola,July,33.96,84.37
+Tanzania,July,23.75,78.7
+Egypt,July,22.8,73.08
+Somalia,July,42.09,40.26
+Malawi,July,38.55,62.28
+Angola,June,30.73,53.64
+Comoros,May,25.58,84.87
+Angola,June,25.78,28.98
+Zimbabwe,July,39.29,53.73
+Cabo Verde,June,44.53,61.98
+Mozambique,May,34.95,72.76
+Eswatini,May,27.6,15.24
+Sao Tome and Principe,May,44.73,38.59
+Gabon,July,25.33,69.76
+Ethiopia,August,25.87,11.58
+Mauritius,August,22.44,21.67
+Eswatini,August,48.77,83.14
+Uganda,June,24.86,82.81
+Guinea-Bissau,June,32.73,34.17
+Chad,July,40.33,46.98
+South Sudan,August,29.02,45.76
+Morocco,August,35.85,68.66
+Tunisia,May,26.79,61.26
+Congo,July,35.51,35.26
+Comoros,May,20.77,42.68
+Democratic Republic of the Congo,May,45.12,59.77
+Niger,July,34.79,67.99
+Benin,July,39.95,24.85
+Tunisia,May,27.28,20.47
+Cabo Verde,May,36.88,78.03
+Sudan,August,32.87,17.65
+Cameroon,August,25.59,19.48
+Egypt,August,46.77,69.1
+Mozambique,June,39.34,88.37
+Mali,May,21.96,75.1
+Lesotho,July,48.16,81.36
+Kenya,August,24.22,82.5
+South Sudan,August,38.49,40.51
+Seychelles,July,49.05,76.6
+Botswana,August,49.58,36.53
+Cabo Verde,June,31.55,32.34
+Chad,July,43.78,76.28
+South Sudan,August,22.97,64.83
+Gambia,July,39.13,22.13
+Cameroon,August,38.67,24.41
+Mozambique,July,41.56,45.12
+Namibia,June,40.37,48.99
+Angola,June,30.86,82.97
+Seychelles,May,44.93,66.76
+Botswana,May,48.75,30.9
+Nigeria,July,32.96,84.86
+Senegal,July,29.17,45.74
+Tunisia,June,27.2,25.78
+Mali,June,21.76,13.15
+Djibouti,June,33.14,72.92
+Liberia,May,39.09,14.46
+Congo,June,25.05,11.16
+Uganda,August,27.65,51.03
+South Sudan,August,41.13,14.12
+Morocco,August,24.04,22.99
+Gabon,July,45.28,11.21
+Benin,June,30.54,75.38
+Rwanda,June,26.68,66.19
+Libya,May,22.89,31.52
+Ghana,June,28.43,39.62
+Kenya,June,30.34,46.19
+Sierra Leone,July,27.29,51.64
+Malawi,May,49.21,70.78
+Senegal,June,30.58,78.53
+Gambia,August,26.93,50.06
+Egypt,July,21.08,52.03
+Botswana,June,38.65,62.23
+South Africa,July,32.86,42.13
+Somalia,May,24.71,26.52
+Angola,June,39.25,56.44
+Burundi,June,48.27,51.91
+Ivory Coast,June,33.39,52.52
+South Africa,May,21.54,78.84
+Sierra Leone,May,36.64,24.42
+Central African Republic,May,43.07,21.98
+Angola,May,33.28,11.25
+South Africa,May,29.0,78.95
+Ivory Coast,August,30.78,30.0
+Seychelles,August,34.78,27.45
+Eswatini,May,48.82,13.25
+Mali,June,21.99,14.73
+Mali,June,20.79,28.01
+Comoros,June,40.46,87.92
+Eswatini,May,20.48,57.23
+South Africa,May,39.96,38.93
+Egypt,August,47.71,19.07
+Sierra Leone,July,22.82,35.88
+Algeria,July,21.73,13.19
+Libya,May,32.75,72.98
+Djibouti,July,30.05,47.34
+Chad,May,46.52,79.59
+Uganda,May,44.39,49.31
+Togo,August,33.6,20.93
+Sudan,June,36.01,57.63
+Mali,August,49.73,39.67
+Zambia,June,20.23,35.38
+Gabon,May,44.12,89.7
+Cabo Verde,May,22.99,49.48
+Chad,May,20.07,62.79
+Sierra Leone,June,22.69,64.58
+Morocco,May,42.48,36.42
+Senegal,August,32.56,71.14
+South Sudan,August,27.17,86.02
+Mauritius,May,48.69,39.39
+Kenya,July,48.61,29.76
+Seychelles,July,34.53,70.77
+Benin,August,42.2,69.67
+Tunisia,May,33.67,15.47
+Eswatini,May,47.41,13.31
+Niger,June,27.29,72.66
+Nigeria,August,48.39,44.98
+Rwanda,August,21.0,55.65
+Rwanda,July,29.05,50.96
+Gabon,July,26.24,31.25
+Eritrea,June,46.54,54.45
+Mauritania,July,34.22,33.62
+Morocco,June,29.39,74.83
+Burkina Faso,May,40.11,49.28
+Egypt,July,33.81,12.34
+Mali,August,22.0,37.68
+South Africa,August,22.08,28.74
+Guinea-Bissau,May,45.11,63.87
+Comoros,June,43.2,46.29
+Rwanda,May,26.0,30.62
+Democratic Republic of the Congo,May,34.44,69.64
+Morocco,June,22.88,85.82
+Zambia,July,42.66,13.52
+Mauritania,June,33.76,61.37
+Mauritania,August,49.05,58.34
+Uganda,June,49.57,15.67
+Sierra Leone,June,21.93,36.09
+Guinea-Bissau,August,44.71,58.8
+Comoros,May,39.99,78.07
+Seychelles,August,49.86,27.39
+Madagascar,June,42.21,72.1
+Mauritius,May,28.81,46.96
+Senegal,June,49.4,84.57
+Namibia,July,30.09,74.59
+Ivory Coast,August,20.65,31.65
+Lesotho,May,40.8,67.64
+Namibia,August,22.03,54.71
+Congo,May,36.29,80.98
+Botswana,May,22.57,52.18
+Gambia,August,37.29,66.35
+Niger,July,27.3,68.81
+Lesotho,May,25.92,28.75
+Zimbabwe,June,33.24,80.22
+Liberia,August,20.69,87.05
+Ivory Coast,August,26.31,85.32
+Guinea-Bissau,May,38.95,80.65
+Botswana,August,27.65,20.69
+Ivory Coast,August,49.77,71.66
+Comoros,August,21.82,88.5
+Seychelles,August,36.45,57.57
+Sao Tome and Principe,August,46.33,35.07
+Benin,August,25.99,76.45
+Sudan,August,40.7,66.29
+Zimbabwe,May,47.85,18.05
+Djibouti,June,31.13,64.11
+Uganda,July,41.44,61.29
+Mozambique,August,39.15,81.73
+Zimbabwe,August,39.48,50.57
+Central African Republic,July,29.36,77.41
+Guinea,June,27.54,61.46
+Congo,May,41.45,65.26
+Libya,May,30.16,25.95
+Benin,May,31.05,18.0
+Guinea,May,43.39,85.69
+Cabo Verde,June,40.93,39.19
+Zambia,May,49.23,50.11
+Congo,August,39.38,45.02
+Zambia,June,46.01,85.16
+Rwanda,July,33.4,74.47
+Sierra Leone,August,38.64,39.38
+Congo,June,26.56,36.46
+Djibouti,June,35.66,28.82
+Eritrea,July,46.57,36.24
+Mozambique,July,48.27,77.07
+Equatorial Guinea,May,35.81,25.05
+Tanzania,June,44.1,85.09
+Mauritius,May,48.84,19.24
+Cabo Verde,June,23.05,74.35
+Ethiopia,May,28.64,14.63
+Kenya,July,26.77,50.59
+Madagascar,June,37.0,38.44
+Malawi,May,27.78,11.98
+Guinea,June,35.54,63.03
+Gabon,August,49.48,69.45
+South Sudan,July,42.57,52.55
+Somalia,July,48.26,11.88
+Gabon,June,32.17,30.77
+Ethiopia,July,49.6,15.83
+South Africa,July,41.72,88.07
+Sierra Leone,May,30.85,80.03
+Eritrea,August,35.35,13.22
+Djibouti,July,34.46,13.45
+Gabon,August,45.73,60.28
+Algeria,July,28.08,33.71
+Botswana,August,42.7,30.55
+Nigeria,May,43.65,59.57
+Tunisia,June,28.04,63.06
+Congo,August,40.22,75.47
+Botswana,July,23.49,27.13
+Zimbabwe,July,38.31,10.55
+Chad,August,21.53,79.56
+Malawi,July,49.87,72.01
+Guinea-Bissau,August,34.96,27.16
+Egypt,June,40.58,40.25
+Somalia,August,27.2,10.29
+Kenya,July,32.62,79.68
+Cameroon,August,28.45,47.5
+Algeria,July,27.65,78.13
+South Africa,May,39.97,64.69
+Sudan,June,27.85,50.48
+Mozambique,June,36.57,57.47
+Central African Republic,August,47.42,20.58
+Senegal,July,44.71,56.0
+Mauritius,July,31.06,48.2
+Niger,August,33.13,77.21
+Eritrea,June,24.65,12.05
+Eritrea,May,29.4,52.96
+Algeria,June,43.71,39.58
+Gambia,August,21.88,32.72
+South Sudan,May,43.03,84.87
+Uganda,July,49.43,49.56
+Lesotho,July,22.04,71.53
+Tunisia,August,27.13,45.75
+Lesotho,June,35.01,23.53
+Ethiopia,July,46.07,30.48
+Gabon,August,39.33,52.23
+Equatorial Guinea,July,23.85,81.7
+Ghana,May,43.17,26.1
+Malawi,June,41.15,24.11
+Togo,May,23.57,24.9
+Mauritius,August,44.92,78.63
+Libya,May,26.15,13.86
+Mali,August,46.58,50.82
+Morocco,July,26.35,45.58
+Burundi,May,34.67,64.01
+Niger,August,47.93,62.42
+Mauritania,July,33.37,44.29
+Namibia,May,20.7,50.94
+Zambia,July,26.28,53.61
+Kenya,June,21.8,44.21
+Benin,August,26.01,28.85
+Liberia,June,39.84,80.89
+Congo,August,24.02,89.07
+Liberia,June,29.1,74.2
+Tanzania,August,43.83,59.96
+Kenya,July,24.39,35.93
+Mauritania,June,41.23,62.92
+Mozambique,May,39.34,84.48
+Angola,May,47.34,42.49
+Togo,August,27.92,32.53
+Burkina Faso,July,21.0,62.67
+Kenya,August,45.65,73.9
+Lesotho,July,25.09,30.41
+Zimbabwe,May,43.95,72.56
+Botswana,August,37.3,35.12
+Equatorial Guinea,June,28.06,83.65
+Equatorial Guinea,July,48.52,24.06
+South Sudan,July,34.21,38.24
+Seychelles,July,42.55,74.75
+Sao Tome and Principe,August,31.67,56.71
+Tanzania,July,40.64,11.41
+Guinea,July,40.18,62.94
+South Africa,July,21.92,50.0
+Uganda,May,21.27,78.17
+Niger,August,28.15,14.15
+Guinea-Bissau,July,30.54,28.33
+Angola,August,35.86,59.84
+Morocco,July,21.97,54.98
+Zambia,August,20.29,72.1
+Ethiopia,June,47.79,72.88
+Comoros,June,23.42,54.25
+Morocco,August,41.83,25.86
+Ivory Coast,May,35.9,57.98
+Mauritius,May,45.76,26.82
+Zimbabwe,June,39.75,14.53
+Burkina Faso,July,44.68,67.45
+Burundi,June,23.14,66.86
+Gambia,May,23.8,40.37
+Zimbabwe,May,21.58,48.57
+Kenya,May,20.58,10.17
+Ghana,July,38.1,12.68
+Rwanda,May,34.4,55.01
+Cameroon,July,27.26,34.12
+Algeria,July,45.86,81.32
+Gambia,May,22.62,89.84
+Cabo Verde,July,46.6,32.65
+Cameroon,May,34.76,13.41
+Gabon,May,25.11,20.44
+Burkina Faso,May,27.31,52.05
+Egypt,June,39.77,55.08
+Ghana,July,28.68,19.22
+Eritrea,May,43.44,52.41
+Liberia,August,39.49,57.51
+Tunisia,May,46.8,40.52
+Seychelles,June,46.49,53.37
+Uganda,July,22.26,18.73
+Niger,June,44.22,55.19
+Togo,June,23.19,36.01
+Ivory Coast,May,24.58,73.11
+Rwanda,July,38.54,22.57
+Burkina Faso,August,23.64,67.3
+Kenya,August,37.4,68.33
+Tunisia,August,36.71,75.33
+Equatorial Guinea,May,32.02,12.27
+Mali,June,37.29,29.7
+Sudan,June,20.26,72.41
+Chad,June,32.64,46.23
+Ghana,July,31.59,46.58
+Kenya,June,37.04,62.17
+Mauritania,May,43.71,36.25
+Botswana,June,42.83,67.39
+Nigeria,June,37.35,46.59
+Cameroon,August,43.69,81.05
+Guinea,July,27.84,11.1
+Burkina Faso,June,42.48,86.71
+Gabon,May,22.89,21.93
+Ivory Coast,June,26.56,80.66
+Zimbabwe,June,49.06,47.88
+Equatorial Guinea,August,20.99,58.7
+Chad,June,41.23,62.71
+Libya,July,36.07,53.27
+Ethiopia,August,20.34,35.82
+Tanzania,May,35.26,58.14
+Senegal,May,26.77,48.17
+Guinea,August,30.39,51.95
+South Africa,June,24.32,25.4
+Lesotho,August,44.37,62.2
+Somalia,May,38.25,16.76
+Cabo Verde,August,32.96,32.69
+Eswatini,June,45.99,39.17
+Zambia,July,24.85,70.73
+Uganda,August,44.69,63.36
+Angola,June,43.18,25.68
+Djibouti,August,37.59,30.23
+Botswana,June,36.12,44.33
+Guinea,May,29.79,21.15
+Egypt,May,49.86,49.32
+Sudan,June,37.13,37.1
+Burundi,May,26.75,16.05
+Mali,May,44.76,32.44
+Rwanda,August,31.07,58.28
+Libya,July,49.68,15.9
+South Africa,August,25.17,30.86
+Mauritius,June,28.85,33.8
+Lesotho,June,39.99,14.65
+Egypt,June,30.44,59.41
+Malawi,July,34.34,87.43
+Niger,August,40.24,32.05
+Liberia,August,27.34,21.49
+Niger,June,39.31,38.06
+Sudan,July,26.49,81.01
+Guinea-Bissau,May,24.21,67.49
+Libya,May,37.83,25.64
+Ethiopia,May,38.86,55.58
+Angola,May,24.35,26.18
+Cameroon,May,33.89,21.0
+Zimbabwe,May,31.42,34.48
+Zimbabwe,July,24.96,82.95
+Senegal,July,33.51,27.45
+Cameroon,July,36.38,22.89
+Central African Republic,August,20.14,83.73
+Lesotho,June,20.32,39.2
+Burundi,June,20.39,59.32
+Gambia,May,44.51,32.08
+Malawi,June,40.8,58.39
+Djibouti,June,32.18,82.23
+Eswatini,June,27.52,17.11
+Central African Republic,June,24.17,41.21
+Morocco,May,47.27,55.36
+Sierra Leone,May,35.36,38.84
+Sudan,May,30.27,34.9
+Seychelles,June,34.76,83.11
+Seychelles,May,40.53,15.17
+Cameroon,July,29.75,27.25
+Somalia,May,26.05,74.4
+Chad,May,33.22,30.51
+Liberia,August,41.15,39.81
+Benin,May,33.58,51.89
+Libya,July,46.12,59.62
+Lesotho,May,41.48,44.34
+Lesotho,June,38.72,52.2
+Algeria,July,27.93,89.6
+Kenya,June,29.74,86.55
+Comoros,May,23.74,70.97
+Senegal,June,44.78,60.22
+Madagascar,May,39.64,39.87
+Somalia,June,46.85,85.85
+Gabon,July,22.02,81.68
+Nigeria,August,47.83,26.29
+Ethiopia,July,35.98,33.25
+Botswana,August,37.73,38.86
+Madagascar,May,28.0,25.76
+Sao Tome and Principe,July,33.51,20.3
+Congo,June,33.25,48.95
+Burkina Faso,August,34.62,65.77
+Chad,June,26.56,62.29
+South Sudan,May,28.44,42.91
+Guinea-Bissau,July,41.4,76.84
+Egypt,May,44.4,23.53
+Guinea-Bissau,June,25.07,19.79
+Ivory Coast,July,41.38,52.57
+Gabon,June,49.62,47.4
+Democratic Republic of the Congo,July,47.08,20.29
+Congo,May,44.39,67.53
+Burundi,July,26.2,28.03
+Guinea-Bissau,August,45.73,64.03
+South Sudan,August,36.0,59.21
+Somalia,June,32.21,38.67
+Egypt,August,35.57,77.93
+Sao Tome and Principe,June,35.43,26.12
+Mauritius,May,47.84,65.71
+Democratic Republic of the Congo,June,26.17,59.74
+Gabon,August,34.02,70.63
+Ethiopia,August,39.78,76.1
+Madagascar,August,20.89,58.62
+Lesotho,July,46.38,31.79
+Algeria,August,46.47,85.98
+Guinea,August,45.52,58.89
+Zambia,May,42.68,58.97
+Burkina Faso,July,48.83,70.12
+Chad,August,24.16,26.15
+Nigeria,June,42.44,76.57
+Burundi,May,20.13,32.61
+South Africa,August,26.75,55.46
+Niger,May,38.42,56.3
+Morocco,June,47.79,86.89
+Malawi,August,27.23,63.95
+Guinea,June,38.53,47.69
+Guinea,August,27.9,19.35
+Comoros,July,28.09,84.01
+Mauritania,May,29.19,13.31
+Gabon,July,47.71,26.15
+Democratic Republic of the Congo,May,20.45,59.0
+Namibia,June,34.91,79.14
+Cameroon,July,49.66,60.24
+Eritrea,July,34.43,49.94
+Niger,June,49.65,61.61
+Djibouti,August,31.58,19.01
+Uganda,May,44.73,43.79
+Niger,August,36.47,68.76
+Burkina Faso,August,35.12,31.41
+Chad,June,31.31,88.18
+Liberia,June,26.96,17.13
+Congo,August,41.19,79.1
+Libya,June,49.11,25.86
+Tunisia,August,42.84,78.62
+Sao Tome and Principe,July,25.87,60.37
+Tunisia,June,40.22,74.83
+Guinea,August,42.07,19.29
+Mozambique,June,27.77,85.18
+Libya,June,44.66,30.01
+Seychelles,June,30.07,60.23
+Guinea,July,45.94,86.34
+Lesotho,June,30.08,78.92
+Uganda,July,25.46,59.94
+Morocco,August,47.68,77.43
+Tunisia,August,29.04,31.65
+Uganda,August,28.32,31.64
+Tunisia,June,38.52,29.51
+Senegal,May,41.58,26.85
+Algeria,May,40.17,70.32
+Djibouti,August,39.03,12.85
+Nigeria,June,48.53,14.87
+Rwanda,June,38.64,51.8
+Chad,July,38.15,37.36
+Burundi,August,37.96,18.94
+Libya,June,22.03,69.79
+Seychelles,June,20.29,70.58
+Zambia,May,38.61,10.45
+Congo,August,44.81,54.2
+Cabo Verde,August,34.08,71.34
+Nigeria,August,33.23,20.69
+Benin,May,45.11,12.31
+Djibouti,May,38.51,61.06
+Nigeria,May,34.09,52.57
+Libya,August,25.01,63.12
+Mauritius,May,23.79,48.24
+Ghana,August,46.5,44.79
+Egypt,July,47.33,60.92
+Liberia,June,40.06,31.77
+Namibia,May,46.3,20.35
+Sudan,May,39.78,86.92
+Botswana,June,26.99,87.46
+Burundi,July,35.86,30.26
+Eritrea,July,33.78,77.27
+Zimbabwe,June,38.77,77.28
+Djibouti,August,23.21,24.84
+South Africa,July,23.02,82.59
+Guinea-Bissau,August,32.42,30.87
+Sao Tome and Principe,May,41.75,80.98
+Zambia,May,47.72,42.76
+Morocco,June,30.73,34.8
+Ivory Coast,June,38.95,51.65
+Mozambique,July,24.09,82.94
+Sudan,May,38.31,56.43
+Cabo Verde,May,29.54,72.49
+Nigeria,May,40.43,33.19
+Algeria,July,47.25,50.86
+Egypt,July,47.5,14.3
+Chad,June,48.66,84.16
+Madagascar,August,21.43,33.08
+Burkina Faso,July,28.34,41.21
+Chad,June,34.58,60.59
+Mali,May,41.12,37.34
+Central African Republic,June,22.22,81.6
+Democratic Republic of the Congo,May,29.64,63.22
+Equatorial Guinea,July,34.51,13.83
+Benin,July,47.72,12.17
+Mozambique,May,37.51,13.42
+Kenya,May,49.09,71.15
+Congo,August,30.61,47.19
+Gabon,May,27.04,81.51
+Mozambique,July,39.86,70.49
+Sierra Leone,July,22.19,83.62
+Sierra Leone,May,46.72,51.41
+Zambia,June,49.28,76.98
+South Sudan,May,32.02,68.48
+Algeria,August,36.8,27.63
+Libya,June,33.43,62.81
+Rwanda,August,49.85,19.86
+Equatorial Guinea,July,26.93,13.43
+Libya,June,35.92,58.88
+Malawi,June,26.58,23.05
+Zambia,July,32.98,89.81
+Mauritius,July,42.12,42.19
+South Sudan,May,31.79,13.81
+Niger,May,40.43,72.44
+Uganda,May,23.37,46.38
+Democratic Republic of the Congo,June,48.33,27.15
+Zimbabwe,May,46.69,72.99
+Algeria,June,29.45,55.75
+Gabon,July,24.35,86.07
+Zambia,August,29.16,26.84
+South Africa,May,29.89,41.8
+Kenya,July,39.73,53.51
+Algeria,July,45.52,71.5
+Mauritania,July,31.58,76.65
+Eritrea,June,24.67,32.4
+Burundi,May,48.52,37.69
+Gambia,July,45.01,41.16
+Morocco,June,47.65,83.43
+Sao Tome and Principe,June,30.69,39.95
+Mozambique,August,38.18,53.58
+Sudan,May,34.66,74.49
+Zimbabwe,June,34.17,48.51
+Comoros,June,43.77,34.77
+Benin,August,44.29,74.4
+Cabo Verde,July,43.12,45.16
+Gabon,June,34.36,11.52
+South Sudan,June,37.66,51.89
+Sudan,June,24.36,68.84
+Mauritius,June,34.86,71.59
+Angola,August,21.8,79.54
+Togo,June,40.24,20.82
+Central African Republic,July,28.06,16.08
+Liberia,May,29.27,44.91
+Djibouti,June,44.34,86.33
+Uganda,May,31.22,88.27
+Somalia,August,28.59,58.33
+Mauritius,June,41.21,28.57
+Rwanda,August,21.18,10.41
+Nigeria,May,49.09,74.4
+Comoros,May,43.61,86.64
+Senegal,August,49.89,40.69
+Angola,June,33.05,53.91
+Libya,June,48.23,87.26
+Guinea-Bissau,August,27.67,37.09
+Ghana,May,46.21,47.65
+Morocco,August,37.99,64.91
+Eswatini,July,39.48,20.26
+Rwanda,May,30.29,80.42
+Comoros,July,33.99,34.15
+Ivory Coast,July,21.22,76.14
+Uganda,May,23.63,41.26
+Guinea-Bissau,June,34.79,44.85
+Eswatini,June,37.4,19.75
+Mali,July,22.05,48.79
+Tunisia,May,31.37,58.53
+Togo,June,31.43,19.29
+Sudan,June,37.34,11.31
+Lesotho,August,41.87,44.29
+Malawi,May,32.37,75.96
+Somalia,July,46.33,26.6
+Zambia,May,43.01,33.11
+Sao Tome and Principe,May,42.33,86.42
+Gabon,August,34.03,77.18
+Seychelles,August,29.38,41.92
+Senegal,August,38.04,34.95
+Eritrea,August,44.86,65.04
+Eritrea,July,49.98,19.38
+Burundi,June,43.84,28.08
+Mozambique,July,26.42,54.83
+Democratic Republic of the Congo,July,32.39,20.92
+Egypt,May,35.37,55.91
+Senegal,June,29.21,50.88
+Madagascar,May,34.84,73.05
+Zimbabwe,May,29.25,31.2
+Guinea,August,43.42,58.56
+Ethiopia,May,30.76,63.33
+Kenya,August,40.06,62.55
+Kenya,July,33.04,75.39
+Cameroon,June,28.12,58.7
+Mauritania,August,32.26,56.34
+Libya,May,44.59,59.81
+South Africa,July,38.17,29.02
+Benin,May,25.33,44.77
+Burundi,May,31.63,88.61
+Mauritius,May,28.31,62.73
+Niger,August,47.69,31.84
+Mali,July,30.88,57.15
+Botswana,June,41.75,21.67
+Comoros,June,38.88,84.63
+Gambia,July,44.15,21.04
+Senegal,June,22.36,63.94
+Sao Tome and Principe,July,37.73,86.55
+Gambia,June,41.67,45.78
+Lesotho,August,41.93,52.85
+Madagascar,May,33.39,18.39
+Mozambique,June,25.26,75.37
+Comoros,May,26.58,23.75
+Liberia,July,48.84,28.74
+Benin,August,46.2,63.69
+Gambia,May,24.53,77.5
+Angola,July,48.59,46.66
+Cameroon,August,30.93,16.72
+Nigeria,August,39.21,75.62
+Equatorial Guinea,August,46.39,60.63
+Libya,July,26.02,36.75
+Kenya,July,23.8,20.14
+Tunisia,May,22.78,53.13
+Guinea,June,38.93,56.68
+Kenya,August,32.35,31.79
+Chad,August,45.19,46.61
+Egypt,June,46.97,70.99
+Ivory Coast,May,38.83,79.14
+Malawi,May,36.94,78.32
+Gambia,July,49.97,26.4
+South Africa,June,23.93,63.15
+Uganda,June,28.94,11.36
+Malawi,June,20.35,53.95
+Equatorial Guinea,July,39.99,29.56
+Nigeria,May,39.41,82.49
+Somalia,July,20.49,32.93
+South Africa,August,42.99,24.08
+Gabon,May,20.49,56.76
+Tanzania,August,30.65,81.07
+Ghana,June,24.13,85.18
+Malawi,July,23.52,73.63
+Tunisia,May,36.75,44.77
+Burkina Faso,May,44.33,77.22
+Sudan,May,35.39,82.28
+Zimbabwe,July,46.04,33.47
+Gambia,August,31.86,79.69
+Mauritius,May,45.99,63.36
+Nigeria,June,23.85,71.66
+Senegal,May,23.29,14.99
+Democratic Republic of the Congo,May,22.89,34.19
+Libya,July,38.41,18.94
+Mali,August,21.18,24.7
+Gabon,July,45.2,33.55
+Ivory Coast,August,27.46,70.44
+Sudan,June,43.47,59.54
+Sao Tome and Principe,May,34.28,48.34
+Nigeria,August,38.32,40.78
+Zambia,June,32.8,42.88
+Somalia,July,30.36,64.78
+Tanzania,June,34.29,15.54
+Gambia,June,39.96,86.82
+Niger,August,34.99,17.87
+Central African Republic,August,21.93,11.65
+Madagascar,July,46.85,86.31
+Guinea,May,40.49,70.84
+Comoros,June,36.48,19.92
+Madagascar,August,45.05,21.71
+Lesotho,July,38.12,70.6
+Djibouti,July,20.09,61.07
+Chad,May,33.51,34.35
+Botswana,August,24.42,18.07
+South Sudan,June,49.56,49.88
+Eritrea,August,29.29,11.43
+Mozambique,May,21.87,14.66
+Gambia,August,43.37,31.39
+Sierra Leone,July,30.07,29.11
+Equatorial Guinea,August,21.47,80.79
+Sierra Leone,July,48.94,13.83
+Liberia,June,38.54,65.54
+Gambia,May,24.26,44.22
+Seychelles,July,47.59,13.16
+Madagascar,July,45.06,21.21
+Burkina Faso,June,47.2,70.72
+Botswana,May,31.45,22.12
+Angola,May,28.83,11.62
+Tunisia,June,20.81,73.6
+Liberia,May,40.01,85.92
+Morocco,July,46.91,75.56
+Democratic Republic of the Congo,May,46.67,79.47
+Botswana,May,48.7,51.11
+Benin,August,44.51,35.32
+Ghana,June,48.77,86.38
+Sudan,August,39.21,30.01
+Lesotho,July,27.19,39.99
+Malawi,May,40.9,16.68
+Ethiopia,July,47.17,50.43
+Malawi,July,26.14,22.55
+Togo,June,31.31,49.45
+Sudan,May,38.18,24.71
+Djibouti,August,48.33,33.15
+Eswatini,August,37.09,12.11
+South Africa,July,41.99,78.88
+Cabo Verde,June,44.0,76.0
+Seychelles,August,31.05,82.74
+Cabo Verde,August,22.54,57.59
+Morocco,July,30.41,81.63
+Burundi,June,23.34,41.94
+Guinea-Bissau,August,40.46,40.96
+Tunisia,June,23.39,58.17
+Benin,June,42.34,33.36
+Ghana,May,31.95,57.55
+Morocco,July,41.56,88.11
+Guinea,July,48.71,61.94
+Niger,August,24.89,34.58
+Democratic Republic of the Congo,May,33.35,56.61
+Democratic Republic of the Congo,August,40.75,78.04
+Zambia,June,40.34,28.37
+Burundi,August,48.89,38.59
+Mali,August,46.1,18.75
+Zimbabwe,June,33.05,81.17
+Mauritania,July,48.2,21.23
+Tunisia,May,20.35,19.74
+Rwanda,May,28.24,83.95
+Mauritania,June,38.66,64.92
+Djibouti,May,22.57,50.74
+Kenya,May,46.14,58.35
+Democratic Republic of the Congo,June,27.25,59.1
+Guinea-Bissau,June,48.41,74.36
+South Sudan,June,29.7,30.85
+Comoros,July,44.84,50.89
+Niger,July,33.56,85.81
+Guinea,May,25.28,72.13
+Uganda,July,35.98,42.31
+Uganda,July,36.74,17.13
+Sudan,June,25.87,88.97
+Gabon,May,24.08,30.94
+Uganda,August,47.77,25.97
+Cameroon,August,39.8,38.63
+Niger,August,22.63,77.18
+Sao Tome and Principe,June,34.07,89.32
+Liberia,May,23.16,62.7
+Rwanda,June,44.72,31.0
+Seychelles,June,20.69,74.59
+Cabo Verde,August,45.93,65.09
+Malawi,July,28.3,83.34
+Ethiopia,June,44.09,87.6
+Central African Republic,August,21.43,79.41
+Madagascar,May,27.82,63.61
+Eritrea,August,37.07,84.83
+Rwanda,June,23.68,60.67
+Gambia,May,37.7,27.79
+Libya,May,27.09,12.59
+Tanzania,July,22.19,22.5
+Cabo Verde,July,46.51,54.75
+Mauritius,July,32.4,56.4
+Burkina Faso,August,36.13,30.3
+Congo,July,46.39,89.71
+Sao Tome and Principe,July,47.64,45.19
+South Africa,August,24.55,53.43
+Uganda,August,48.7,63.27
+Eswatini,May,48.84,29.32
+Benin,July,28.88,89.26
+Rwanda,July,25.48,57.5
+Eswatini,June,42.67,21.01
+Nigeria,June,36.51,24.11
+Tunisia,August,38.3,13.16
+Guinea-Bissau,August,26.18,51.67
+Togo,June,48.59,46.5
+Burkina Faso,July,27.3,15.34
+Malawi,August,20.91,44.32
+Eritrea,July,45.84,85.28
+Cameroon,August,47.66,85.21
+Kenya,May,29.59,27.02
+Morocco,July,46.66,19.23
+Tanzania,August,46.33,51.48
+Ghana,July,47.72,60.92
+Namibia,June,28.83,49.11
+Sierra Leone,July,43.2,39.35
+Sudan,June,41.09,54.63
+Benin,May,33.03,25.28
+Egypt,June,25.09,67.2
+Tunisia,June,32.0,21.9
+Sudan,August,45.17,69.51
+Tanzania,July,38.7,19.2
+Seychelles,June,41.9,64.22
+Niger,June,49.01,39.54
+Senegal,July,38.58,23.71
+Guinea,June,42.76,26.91
+Sierra Leone,August,27.7,73.8
+Gambia,June,47.37,79.81
+Mauritania,August,39.4,81.51
+Mali,August,47.54,29.36
+Lesotho,May,29.15,58.22
+Central African Republic,June,25.88,41.08
+Chad,July,29.84,25.21
+Senegal,June,43.2,29.48
+Tunisia,May,45.75,75.0
+Liberia,June,48.08,34.57
+Malawi,July,34.3,37.37
+Chad,July,38.24,70.16
+Kenya,August,25.24,66.76
+Senegal,June,20.8,37.48
+Madagascar,July,27.15,87.85
+Ivory Coast,June,32.73,77.04
+South Sudan,July,48.04,69.43
+Rwanda,May,45.29,54.34
+Djibouti,May,42.24,42.96
+Madagascar,August,33.46,56.36
+Ghana,August,45.83,35.43
+Central African Republic,July,48.65,62.68
+Gambia,May,44.3,72.1
+Namibia,May,47.62,88.23
+Liberia,June,25.89,13.15
+Morocco,June,42.62,35.85
+Guinea,July,38.1,89.77
+Seychelles,June,33.17,31.1
+Uganda,May,37.54,62.08
+Togo,June,29.8,81.02
+Nigeria,May,39.0,84.19
+Seychelles,June,21.04,68.63
+Lesotho,August,24.14,20.67
+Sierra Leone,July,31.91,44.48
+Tunisia,August,40.85,79.46
+Cabo Verde,July,30.55,12.95
+Ethiopia,August,43.29,13.96
+Congo,June,23.88,32.21
+Namibia,July,36.46,61.68
+Sao Tome and Principe,May,49.59,78.57
+Ivory Coast,August,27.16,36.8
+Uganda,May,38.43,26.76
+Guinea,June,45.53,88.15
+Zambia,July,22.49,50.41
+Morocco,July,24.5,72.54
+Gabon,July,35.9,68.97
+Guinea-Bissau,May,34.0,75.8
+Liberia,June,30.85,79.67
+Eswatini,June,21.1,86.04
+Zimbabwe,June,33.65,28.7
+Democratic Republic of the Congo,May,49.06,64.55
+Djibouti,July,47.75,56.32
+Comoros,May,32.76,74.83
+Burundi,July,25.9,86.52
+Ghana,June,44.47,43.27
+Lesotho,August,29.88,59.39
+Eswatini,May,42.02,29.16
+Uganda,May,39.78,29.91
+Lesotho,May,31.34,49.51
+Guinea-Bissau,May,42.6,44.27
+Rwanda,May,46.48,49.73
+Senegal,June,49.41,65.91
+Burkina Faso,June,26.57,23.5
+Zambia,August,49.43,73.68
+Sao Tome and Principe,July,45.66,30.06
+South Sudan,May,25.58,88.76
+Senegal,July,30.05,24.43
+Comoros,May,20.16,84.06
+Eritrea,July,21.11,44.75
+Botswana,August,39.79,55.73
+Namibia,May,20.34,50.63
+Eswatini,June,36.49,73.7
+Chad,August,33.71,68.44
+Senegal,August,21.93,36.17
+Mauritius,July,44.81,49.31
+South Africa,August,25.29,51.41
+Sudan,June,31.39,45.83
+Democratic Republic of the Congo,June,49.9,83.53
+Uganda,July,47.63,71.07
+Sao Tome and Principe,May,24.78,64.24
+Ethiopia,July,38.63,56.07
+Guinea,August,23.33,26.66
+Benin,August,40.4,87.74
+South Sudan,June,20.26,42.45
+Benin,August,49.36,53.7
+Tunisia,August,41.04,16.88
+Madagascar,June,49.06,77.41
+Zambia,July,38.89,68.77
+Benin,August,49.85,23.01
+Somalia,June,33.31,82.0
+Namibia,May,43.77,54.16
+Mauritania,July,45.14,76.39
+Uganda,August,26.67,42.07
+Kenya,May,37.91,70.1
+Nigeria,June,48.81,89.78
+Eritrea,August,37.87,46.42
+Sierra Leone,May,37.5,20.15
+Guinea-Bissau,June,39.54,68.29
+Rwanda,June,29.79,30.81
+Ghana,July,27.92,18.73
+Mali,May,35.3,13.68
+Namibia,July,20.93,64.55
+Cameroon,August,30.21,36.48
+Sao Tome and Principe,June,41.95,52.47
+Mali,August,33.37,44.07
+Uganda,June,36.12,74.86
+Togo,August,23.63,36.13
+Burkina Faso,July,37.26,29.6
+Burundi,August,31.27,22.09
+Liberia,July,20.87,48.1
+Somalia,July,45.81,11.41
+Ivory Coast,August,33.77,17.48
+Burkina Faso,July,47.18,67.82
+Comoros,July,20.53,16.11
+South Africa,June,49.92,38.2
+Morocco,July,28.38,49.21
+Eswatini,May,41.2,12.65
+Somalia,August,32.56,15.25
+Ivory Coast,May,22.32,37.82
+Mozambique,June,40.4,62.11
+Zimbabwe,May,27.41,63.22
+Congo,August,34.29,31.47
+Chad,July,41.34,72.41
+Lesotho,July,33.73,42.41
+Sudan,August,33.11,72.82
+Seychelles,June,22.3,54.02
+Congo,May,37.99,85.25
+Cabo Verde,August,49.26,45.44
+Sao Tome and Principe,June,37.96,74.69
+Sao Tome and Principe,June,31.75,31.85
+Mauritania,July,49.71,61.95
+Chad,May,39.24,60.52
+Djibouti,May,46.38,35.72
+Eswatini,August,44.61,31.27
+Senegal,May,40.84,77.72
+Namibia,August,21.72,48.6
+Equatorial Guinea,May,27.26,89.17
+Burundi,July,33.85,66.42
+Liberia,May,36.5,25.33
+Eswatini,June,45.57,83.29
+Guinea,May,20.89,56.99
+Guinea-Bissau,July,24.35,34.26
+Uganda,May,46.84,79.63
+Sao Tome and Principe,August,24.61,85.14
+Kenya,June,42.12,60.93
+Somalia,June,27.03,40.64
+South Africa,August,48.82,78.87
+Mauritius,July,37.23,87.2
+Egypt,May,34.65,35.14
+Benin,August,46.08,50.28
+Uganda,May,21.53,72.91
+Gabon,August,41.53,69.2
+Tanzania,July,35.49,63.74
+Ivory Coast,August,31.28,49.5
+Namibia,July,26.3,70.86
+Tunisia,June,35.91,11.62
+Eritrea,June,41.2,42.55
+Zambia,July,42.5,78.01
+Burundi,July,28.53,83.62
+Tunisia,June,35.62,77.9
+South Africa,June,35.35,21.28
+Tanzania,June,47.55,60.29
+Seychelles,May,26.26,47.48
+Sao Tome and Principe,May,48.99,75.82
+Gabon,June,36.29,26.96
+Libya,May,39.37,59.64
+Zimbabwe,August,42.32,60.67
+Mauritius,August,34.0,57.33
+Eritrea,June,30.14,48.36
+Mauritius,August,47.81,85.1
+Zimbabwe,May,26.87,12.0
+Ghana,June,43.43,10.47
+Guinea,July,26.66,36.99
+Comoros,July,48.22,28.38
+Liberia,July,49.01,78.08
+South Sudan,August,25.29,20.08
+Seychelles,August,26.66,10.68
+Nigeria,August,43.41,32.69
+Madagascar,July,20.86,53.24
+Tunisia,August,21.56,65.3
+Ghana,August,47.22,12.93
+Cabo Verde,May,39.23,59.07
+Democratic Republic of the Congo,July,45.95,48.73
+Eswatini,May,37.66,59.7
+Morocco,June,34.94,64.41
+Burundi,July,40.31,57.72
+Sao Tome and Principe,August,41.45,60.15
+Togo,July,36.12,89.42
+Chad,July,40.92,87.36
+Namibia,August,34.95,53.14
+Cabo Verde,August,40.73,76.98
+Mali,June,37.74,87.79
+Sudan,May,24.23,70.03
+Sao Tome and Principe,May,25.08,16.18
+Botswana,August,34.33,58.69
+Congo,May,44.29,78.8
+Central African Republic,May,25.54,39.1
+Burkina Faso,August,30.75,13.03
+Mozambique,June,23.67,37.46
+Togo,June,25.34,22.72
+Cameroon,July,23.52,51.09
+Mali,May,32.47,60.74
+Guinea-Bissau,August,23.22,82.57
+Eritrea,June,24.78,15.73
+Namibia,May,34.47,35.25
+Tanzania,May,45.27,62.05
+Ethiopia,August,27.37,41.24
+Ivory Coast,August,37.2,17.62
+Ethiopia,July,22.96,24.79
+Gabon,June,32.97,60.85
+Algeria,August,48.32,16.34
+Somalia,June,31.61,46.5
+Sierra Leone,July,28.46,58.3
+Tanzania,July,36.14,87.43
+Gabon,May,39.73,82.01
+Seychelles,May,34.08,88.74
+Burkina Faso,May,39.36,38.58
+Madagascar,July,39.55,25.27
+Burkina Faso,May,31.99,58.24
+Kenya,August,40.68,60.53
+Tanzania,July,48.83,36.58
+Sao Tome and Principe,June,24.94,59.94
+Libya,August,35.08,76.11
+Mauritania,July,40.79,82.91
+Sierra Leone,July,35.23,84.0
+Comoros,May,45.1,44.57
+Sudan,May,33.08,52.7
+Mauritania,June,34.63,19.7
+Mauritania,May,49.33,73.38
+Ethiopia,May,38.36,74.18
+Guinea,June,37.22,74.61
+Morocco,May,30.12,67.92
+Cameroon,August,42.02,30.54
+Mali,June,48.51,65.71
+Mauritania,June,29.75,43.32
+Libya,August,45.79,47.19
+Senegal,July,39.89,71.01
+Zimbabwe,May,37.87,65.62
+Niger,June,43.29,13.49
+Chad,July,48.38,38.92
+Libya,June,28.66,76.4
+Togo,May,41.18,10.04
+Nigeria,August,46.58,66.79
+Comoros,June,32.48,18.74
+Malawi,July,42.17,60.12
+Guinea-Bissau,August,22.05,65.95
+Burundi,July,41.95,55.07
+Ghana,July,40.96,20.01
+Tanzania,August,48.95,55.09
+Senegal,July,40.1,57.47
+Botswana,July,26.39,58.84
+Democratic Republic of the Congo,June,33.06,46.11
+Mauritius,June,47.39,51.39
+Liberia,July,20.93,26.87
+South Sudan,July,41.24,15.0
+Zimbabwe,June,39.46,31.66
+Equatorial Guinea,August,30.44,37.63
+Somalia,July,49.84,52.3
+Morocco,May,24.64,61.33
+Guinea-Bissau,June,23.76,15.28
+Senegal,August,37.54,10.8
+Lesotho,July,45.02,10.7
+Democratic Republic of the Congo,August,25.02,88.27
+Somalia,July,38.54,68.17
+Sudan,July,24.07,51.32
+Central African Republic,May,26.53,75.31
+Ethiopia,June,26.06,87.06
+Mauritius,May,36.52,74.85
+Seychelles,August,41.11,79.06
+Guinea-Bissau,August,40.22,26.0
+Algeria,May,43.22,16.07
+Lesotho,June,48.34,71.75
+Eritrea,May,43.05,47.5
+Cameroon,July,44.03,45.11
+Ethiopia,August,35.23,72.34
+Guinea,June,32.99,45.46
+Mauritania,August,49.98,25.16
+Botswana,July,38.04,73.21
+Cameroon,May,34.21,18.11
+Gambia,August,40.3,13.15
+Togo,August,47.31,29.08
+Sao Tome and Principe,June,48.12,61.73
+Liberia,July,25.73,50.35
+Djibouti,June,29.53,88.57
+Liberia,July,33.88,68.23
+Comoros,August,46.07,74.38
+Democratic Republic of the Congo,May,29.39,14.16
+Sudan,May,31.86,14.3
+Mozambique,July,37.16,44.63
+Namibia,May,36.3,87.7
+Niger,August,48.24,26.46
+Rwanda,August,22.25,49.73
+Mauritius,June,41.3,89.02
+Mali,June,30.63,75.36
+Guinea,May,31.22,45.33
+Sao Tome and Principe,July,46.9,53.8
+Eritrea,May,45.32,45.37
+Somalia,July,49.56,42.81
+Ethiopia,July,35.65,17.75
+Cabo Verde,July,37.17,67.84
+Ghana,August,39.02,65.25
+Mauritius,May,41.14,72.21
+Tunisia,June,45.48,38.59
+Uganda,August,45.27,33.56
+Sierra Leone,June,36.59,22.34
+Central African Republic,July,32.45,76.81
+Zambia,July,21.27,73.86
+Equatorial Guinea,July,46.95,87.64
+Egypt,August,46.06,66.99
+Ivory Coast,June,21.71,70.78
+Uganda,June,43.47,74.15
+Burkina Faso,July,40.06,13.96
+Madagascar,May,30.35,33.77
+Mali,June,26.54,38.92
+Central African Republic,July,37.17,21.49
+Eswatini,June,48.81,78.28
+Botswana,May,47.29,84.43
+Uganda,August,23.43,24.54
+Egypt,July,26.7,57.09
+Sao Tome and Principe,August,40.29,50.27
+South Sudan,August,37.99,20.45
+Lesotho,August,42.56,36.35
+Gambia,August,42.62,41.08
+Togo,May,40.03,58.96
+Algeria,July,40.58,80.23
+Seychelles,June,30.29,73.99
+Botswana,August,32.9,16.31
+Morocco,June,33.29,45.95
+Chad,July,35.56,81.49
+Niger,June,35.05,87.73
+Gabon,July,37.7,47.62
+Central African Republic,June,24.75,88.73
+Tunisia,August,41.54,73.36
+Equatorial Guinea,May,34.29,54.57
+Senegal,May,36.2,78.25
+Cameroon,May,25.54,73.29
+South Sudan,August,26.82,89.41
+Libya,July,42.52,37.17
+Senegal,May,39.27,62.2
+Eritrea,July,30.52,27.14
+Libya,May,40.75,61.23
+South Africa,July,20.82,13.71
+Liberia,July,36.38,74.95
+Kenya,August,26.09,25.64
+Tunisia,July,40.78,48.95
+Kenya,July,45.58,39.72
+Mauritania,July,26.39,31.83
+Tanzania,June,22.33,88.01
+Algeria,July,28.93,48.66
+Djibouti,July,29.35,56.86
+Angola,July,43.2,34.59
+Gambia,July,41.03,30.87
+Comoros,May,23.22,29.41
+Angola,July,42.41,41.01
+Guinea,August,28.79,59.54
+Rwanda,June,41.26,50.36
+Madagascar,August,30.16,80.32
+Mauritania,May,24.93,10.67
+Mali,May,43.92,58.03
+Liberia,July,31.56,23.46
+Egypt,July,23.69,13.25
+Mali,August,30.01,38.69
+Benin,August,43.1,42.77
+Nigeria,August,33.05,35.51
+Burkina Faso,August,35.83,14.46
+Guinea,May,35.68,20.16
+Uganda,August,29.63,15.89
+Namibia,June,27.0,75.44
+Angola,May,38.16,53.86
+Malawi,July,33.11,40.38
+Ivory Coast,August,43.2,71.87
+Somalia,May,24.7,17.38
+Mali,August,49.23,29.25
+Cabo Verde,July,36.78,86.74
+Libya,August,47.61,80.58
+Guinea-Bissau,June,22.35,55.08
+South Sudan,May,40.87,44.99
+Tunisia,July,44.61,20.58
+Malawi,June,44.15,38.9
+Guinea-Bissau,June,47.96,23.17
+Nigeria,August,44.23,55.23
+Cabo Verde,May,29.72,55.45
+Mali,July,40.61,21.9
+Burundi,June,20.77,45.77
+Botswana,June,31.02,36.86
+Senegal,July,33.39,84.32
+Ivory Coast,May,41.09,50.28
+Tanzania,June,41.49,40.37
+Morocco,June,42.15,80.47
+Angola,June,41.89,18.98
+Democratic Republic of the Congo,July,29.32,35.8
+Ethiopia,August,42.68,82.81
+Algeria,June,35.15,77.49
+Benin,June,44.63,64.39
+Lesotho,June,48.99,79.1
+Botswana,August,38.82,79.69
+Namibia,June,43.6,37.73
+Libya,May,46.07,66.88
+Algeria,August,38.09,14.98
+Sao Tome and Principe,June,45.64,45.95
+Angola,May,39.81,82.18
+Guinea-Bissau,May,38.94,58.82
+Angola,July,21.06,44.29
+Rwanda,August,29.19,70.16
+Djibouti,May,24.92,71.12
+Sudan,July,28.86,12.22
+Somalia,May,34.84,62.2
+Equatorial Guinea,May,49.92,18.03
+Ghana,August,25.94,76.74
+Guinea,June,31.5,54.47
+Madagascar,August,46.18,54.15
+Botswana,August,23.93,14.05
+Tanzania,May,37.73,24.54
+Mali,May,32.41,11.86
+Guinea-Bissau,May,44.25,36.04
+Zimbabwe,August,27.36,80.98
+Kenya,May,46.98,58.83
+Equatorial Guinea,May,45.46,28.82
+Libya,May,45.34,21.62
+Congo,May,24.06,44.97
+Tunisia,May,47.15,25.14
+Seychelles,May,21.11,20.56
+Somalia,May,42.82,85.45
+Sierra Leone,May,42.63,17.01
+Liberia,May,20.88,47.64
+Nigeria,May,29.17,37.92
+Gambia,August,46.56,26.23
+Mali,July,22.32,10.33
+Cabo Verde,May,45.0,82.4
+Rwanda,June,39.34,29.24
+Egypt,June,40.27,62.49
+Lesotho,June,26.21,60.62
+Algeria,June,22.11,17.2
+Eswatini,May,21.89,48.77
+Guinea,July,28.37,11.11
+South Africa,June,28.52,85.81
+Mauritius,June,32.76,34.83
+Malawi,August,47.11,85.56
+Kenya,June,21.13,59.94
+Tanzania,July,21.56,82.54
+Morocco,May,31.83,65.49
+Sierra Leone,June,29.79,26.31
+Cabo Verde,May,33.15,22.5
+Chad,June,29.33,55.78
+Nigeria,June,49.5,14.01
+Benin,June,32.09,48.36
+Ivory Coast,July,35.67,36.46
+Tunisia,May,35.1,13.89
+Equatorial Guinea,August,35.25,88.43
+Niger,July,22.15,26.85
+Chad,August,23.99,19.69
+Sudan,June,21.63,80.57
+Senegal,July,42.13,51.28
+South Sudan,June,32.84,42.61
+Zambia,June,42.89,82.4
+Niger,August,28.96,47.71
+Algeria,July,25.57,69.03
+Libya,July,21.85,48.16
+Tunisia,May,28.64,72.7
+Malawi,June,46.97,31.86
+Senegal,August,28.91,22.74
+Libya,May,43.1,52.09
+South Africa,August,34.69,11.59
+Mozambique,June,26.2,26.41
+Morocco,May,46.47,17.88
+Nigeria,August,42.3,31.3
+Madagascar,July,43.41,31.18
+Ethiopia,July,48.36,85.99
+Zambia,July,43.44,78.66
+Mauritania,August,47.19,83.96
+Burundi,June,33.9,52.28
+Sudan,May,31.06,19.54
+Rwanda,May,20.37,55.95
+Senegal,June,32.43,24.5
+Kenya,August,46.41,28.76
+Tunisia,August,39.44,59.7
+Democratic Republic of the Congo,May,24.4,14.34
+Gabon,August,22.2,75.39
+Ethiopia,July,47.33,56.92
+Democratic Republic of the Congo,July,20.58,81.81
+Ghana,August,44.86,64.64
+Democratic Republic of the Congo,June,29.76,83.96
+Guinea-Bissau,June,21.09,40.46
+Mauritius,August,23.78,78.28
+Cameroon,June,23.19,29.84
+Democratic Republic of the Congo,August,43.71,69.05
+Mozambique,June,23.41,29.31
+Cameroon,August,31.25,50.1
+Zambia,August,47.74,85.91
+Mauritius,May,41.45,46.79
+Cabo Verde,June,33.33,87.78
+Guinea,July,49.99,45.68
+Benin,June,41.72,78.15
+Malawi,July,47.02,45.3
+Zambia,June,41.93,75.25
+Mali,July,31.26,35.77
+Angola,May,25.7,70.36
+Libya,June,26.9,86.3
+Niger,August,28.7,38.27
+Togo,June,30.32,67.19
+Madagascar,May,26.15,84.89
+Libya,June,30.89,56.63
+Nigeria,June,46.22,74.77
+Burkina Faso,June,42.0,48.37
+Libya,June,28.99,19.97
+Sudan,May,36.46,27.29
+Cameroon,June,37.29,36.76
+Somalia,August,28.5,22.17
+Algeria,June,30.62,33.56
+Togo,July,33.99,71.97
+Equatorial Guinea,August,32.8,29.86
+Cabo Verde,May,43.77,33.94
+Burundi,July,25.72,80.25
+Congo,August,35.57,56.08
+Zimbabwe,May,47.2,24.52
+Liberia,August,23.88,68.1
+Mauritania,June,30.32,46.9
+Comoros,May,25.15,45.07
+Benin,August,46.85,40.3
+Zambia,August,23.64,50.22
+Burundi,August,26.66,60.16
+Burkina Faso,May,43.08,21.04
+Eswatini,August,38.9,37.69
+Botswana,May,49.74,23.41
+Gabon,August,37.59,32.42
+Sudan,August,46.82,33.39
+Burundi,May,40.0,57.77
+Liberia,August,25.48,86.48
+Angola,July,24.28,18.16
+Madagascar,August,23.15,43.68
+Sierra Leone,May,47.55,28.94
+Nigeria,July,34.75,87.92
+Congo,May,45.35,64.69
+Central African Republic,July,21.75,15.17
+Guinea,June,30.62,68.57
+Sudan,June,34.05,38.71
+Djibouti,May,39.4,65.91
+Zambia,June,38.05,35.08
+Malawi,July,36.9,55.61
+Tunisia,June,45.36,29.96
+Botswana,August,29.72,31.63
+Guinea,June,21.69,12.08
+Cameroon,June,28.89,76.36
+Ethiopia,May,33.61,74.21
+Sao Tome and Principe,August,32.6,32.35
+Lesotho,July,35.25,38.37
+Uganda,May,37.54,42.71
+Mozambique,August,29.3,88.13
+Lesotho,July,27.06,21.99
+Guinea,July,25.61,88.66
+Eritrea,May,45.15,53.66
+Mozambique,July,42.65,84.62
+Uganda,June,26.59,18.2
+Tanzania,June,48.35,38.75
+Namibia,June,20.12,22.39
+Egypt,July,35.4,32.11
+Kenya,June,31.78,18.3
+Burkina Faso,August,35.19,40.33
+Madagascar,August,46.84,89.98
+Benin,June,31.58,29.94
+Cabo Verde,July,24.03,40.76
+Eritrea,July,43.65,46.48
+Zambia,August,45.31,45.83
+Nigeria,July,33.65,44.73
+Somalia,July,40.51,53.01
+Algeria,August,39.45,18.55
+Cameroon,August,45.5,15.37
+Zimbabwe,July,32.75,33.19
+Ethiopia,July,41.72,79.78
+Liberia,July,49.63,78.81
+Mauritania,July,21.97,89.35
+Madagascar,August,40.43,22.27
+Namibia,May,30.71,75.89
+Cameroon,July,45.85,28.65
+Niger,July,45.49,24.51
+Burkina Faso,July,23.37,11.62
+Democratic Republic of the Congo,August,20.28,79.9
+Mauritania,May,21.18,67.74
+Algeria,May,30.91,56.16
+Rwanda,July,30.67,43.24
+Libya,June,29.27,15.71
+Gabon,May,27.95,68.14
+Uganda,May,35.68,57.48
+Lesotho,June,22.47,41.25
+Botswana,June,48.62,48.4
+Togo,August,44.02,26.53
+Benin,May,25.98,24.47
+Zimbabwe,July,39.1,17.43
+Algeria,June,31.84,82.76
+Eswatini,May,42.73,70.25
+Gabon,May,34.72,16.36
+Guinea-Bissau,July,39.68,33.29
+Zimbabwe,August,37.2,30.34
+Eswatini,August,38.89,70.98
+Mauritania,May,39.26,68.02
+Malawi,June,27.41,29.99
+Botswana,August,32.69,10.92
+South Africa,July,40.09,28.31
+South Africa,July,37.86,59.79
+Liberia,June,21.36,53.87
+Equatorial Guinea,June,48.42,49.12
+Sao Tome and Principe,July,26.87,60.47
+Uganda,May,39.78,29.91
+South Sudan,May,34.78,79.29
+Djibouti,May,42.72,44.23
+Chad,August,34.06,38.65
+Sao Tome and Principe,July,35.77,14.44
+Lesotho,June,26.21,60.62
+Cabo Verde,June,23.51,25.83
+Somalia,July,28.03,27.11
+Somalia,August,23.93,56.54
+South Africa,August,21.21,83.67
+Uganda,June,46.66,51.71
+Somalia,June,24.8,54.35
+Algeria,June,38.21,79.92
+Libya,June,33.12,87.81
+Seychelles,July,39.04,12.92
+Tunisia,May,23.78,75.73
+Comoros,June,32.48,18.74
+Benin,August,49.36,53.7
+Ethiopia,May,48.78,32.36
+Senegal,June,25.36,29.3
+Eswatini,August,27.31,79.27
+Mozambique,August,20.06,39.6
+Sierra Leone,August,35.07,35.79
+Mozambique,July,43.54,44.57
+Senegal,June,44.78,60.22
+Congo,August,28.54,42.58
+Malawi,July,28.3,83.34
+Somalia,August,32.56,15.25
+Zambia,June,33.22,80.98
+Chad,July,25.52,32.97
+Kenya,May,30.32,64.65
+Chad,May,46.84,48.29
+South Africa,May,21.54,78.84
+Liberia,July,32.88,11.37
+Cabo Verde,August,47.51,31.79
+Eritrea,July,34.14,19.96
+Zimbabwe,May,33.85,72.47
+Gabon,August,21.69,24.5
+Madagascar,June,44.63,60.42
+Libya,June,33.12,87.81
+Mali,May,41.12,37.34
+Liberia,July,20.87,48.1
+Tanzania,July,40.64,11.41
+Ethiopia,August,40.83,17.2
+Mauritius,June,28.85,33.8
+Sudan,August,39.45,51.08
+Guinea-Bissau,May,32.11,53.55
+Guinea,July,26.66,36.99
+Angola,July,43.2,34.59
+Cabo Verde,June,40.99,37.92
+Egypt,August,30.45,41.73
+Eritrea,May,42.61,28.62
+Sudan,June,40.98,66.32
+Namibia,August,46.09,84.65
+Zimbabwe,July,45.09,84.33
+Uganda,June,26.59,18.2
+Eritrea,May,21.8,37.89
+Eritrea,May,27.39,18.48
+Algeria,August,23.76,38.66
+Libya,July,48.57,63.08
+Gabon,August,33.28,75.05
+Kenya,August,30.68,47.9
+Mozambique,August,31.21,37.14
+Gabon,May,21.7,39.81
+Guinea,July,31.3,56.84
+Benin,June,46.09,45.85
+Senegal,July,21.55,44.15
+Botswana,August,24.42,18.07
+Tunisia,July,28.18,51.61
+Burundi,July,21.0,44.86
+Sudan,June,47.37,22.78
+Somalia,May,24.89,60.31
+Somalia,August,27.2,10.29
+Comoros,June,21.5,86.4
+Morocco,July,31.49,47.52
+Congo,August,30.77,45.73
+Ivory Coast,August,22.82,53.76
+Niger,August,47.69,31.84
+Mali,August,35.69,67.46
+Mali,June,23.95,55.06
+Congo,May,39.32,67.66
+Eswatini,May,42.02,29.16
+Benin,May,22.9,71.18
+Senegal,August,21.93,36.17
+Malawi,May,47.56,63.64
+Angola,July,48.59,46.66
+Egypt,August,22.72,84.21
+Libya,June,29.27,15.71
+Sao Tome and Principe,July,45.66,30.06
+Burundi,July,40.02,89.97
+Tanzania,August,45.67,47.2
+Angola,July,31.97,40.53
+Madagascar,May,26.15,84.89
+Cabo Verde,July,36.78,86.74
+Burkina Faso,August,33.2,68.61
+Tunisia,May,26.79,61.26
+Uganda,August,37.23,88.81
+South Africa,May,39.97,64.69
+Rwanda,May,21.62,89.98
+Liberia,June,48.08,34.57
+Sudan,July,24.55,48.37
+Comoros,May,26.58,23.75
+Gambia,June,31.26,12.91
+Cameroon,August,23.45,41.55
+Madagascar,July,29.57,81.46
+Ethiopia,July,47.17,50.43
+Senegal,May,47.37,58.9
+Nigeria,August,33.72,12.74
+South Sudan,July,31.94,44.59
+Namibia,May,36.3,87.7
+Seychelles,June,36.64,45.78
+Eswatini,August,37.09,12.11
+Central African Republic,August,20.14,83.73
+Congo,June,43.25,54.29
+Guinea,May,35.68,20.16
+Cameroon,May,21.49,72.43
+Gambia,May,30.29,19.87
+Zambia,July,38.08,21.95
+Morocco,May,30.12,67.92
+Seychelles,July,49.05,76.6
+Djibouti,June,31.13,64.11
+Gabon,August,32.43,14.68
+Guinea,July,20.55,73.85
+Cameroon,August,36.63,47.7
+Rwanda,August,40.87,43.98
+Mozambique,May,34.43,81.69
+Tunisia,August,30.25,74.39
+Nigeria,May,29.44,58.64
+Democratic Republic of the Congo,May,25.41,88.09
+Sudan,August,40.7,66.29
+Rwanda,June,48.96,65.6
+Madagascar,July,27.99,31.7
+Guinea,May,41.31,86.85
+Burundi,May,42.26,38.26
+Ghana,June,43.18,68.0
+Rwanda,May,34.4,55.01
+Egypt,June,29.49,41.33
+Zimbabwe,August,27.36,80.98
+Gambia,June,38.5,17.02
+Malawi,June,46.97,31.86
+Zambia,August,28.25,73.86
+Zimbabwe,August,41.63,88.83
+Burkina Faso,July,42.62,59.54
+Niger,August,38.02,54.85
+Lesotho,June,26.84,78.71
+Gabon,June,42.75,21.19
+Eritrea,July,21.53,75.12
+Comoros,July,39.2,50.48
+Zimbabwe,July,49.77,25.31
+Ethiopia,August,35.23,72.34
+Zambia,June,23.29,71.34
+Ivory Coast,May,24.58,73.11
+Mali,July,28.76,78.63
+Ivory Coast,August,25.65,24.05
+Ivory Coast,May,22.56,21.14
+Eritrea,June,43.68,52.44
+Angola,August,21.8,79.54
+Guinea-Bissau,July,48.09,46.29
+Mauritania,May,24.87,39.54
+Comoros,July,47.23,55.62
+Eritrea,May,43.05,47.5
+Djibouti,June,41.48,47.66
+Somalia,June,33.31,82.0
+Zambia,August,49.54,80.82
+Senegal,August,41.14,21.36
+Liberia,August,41.23,71.0
+Lesotho,July,37.48,11.08
+Madagascar,May,24.92,36.49
+Ethiopia,July,23.02,62.89
+Central African Republic,August,20.02,66.63
+Tanzania,May,25.43,47.41
+Gambia,July,49.97,26.4
+Tunisia,May,45.67,70.33
+Ghana,June,33.84,45.36
+Niger,August,22.68,35.51
+Egypt,August,45.46,40.57
+Somalia,August,33.73,75.02
+Ivory Coast,July,40.48,14.25
+Ivory Coast,June,23.16,74.18
+Ivory Coast,May,43.39,67.69
+Central African Republic,June,36.4,40.94
+Gabon,May,26.14,82.48
+Ethiopia,August,31.06,81.46
+Gambia,July,35.3,33.69
+Liberia,July,25.73,50.35
+Mauritius,August,32.95,43.02
+Sudan,June,47.37,22.78
+Eritrea,May,39.37,15.88
+Eswatini,July,27.78,81.12
+Mozambique,July,43.54,44.57
+Burundi,June,42.01,65.78
+Mauritius,August,45.71,36.52
+Niger,August,22.68,35.51
+Cabo Verde,July,45.48,69.66
+Democratic Republic of the Congo,July,48.35,23.59
+Libya,May,37.83,25.64
+Uganda,May,46.84,79.63
+Zambia,July,21.27,73.86
+Guinea,July,27.26,71.34
+Madagascar,July,46.85,86.31
+Namibia,August,24.85,44.31
+Botswana,May,35.25,75.32
+Eritrea,August,39.7,70.85
+Algeria,May,23.07,21.88
+Democratic Republic of the Congo,May,36.22,26.91
+South Sudan,June,49.26,86.19
+Senegal,May,40.84,77.72
+South Africa,July,37.86,59.79
+Democratic Republic of the Congo,July,25.41,78.2
+Equatorial Guinea,August,22.52,79.63
+Malawi,August,47.11,85.56
+Madagascar,August,49.72,45.79
+Zimbabwe,August,40.67,58.1
+Gambia,May,23.8,40.37
+Libya,June,49.11,25.86
+Equatorial Guinea,May,38.22,73.96
+Benin,May,37.52,61.41
+Mauritania,May,49.33,73.38
+Eritrea,July,34.14,19.96
+Equatorial Guinea,June,27.23,79.47
+Chad,May,27.63,67.91
+Botswana,June,21.57,35.35
+Seychelles,June,39.92,42.53
+Gabon,August,23.53,15.16
+Ethiopia,May,49.27,12.25
+Togo,July,33.99,71.97
+Niger,May,28.55,63.97
+Angola,May,38.44,23.48
+Lesotho,June,21.87,29.6
+Comoros,July,32.26,26.2
+Liberia,August,20.69,87.05
+Djibouti,May,42.72,44.23
+Nigeria,July,44.04,16.6
+Algeria,July,37.38,27.27
+Egypt,August,46.0,87.9
+Comoros,June,21.5,86.4
+Chad,July,35.74,69.97
+Djibouti,August,49.29,69.76
+South Sudan,May,40.87,44.99
+Niger,July,22.52,59.68
+Ethiopia,May,33.61,74.21
+Seychelles,July,21.68,56.72
+Algeria,May,30.34,29.21
+Cabo Verde,May,41.28,54.88
+Nigeria,May,24.93,85.04
+Zimbabwe,May,47.85,18.05
+Kenya,May,24.04,30.02
+Mauritania,May,21.07,19.02
+Tunisia,August,27.13,45.75
+Ghana,June,26.94,64.12
+Guinea,July,29.44,57.69
+Guinea-Bissau,May,37.22,88.63
+Mozambique,May,37.32,65.46
+Togo,August,28.55,29.12
+Seychelles,June,36.69,54.32
+Gambia,June,34.56,21.39
+Ivory Coast,July,27.51,48.59
+Mali,August,42.1,86.99
+Namibia,July,30.09,74.59
+Malawi,July,28.3,83.34
+Burkina Faso,August,35.83,14.46
+Liberia,July,47.69,32.1
+Mali,June,42.85,83.76
+Malawi,July,47.02,45.3
+Somalia,August,28.59,58.33
+Gambia,June,39.31,75.24
+Nigeria,July,33.44,25.15
+Guinea,June,32.03,79.21
+Eswatini,May,40.21,52.51
+Lesotho,July,30.8,79.97
+Guinea-Bissau,July,30.74,28.58
+Benin,May,27.91,10.75
+Guinea-Bissau,June,42.64,12.92
+Zimbabwe,August,40.33,85.14
+Seychelles,June,32.05,56.46
+Seychelles,June,36.69,54.32
+Nigeria,May,29.44,58.64
+Liberia,August,41.23,71.0
+Benin,August,42.64,62.02
+Cameroon,July,23.52,51.09
+Zimbabwe,May,47.3,52.74
+Congo,July,37.22,35.5
+South Sudan,May,40.87,44.99
+Central African Republic,June,38.41,66.07
+Togo,May,31.34,41.74
+Eswatini,May,21.7,36.27
+Congo,May,24.01,54.41
+Morocco,August,35.85,68.66
+Central African Republic,May,46.61,64.15
+Comoros,August,45.27,21.16
+Guinea,August,43.42,58.56
+Cabo Verde,May,29.35,53.98
+Morocco,July,48.09,46.16
+Democratic Republic of the Congo,May,28.18,73.96
+Mauritania,June,42.45,62.81
+South Africa,July,38.98,74.86
+Botswana,August,32.29,60.94
+Niger,June,30.05,89.89
+Cabo Verde,August,45.93,65.09
+Democratic Republic of the Congo,May,34.44,69.64
+Sao Tome and Principe,May,22.21,66.07
+Libya,May,40.5,43.35
+Mauritius,May,45.76,26.82
+Togo,June,31.31,49.45
+Ethiopia,May,49.72,19.41
+Eritrea,May,45.32,45.37
+Morocco,July,34.42,50.96
+Democratic Republic of the Congo,June,23.84,76.86
+Ethiopia,July,38.23,34.9
+Benin,August,49.36,53.7
+Mali,August,33.37,44.07
+Tunisia,May,22.78,53.13
+Guinea,May,21.68,81.49
+Tanzania,June,45.97,45.87
+Burundi,August,34.28,57.58
+Libya,May,33.62,56.63
+Equatorial Guinea,June,31.67,54.24
+Burkina Faso,July,27.98,53.91
+Congo,May,37.99,85.25
+Eritrea,May,29.4,52.96
+Cameroon,August,32.29,55.39
+Chad,August,34.06,38.65
+Eswatini,May,48.82,13.25
+Niger,June,39.23,15.87
+Zambia,July,38.89,68.77
+Mali,July,26.15,73.04
+Zambia,August,23.64,50.22
+Uganda,May,40.41,65.14
+Democratic Republic of the Congo,August,40.75,78.04
+Uganda,August,28.9,56.76
+Lesotho,May,22.38,48.49
+South Africa,August,28.98,16.8
+Algeria,May,48.5,26.56
+Tunisia,May,24.69,77.63
+Comoros,July,32.26,26.2
+Angola,May,40.76,19.34
+Uganda,July,36.92,65.56
+Seychelles,July,37.07,60.98
+Guinea-Bissau,August,22.02,85.17
+Seychelles,August,34.78,27.45
+Zambia,August,32.19,61.15
+Somalia,August,45.49,12.75
+Ethiopia,June,28.08,61.49
+Sudan,August,20.51,12.41
+Ethiopia,May,33.42,19.8
+Somalia,June,32.21,38.67
+Sierra Leone,May,39.65,32.75
+Senegal,June,49.84,65.97
+Morocco,May,47.27,55.36
+Democratic Republic of the Congo,June,38.49,27.55
+Egypt,June,40.58,40.25
+Ghana,June,39.86,39.37
+Equatorial Guinea,July,37.95,20.52
+Djibouti,August,48.33,33.15
+Mauritania,August,46.89,72.41
+Democratic Republic of the Congo,May,25.41,88.09
+Tanzania,July,37.8,41.94
+Guinea,June,26.27,72.96
+Gambia,May,41.21,38.36
+Democratic Republic of the Congo,May,24.4,14.34
+Malawi,June,38.76,41.45
+Gabon,July,45.2,33.55
+Morocco,July,25.21,43.54
+Zambia,July,24.85,70.73
+Guinea-Bissau,July,30.76,83.88
+Cameroon,July,35.53,54.19
+Ivory Coast,June,23.16,74.18
+Egypt,July,47.5,14.3
+Malawi,July,33.11,40.38
+Ghana,August,44.8,24.98
+Comoros,May,34.74,51.81
+Equatorial Guinea,May,37.39,51.99
+Libya,August,25.01,63.12
+Kenya,August,40.68,60.53
+Morocco,June,30.73,34.8
+Kenya,August,25.16,79.46
+Eritrea,June,24.67,32.4
+Tunisia,August,21.56,65.3
+Mali,July,30.88,57.15
+Democratic Republic of the Congo,May,39.35,44.56
+Lesotho,June,30.08,78.92
+Gabon,August,40.42,61.5
+Guinea-Bissau,August,35.55,12.74
+Gabon,May,30.47,42.95
+Togo,August,38.43,17.8
+Mali,June,23.95,55.06
+Senegal,July,28.3,54.38
+Mozambique,July,41.56,45.12
+Lesotho,July,35.25,38.37
+Gambia,July,39.13,22.13
+Comoros,June,43.77,34.77
+Central African Republic,August,40.18,75.32
+Lesotho,July,43.58,76.98
+Ethiopia,August,44.57,75.14
+Egypt,August,40.91,17.9
+Uganda,May,21.53,72.91
+Rwanda,May,35.3,33.9
+Kenya,August,47.16,48.45
+Namibia,July,48.72,62.14
+Somalia,May,24.71,26.52
+Morocco,June,42.15,80.47
+Djibouti,June,41.53,65.42
+Sudan,August,43.4,81.0
+Burkina Faso,July,49.29,83.91
+Guinea-Bissau,August,22.02,85.17
+Tunisia,August,38.54,40.21
+Benin,July,37.31,66.38
+Algeria,July,35.65,74.34
+Central African Republic,July,29.36,77.41
+Senegal,June,20.8,37.48
+Mauritania,June,31.58,27.63
+Mauritania,May,37.21,57.19
+Tanzania,May,35.26,58.14
+Mozambique,August,29.41,84.37
+Rwanda,June,41.26,50.36
+Ghana,August,20.68,88.53
+Zimbabwe,May,21.58,48.57
+Benin,August,26.01,28.85
+Burundi,May,26.93,35.21
+Nigeria,May,44.08,10.58
+Togo,June,31.3,68.79
+Congo,August,21.58,23.47
+Cabo Verde,May,21.08,84.1
+Malawi,June,26.58,23.05
+Lesotho,May,34.97,24.32
+Ivory Coast,July,41.38,52.57
+Namibia,August,36.74,69.86
+South Sudan,August,41.13,14.12
+Eswatini,June,46.07,10.78
+Guinea-Bissau,June,48.71,79.15
+Burundi,June,21.69,84.2
+Sao Tome and Principe,June,45.64,45.95
+Tanzania,June,30.61,83.61
+Mozambique,July,48.27,77.07
+Kenya,May,34.6,26.38
+Liberia,July,42.68,33.96
+Liberia,May,21.66,60.04
+Senegal,August,49.43,10.91
+Liberia,May,39.09,14.46
+Mauritius,May,48.81,49.9
+Ghana,May,39.02,36.86
+Senegal,July,29.14,26.11
+Morocco,May,31.83,65.49
+Morocco,June,33.29,45.95
+Eswatini,June,47.88,79.87
+Mali,May,41.64,27.36
+Ghana,August,46.5,44.79
+Togo,May,44.55,39.54
+Mali,May,41.91,37.81
+Benin,June,30.54,75.38
+Namibia,August,41.72,30.7
+Botswana,May,49.74,23.41
+Sudan,June,40.98,66.32
+Gabon,June,32.17,30.77
+Chad,August,27.59,50.67
+Congo,May,26.3,44.06
+South Africa,May,43.02,71.5
+Lesotho,August,41.87,44.29
+Burkina Faso,June,42.53,12.41
+Nigeria,May,33.74,64.87
+Tunisia,June,23.39,58.17
+Ivory Coast,August,38.66,68.52
+Ivory Coast,May,38.83,79.14
+Cameroon,July,39.4,19.77
+Guinea-Bissau,August,44.71,58.8
+Liberia,July,23.32,16.65
+Equatorial Guinea,May,35.81,25.05
+Benin,May,40.17,42.71
+South Africa,August,34.69,11.59
+Guinea-Bissau,May,38.95,80.65
+Mozambique,July,39.94,14.26
+Egypt,July,29.95,75.48
+Mali,May,32.47,60.74
+Cabo Verde,July,46.94,42.42
+Uganda,July,47.29,52.06
+Morocco,June,39.35,79.4
+Liberia,August,23.88,68.1
+Mali,July,30.53,22.0
+Morocco,May,28.36,44.07
+Uganda,May,42.87,10.89
+South Sudan,May,43.03,84.87
+Guinea,June,35.54,63.03
+Burkina Faso,August,22.45,32.3
+Rwanda,May,35.3,33.9
+Cabo Verde,June,38.42,65.65
+Uganda,June,36.05,29.59
+Uganda,August,40.94,20.39
+Morocco,July,46.91,75.56
+Tanzania,June,44.1,58.19
+Lesotho,May,28.27,48.55
+Burundi,August,26.66,60.16
+Equatorial Guinea,July,29.54,71.79
+Congo,July,28.61,77.18
+Zambia,June,42.89,75.22
+Ethiopia,June,25.05,23.01
+Gambia,July,49.97,26.4
+South Africa,July,20.82,13.71
+Zambia,May,20.01,82.57
+Nigeria,June,49.5,14.01
+Zambia,June,33.66,84.43
+Nigeria,July,32.2,32.94
+Tunisia,August,42.77,19.78
+Uganda,July,35.98,42.31
+Democratic Republic of the Congo,August,24.65,68.26
+Burkina Faso,August,34.62,65.77
+Niger,August,34.99,17.87
+Morocco,July,36.95,45.18
+Rwanda,May,33.33,38.8
+Algeria,June,43.42,81.64
+Liberia,May,42.5,82.88
+Guinea,June,26.77,88.43
+Chad,June,49.43,24.47
+Eswatini,June,26.58,31.28
+Central African Republic,May,26.53,75.31
+Tanzania,June,48.35,38.75
+Guinea,August,28.41,37.92
+Namibia,August,33.39,78.47
+Cabo Verde,June,38.42,65.65
+Kenya,July,37.08,60.54
+Morocco,August,37.99,64.91
+Guinea-Bissau,June,34.62,42.82
+Botswana,August,29.72,31.63
+Morocco,July,35.0,16.24
+Lesotho,May,46.73,70.18
+Kenya,May,29.4,63.5
+Liberia,May,20.88,47.64
+South Sudan,July,24.52,86.3
+Mozambique,August,49.82,13.65
+Ethiopia,July,47.33,56.92
+Cameroon,May,21.49,72.43
+Equatorial Guinea,May,34.29,54.57
+Central African Republic,June,36.55,29.81
+Mali,May,32.41,11.86
+Central African Republic,June,21.97,69.87
+Ivory Coast,May,23.85,46.1
+Guinea-Bissau,August,47.05,60.06
+Tanzania,June,37.7,11.43
+Lesotho,May,22.38,48.49
+Algeria,July,28.35,54.88
+Senegal,May,22.88,70.13
+Sierra Leone,May,42.54,73.79
+Sao Tome and Principe,May,48.99,75.82
+Tanzania,August,49.11,12.96
+Ethiopia,July,49.6,15.83
+Sierra Leone,May,22.23,33.54
+Seychelles,July,39.63,84.79
+Algeria,July,27.65,78.13
+Uganda,August,21.04,26.11
+Sierra Leone,August,34.8,72.9
+Djibouti,June,27.71,78.53
+Central African Republic,August,45.78,84.05
+Guinea,August,44.18,26.29
+Guinea,May,43.59,15.82
+Chad,July,40.92,87.36
+Tunisia,May,42.34,48.48
+Mauritania,August,49.98,25.16
+Central African Republic,July,42.64,75.35
+Guinea,July,29.44,57.69
+Madagascar,July,28.45,58.08
+Egypt,August,27.75,44.79
+Liberia,August,36.05,53.24
+Burundi,July,21.0,44.86
+Algeria,August,40.64,53.5
+Seychelles,August,39.03,40.24
+Gambia,August,46.56,26.23
+Libya,July,48.57,63.08
+Chad,May,34.87,17.52
+Zimbabwe,August,23.89,51.86
+Congo,June,25.05,11.16
+Cabo Verde,July,49.29,80.04
+Senegal,July,20.63,22.92
+Rwanda,May,43.15,72.97
+Sao Tome and Principe,June,48.12,61.73
+Angola,July,40.91,46.24
+Tunisia,July,40.8,65.98
+Ghana,July,30.04,17.72
+Mauritius,August,24.3,84.51
+Mauritius,July,43.92,15.28
+Botswana,May,29.07,75.32
+Sierra Leone,August,39.91,80.77
+Sudan,July,32.95,28.57
+Uganda,May,22.1,22.31
+Niger,May,33.41,81.5
+Niger,May,31.29,30.58
+Libya,August,20.5,76.05
+South Sudan,May,25.58,88.76
+Tunisia,May,35.1,13.89
+Sao Tome and Principe,July,37.73,86.55
+Zambia,July,26.28,53.61
+Sao Tome and Principe,June,34.07,89.32
+Kenya,May,29.4,63.5
+Mauritania,June,34.65,81.47
+Gabon,July,27.64,48.38
+Benin,August,28.53,48.17
+Uganda,July,20.66,21.15
+Benin,June,36.22,25.9
+Zambia,May,42.68,58.97
+Seychelles,August,26.31,39.17
+Ethiopia,August,42.68,82.81
+Sao Tome and Principe,May,37.07,48.91
+Madagascar,June,48.47,25.04
+Congo,July,41.41,48.03
+Uganda,July,32.02,50.1
+Democratic Republic of the Congo,August,40.75,78.04
+Tanzania,August,23.26,52.11
+Comoros,May,26.42,87.4
+Algeria,May,20.52,60.1
+Zambia,August,32.19,61.15
+Botswana,May,22.57,52.18
+Ethiopia,August,24.93,17.17
+Angola,August,48.24,46.34
+Niger,July,30.18,76.24
+Chad,August,32.0,61.05
+Comoros,June,38.88,84.63
+Sudan,June,49.92,85.77
+Eswatini,July,28.07,46.42
+Morocco,May,41.18,41.33
+Egypt,August,33.18,64.24
+Nigeria,May,33.08,83.03
+Uganda,August,26.67,42.07
+Comoros,June,32.48,18.74
+Tunisia,July,25.64,55.76
+Botswana,May,37.85,51.21
+Seychelles,July,25.12,12.07
+Lesotho,July,37.48,11.08
+Eswatini,July,28.07,46.42
+Madagascar,July,31.03,75.81
+Zimbabwe,July,40.63,70.06
+Sao Tome and Principe,June,41.95,52.47
+Chad,July,30.43,64.04
+Democratic Republic of the Congo,May,29.39,14.16
+Ghana,August,45.83,35.43
+Libya,June,30.89,56.63
+Burundi,August,22.52,46.62
+Guinea,July,29.44,57.69
+Comoros,August,42.38,12.48
+Congo,August,21.54,31.15
+Central African Republic,May,31.98,27.17
+Congo,July,37.8,27.97
+Tanzania,June,45.97,45.87
+Democratic Republic of the Congo,May,32.57,58.46
+Burundi,August,48.89,38.59
+Guinea,August,27.9,19.35
+Cameroon,August,47.66,85.21
+Mali,June,40.94,85.83
+Eswatini,May,42.91,86.19
+Mozambique,July,24.76,53.24
+Zimbabwe,June,34.38,29.73
+Mauritius,May,45.67,63.27
+Cameroon,August,20.29,71.51
+Ivory Coast,May,25.91,65.18
+Burkina Faso,June,44.64,42.56
+Mauritius,May,28.81,46.96
+Algeria,June,44.86,15.02
+Mauritius,August,42.03,66.64
+Cameroon,August,32.29,55.39
+Nigeria,August,46.58,66.79
+Libya,May,38.58,37.55
+Somalia,July,42.09,40.26
+Comoros,August,42.02,69.87
+Sierra Leone,May,22.23,33.54
+Rwanda,August,29.19,70.16
+Namibia,August,36.74,69.86
+South Sudan,July,34.21,38.24
+Mauritania,June,40.26,80.95
+Botswana,June,49.32,32.74
+Central African Republic,July,41.13,43.15
+Central African Republic,June,21.21,49.09
+Zambia,May,26.81,30.66
+Sao Tome and Principe,May,37.07,48.91
+Kenya,June,25.65,75.59
+Congo,June,29.08,21.48
+Lesotho,July,32.03,40.81
+Zambia,July,21.27,73.86
+Eswatini,August,38.89,70.98
+Angola,June,25.78,28.98
+Namibia,August,32.62,45.33
+Ivory Coast,July,41.86,80.25
+Sierra Leone,July,43.9,64.19
+Democratic Republic of the Congo,June,40.59,67.16
+Sao Tome and Principe,August,40.55,36.86
+Gabon,June,40.72,54.54
+Mauritius,May,28.81,46.96
+Democratic Republic of the Congo,July,20.19,17.53
+Tunisia,August,22.82,83.35
+Nigeria,July,44.04,16.6
+Sudan,June,38.66,35.26
+Malawi,June,25.62,61.52
+Burkina Faso,May,21.94,78.49
+Chad,May,49.67,14.58
+Mauritania,July,26.39,31.83
+Eswatini,August,44.61,31.27
+Botswana,June,31.25,12.6
+Zimbabwe,July,33.44,33.99
+Eritrea,May,45.15,53.66
+Rwanda,June,26.52,14.13
+Benin,May,28.16,23.91
+Angola,August,45.77,16.87
+Somalia,August,45.49,12.75
+Niger,August,34.99,17.87
+Sudan,August,40.7,66.29
+Uganda,August,28.32,31.64
+Nigeria,May,40.43,33.19
+Namibia,August,21.72,48.6
+Zimbabwe,July,40.63,70.06
+Comoros,June,48.72,39.23
+Congo,June,36.59,82.09
+Tunisia,July,43.83,28.32
+Democratic Republic of the Congo,May,28.18,73.96
+Senegal,May,23.29,14.99
+Niger,June,44.64,63.9
+Namibia,August,21.72,48.6
+Guinea,July,49.99,45.68
+Central African Republic,June,44.51,59.72
+Mali,July,22.05,48.79
+Eswatini,June,29.54,82.73
+Ghana,June,43.18,68.0
+Tanzania,June,48.35,38.75
+Gambia,June,32.54,30.86
+Djibouti,June,39.91,19.3
+Botswana,May,29.07,75.32
+Morocco,July,41.56,88.11
+Tanzania,May,31.4,15.73
+Sudan,May,39.04,89.69
+Sudan,June,47.37,22.78
+Ivory Coast,May,38.83,79.14
+Tanzania,June,34.29,15.54
+Malawi,June,24.68,46.45
+Eritrea,May,21.8,37.89
+Botswana,May,22.57,52.18
+Namibia,May,37.2,20.71
+Comoros,July,38.38,39.79
+Sudan,August,39.63,50.89
+Namibia,May,27.83,56.1
+Seychelles,June,43.18,66.12
+Gabon,June,32.15,75.8
+Botswana,August,32.9,16.31
+Madagascar,June,36.37,51.77
+Angola,August,21.8,79.54
+Morocco,June,47.65,83.43
+Namibia,May,44.71,74.68
+Gambia,May,23.86,68.4
+Burundi,May,40.21,41.49
+South Sudan,June,49.56,49.88
+Tanzania,June,21.88,55.82
+Central African Republic,July,31.49,51.02
+Sudan,May,21.93,62.53
+Botswana,June,23.76,33.66
+Namibia,July,34.83,15.89
+Senegal,July,44.71,56.0
+Guinea-Bissau,August,20.27,42.06
+Senegal,July,44.04,63.25
+Kenya,July,37.67,25.41
+South Sudan,August,28.39,13.92
+Liberia,August,20.69,87.05
+Tunisia,August,38.33,29.59
+Egypt,July,27.16,15.41
+Tunisia,August,41.54,73.36
+Namibia,July,22.32,23.29
+Ivory Coast,August,43.2,71.87
+Guinea,June,20.04,15.0
+Liberia,August,39.49,57.51
+Tunisia,August,40.02,33.53
+Comoros,June,23.17,44.85
+Sierra Leone,May,20.59,61.46
+Mauritania,May,20.62,22.68
+Senegal,July,38.97,49.05
+Somalia,June,33.31,82.0
+Senegal,May,36.2,78.25
+Senegal,July,21.55,44.15
+Mauritius,June,24.35,17.27
+South Africa,July,35.6,69.3
+Lesotho,May,25.27,64.66
+Chad,June,38.18,79.23
+Eritrea,August,26.08,47.29
+Madagascar,July,31.03,75.81
+Tanzania,May,21.32,22.94
+Gambia,May,29.53,19.05
+Tunisia,July,21.22,49.28
+Mauritius,May,42.75,76.23
+Congo,June,40.31,36.11
+Gabon,August,36.96,80.26
+Guinea-Bissau,August,46.82,86.56
+Mali,June,30.63,75.36
+Lesotho,August,30.4,28.67
+Tunisia,August,45.48,30.93
+Nigeria,May,24.93,85.04
+South Sudan,June,29.82,34.29
+Sudan,June,39.14,43.5
+Egypt,July,27.16,15.41
+Ghana,August,48.28,37.57
+Sao Tome and Principe,July,37.95,51.93
+Seychelles,June,21.04,68.63
+Sudan,May,31.86,14.3
+Rwanda,July,25.48,57.5
+Eswatini,July,42.76,46.96
+Guinea-Bissau,May,45.11,63.87
+Rwanda,August,37.83,33.73
+Central African Republic,May,20.61,49.13
+Sierra Leone,August,30.7,82.92
+Ethiopia,August,26.23,37.79
+Burkina Faso,July,24.84,21.6
+Seychelles,June,47.23,55.6
+Democratic Republic of the Congo,May,29.39,14.16
+Lesotho,July,37.48,11.08
+Morocco,July,21.97,54.98
+Guinea-Bissau,August,47.15,48.39
+Guinea,June,38.93,56.68
+Cabo Verde,July,26.39,57.47
+Burkina Faso,June,32.17,18.22
+Gabon,June,32.15,75.8
+Equatorial Guinea,June,34.57,28.43
+Niger,July,31.87,29.27
+Guinea-Bissau,July,25.41,15.73
+Niger,August,36.47,68.76
+Egypt,July,21.15,31.07
+Kenya,May,37.91,70.1
+Egypt,June,45.46,49.6
+Togo,June,29.55,58.92
+Eritrea,August,36.32,21.32
+South Africa,June,47.47,44.68
+Nigeria,June,49.5,14.01
+Algeria,June,41.77,71.27
+Ethiopia,August,35.58,33.66
+Nigeria,July,37.45,67.22
+Togo,August,34.91,45.14
+Central African Republic,July,25.25,70.48
+Chad,August,36.69,72.67
+Kenya,May,29.59,27.02
+Ethiopia,June,26.06,87.06
+Burkina Faso,July,48.83,70.12
+Uganda,August,27.83,56.67
+Morocco,August,35.85,68.66
+Zambia,June,33.22,80.98
+Kenya,August,47.16,48.45
+Mozambique,July,45.78,29.56
+Mauritania,June,49.04,59.72
+Rwanda,August,40.87,43.98
+Ivory Coast,May,39.08,49.13
+Angola,August,45.77,16.87
+Gabon,May,41.94,56.02
+Liberia,August,28.17,48.43
+Sierra Leone,August,42.75,73.31
+Tanzania,June,38.89,20.14
+Burkina Faso,May,34.08,81.56
+Ivory Coast,August,42.52,86.4
+Congo,June,33.25,48.95
+Sao Tome and Principe,June,34.81,42.93
+Malawi,July,49.77,66.23
+Comoros,July,47.23,55.62
+Guinea-Bissau,July,30.54,28.33
+Senegal,June,49.09,75.57
+Ghana,August,34.71,49.4
+Ethiopia,August,31.06,81.46
+Ghana,June,32.23,34.86
+Zambia,May,37.54,24.83
+Guinea-Bissau,July,39.68,33.29
+Somalia,May,42.82,85.45
+Togo,August,38.43,17.8
+South Africa,July,41.99,78.88
+Egypt,August,47.71,19.07
+Niger,August,28.96,47.71
+Cameroon,June,23.19,29.84
+Kenya,July,33.04,75.39
+Senegal,July,23.7,41.77
+Democratic Republic of the Congo,June,38.49,27.55
+Morocco,June,33.29,45.95
+Cabo Verde,May,41.28,54.88
+Equatorial Guinea,May,26.54,59.49
+Mauritania,June,30.32,46.9
+Senegal,August,35.32,70.58
+Togo,May,45.8,58.6
+Zambia,May,23.8,80.67
+Mauritius,June,37.63,58.03
+South Africa,June,49.92,38.2
+Tanzania,May,25.72,58.04
+Guinea-Bissau,August,46.82,86.56
+Nigeria,May,29.37,42.77
+Lesotho,June,38.57,20.45
+Burkina Faso,July,23.37,11.62
+Mali,May,38.7,74.82
+Zimbabwe,July,39.1,17.43
+Cabo Verde,June,27.71,76.1
+Malawi,July,34.3,37.37
+Eritrea,June,45.07,59.65
+Nigeria,June,20.12,39.64
+Uganda,June,43.47,74.15
+Uganda,May,22.1,22.31
+Mauritania,July,33.9,75.6
+Cabo Verde,July,36.78,86.74
+Central African Republic,June,45.08,38.7
+South Africa,August,25.17,30.86
+Sudan,June,31.38,13.13
+Equatorial Guinea,May,32.02,12.27
+Gambia,August,31.86,79.69
+Democratic Republic of the Congo,July,35.45,34.9
+Sudan,July,26.17,76.37
+Cabo Verde,July,46.6,32.65
+Egypt,August,38.03,17.01
+Rwanda,June,48.96,65.6
+Sierra Leone,May,43.27,84.01
+Chad,July,48.38,38.92
+Mozambique,August,37.08,77.12
+Ivory Coast,August,30.78,30.0
+Mauritania,August,22.46,37.37
+Botswana,June,31.25,12.6
+Gambia,August,40.3,13.15
+Gambia,August,38.11,82.86
+Togo,July,39.06,33.66
+Ivory Coast,June,47.24,85.5
+Mauritania,May,24.87,39.54
+Guinea,June,42.76,26.91
+Angola,July,40.91,46.24
+Togo,June,22.95,33.52
+Gabon,July,47.71,26.15
+Guinea-Bissau,July,44.59,18.54
+South Africa,August,36.06,12.06
+Angola,August,30.57,75.28
+Libya,May,32.48,20.15
+Namibia,June,43.6,37.73
+Cameroon,June,23.19,29.84
+Ghana,July,35.42,34.42
+Uganda,July,42.43,44.87
+Sudan,June,27.85,50.48
+Central African Republic,July,20.4,55.69
+Tunisia,August,33.03,81.05
+Guinea,May,41.31,86.85
+Madagascar,August,40.43,22.27
+Eswatini,May,20.48,57.23
+Mauritius,May,48.69,39.39
+South Africa,July,35.6,69.3
+Liberia,June,30.0,87.85
+Mauritius,May,48.57,83.03
+Equatorial Guinea,June,33.62,40.11
+Nigeria,June,45.55,22.75
+Guinea,July,48.7,68.78
+Madagascar,May,45.87,76.71
+Ivory Coast,July,21.22,76.14
+Senegal,May,22.88,70.13
+Ghana,June,43.43,10.47
+Madagascar,August,46.54,43.37
+Niger,June,39.42,60.12
+Somalia,August,45.83,25.0
+Benin,May,45.11,12.31
+Eswatini,July,29.09,54.02
+Congo,May,36.66,47.46
+Ethiopia,May,39.89,23.31
+Zambia,August,23.64,50.22
+South Africa,May,21.54,78.84
+Algeria,June,35.45,14.72
+Madagascar,May,27.82,63.61
+Namibia,July,23.31,74.94
+Mauritius,August,34.0,57.33
+Somalia,August,20.62,10.18
+Zambia,July,28.45,83.12
+Mauritania,June,41.51,80.64
+Mali,June,21.99,14.73
+Gambia,May,34.27,29.69
+Ivory Coast,May,27.13,40.01
+Ethiopia,August,39.78,76.1
+Morocco,August,40.25,46.08
+Eritrea,May,27.39,18.48
+Zambia,June,40.76,23.14
+Morocco,July,31.49,47.52
+Burundi,August,45.42,36.33
+Mozambique,July,20.62,55.76
+Libya,May,45.34,21.62
+Cabo Verde,June,45.51,10.42
+Zimbabwe,May,47.2,24.52
+Cabo Verde,August,29.1,62.8
+Madagascar,May,35.1,45.09
+Gabon,June,40.72,54.54
+Botswana,June,41.75,21.67
+Ethiopia,July,29.39,73.08
+Benin,July,39.95,24.85
+Namibia,July,47.25,42.53
+Zimbabwe,June,39.75,14.53
+Sao Tome and Principe,August,32.6,32.35
+Ethiopia,July,34.14,27.98
+Madagascar,August,20.89,58.62
+Liberia,July,20.93,26.87
+Cameroon,July,39.56,72.3
+Somalia,June,33.31,82.0
+Sudan,June,21.03,10.42
+Chad,August,27.41,65.68
+South Africa,August,36.06,12.06
+Sierra Leone,July,43.2,39.35
+Libya,August,20.5,76.05
+Burundi,June,42.01,65.78
+South Africa,May,29.89,41.8
+Central African Republic,June,40.88,74.17
+Cabo Verde,May,42.5,71.78
+Algeria,July,21.43,20.43
+Eritrea,June,41.38,39.86
+Zambia,July,28.48,74.13
+Comoros,May,20.77,42.68
